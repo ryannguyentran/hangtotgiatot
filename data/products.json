@@ -1,0 +1,163 @@
+{
+ "categories": [
+  {
+   "id": "nha-bep",
+   "name": "Nhà bếp & Gia dụng"
+  },
+  {
+   "id": "me-be",
+   "name": "Mẹ & Bé"
+  },
+  {
+   "id": "suc-khoe",
+   "name": "Sức khỏe & Chăm sóc cá nhân"
+  },
+  {
+   "id": "dien-tu",
+   "name": "Điện tử & Phụ kiện"
+  },
+  {
+   "id": "khac",
+   "name": "Khác"
+  }
+ ],
+ "products": [
+  {
+   "aff_link": "https://s.shopee.vn/gRLx0g2ze",
+   "category": "suc-khoe",
+   "description": "Máy tăm nước vệ sinh răng miệng với tia nước siêu mềm 0,6mm, 3 chế độ Weak / Strong / Pulse giúp làm sạch mảng bám và thức ăn kẹt kẽ răng. Bình chứa 220ml, kèm 4 đầu tăm và cáp sạc USB, nhỏ gọn mang đi du lịch, bảo hành 6 tháng. Lưu ý: bình 220ml dùng kỹ có thể phải châm thêm giữa chừng; nướu nhạy cảm nên bắt đầu ở chế độ Weak.",
+   "image": "img/may-tam-nuoc-hamani.jpg",
+   "name": "Máy tăm nước HAMANI 3 chế độ",
+   "posted": "Đăng Page Facebook 13/11/2026",
+   "price": 172000,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá sau Voucher Shopee giảm 20% (giá shop 215.000đ, gốc 300.000đ), kiểm chứng trong app Shopee ngày 13/11/2026.",
+   "slug": "may-tam-nuoc-hamani"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/2LZdX5L7Ta",
+   "category": "me-be",
+   "description": "Nhiệt kế đa năng đo nước pha sữa, thực phẩm và nước tắm cho bé: đầu dò thép không gỉ gập gọn, dải đo −50°C đến 300°C, màn hình LCD đọc nhanh, chuyển °C/°F bằng 1 nút bấm, bảo hành 12 tháng. Nhỏ gọn, bỏ túi mang theo tiện.",
+   "image": "img/nhiet-ke-sipanic-tp-606.jpg",
+   "name": "Nhiệt kế điện tử đa năng Sipanic TP-606",
+   "posted": "Đăng Page Facebook 13/11/2026",
+   "price": 167200,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá sau Voucher Shopee giảm 20% (giá shop 209.000đ, gốc 399.000đ), kiểm chứng trong app Shopee ngày 13/11/2026.",
+   "slug": "nhiet-ke-sipanic-tp-606"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/8AXREEOCsg",
+   "category": "nha-bep",
+   "description": "Bộ dao nhà bếp gồm dao chặt, dao thái, dao gọt, kéo, nạo, thớt và giá đựng. Lưỡi thép không gỉ có lớp kháng khuẩn, chống oxi hoá; cán nhựa lúa mạch chắc tay, chống trơn trượt. Lưu ý: lớp phủ màu trang trí nên tránh chà bằng búi sắt mạnh tay để giữ màu bền.",
+   "image": "img/bo-dao-lua-mach.jpg",
+   "name": "Bộ dao lúa mạch nhà bếp 6 món",
+   "posted": "Đăng Page Facebook 12/11/2026",
+   "price": 205000,
+   "price_checked": "2026-11-12",
+   "price_note": "Giá sau voucher Shopee giảm 20% (giá shop 255.000đ, gốc 378.000đ), kiểm chứng trong app Shopee đêm 11→12/11/2026.",
+   "slug": "bo-dao-lua-mach-nha-bep"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/1Lh421QpRo",
+   "category": "nha-bep",
+   "description": "Nồi chiên không dầu Lock&Lock Jumbo Plus Air Fryer dung tích 5.2L, 8 menu nấu sẵn, bảng điều khiển cảm ứng, có chế độ giữ ấm, kèm chảo nướng bánh 1,7L. Đánh giá 4,9/5 với hơn 8.700 lượt đánh giá trên Shopee Mall.",
+   "image": "img/noi-chien-locklock-ejf357.jpg",
+   "name": "Nồi chiên không dầu Lock&Lock EJF357 5.2L",
+   "posted": "Đăng Page Facebook 12/11/2026",
+   "price": 1493100,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá app sau ưu đãi đo lại ngày 13/11/2026 tại Lock&Lock Official Store (Shopee Mall); giá đăng Page ngày 12/11 là 1.491.840đ — giá có thể thay đổi theo đợt sale.",
+   "slug": "noi-chien-khong-dau-locklock-ejf357"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7fbAeGRzLD",
+   "category": "suc-khoe",
+   "description": "Cân điện tử Huawei Scale 3 kết nối Bluetooth, báo cáo 10 chỉ số cơ thể với công nghệ HUAWEI TruFit, màu trắng tuyết. Đánh giá 4,91/5 với hơn 1.700 lượt đánh giá tại cửa hàng chính hãng Huawei trên Shopee Mall.",
+   "image": "img/can-huawei-scale-3.jpg",
+   "name": "Cân sức khỏe Huawei Scale 3 Bluetooth Edition",
+   "posted": "Đăng Page Facebook 12/11/2026, clip review trên Facebook",
+   "price": 540000,
+   "price_checked": "2026-11-12",
+   "price_note": "Giá kiểm chứng trong app Shopee đêm 11→12/11/2026 tại Huawei Flagship Store (Shopee Mall), khớp giá niêm yết.",
+   "slug": "can-suc-khoe-huawei-scale-3"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/2BGE7Glvwi",
+   "category": "me-be",
+   "description": "Máy hút sữa Spectra 9 Plus có pin tích điện, hàng chính hãng, bảo hành 12 tháng. Đánh giá 4,92/5 với hơn 400 lượt đánh giá. Sản phẩm đã được giới thiệu trên Page và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-hut-sua-spectra-9-plus.jpg",
+   "name": "Máy hút sữa Spectra 9 Plus",
+   "posted": "Đăng Page Facebook 11/11/2026, clip Facebook 13/11/2026, Shopee Video",
+   "price": 2836890,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá app sau ưu đãi kiểm chứng ngày 13/11/2026 (Shopee Mall); giá đăng Page ngày 11/11 là 2.729.160đ — giá thay đổi theo đợt sale.",
+   "slug": "may-hut-sua-spectra-9-plus"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F116737290%2F27923978237&affiliate_id=17374300035&sub_id=----",
+   "category": "me-be",
+   "description": "Máy hút sữa đeo rảnh tay Momcozy S12 Pro với 3 chế độ (kích thích, massage và hỗn hợp), 9 cấp độ hút chỉnh theo cảm giác. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-hut-sua-momcozy-s12-pro.jpg",
+   "name": "Máy hút sữa Momcozy S12 Pro",
+   "posted": "Đăng Shopee Video + clip Facebook 13/11/2026",
+   "price": 3309926,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá niêm yết tại shop khi đăng Shopee Video ngày 13/11/2026 (chưa áp voucher) — mở Shopee để xem giá ưu đãi hiện tại.",
+   "slug": "may-hut-sua-momcozy-s12-pro"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/5VWpYm1wuW",
+   "category": "nha-bep",
+   "description": "Máy lau sàn không dây Dreame H12 Pro (mã HHR25A): hút khô và ướt 2 trong 1, con lăn tự giặt sau khi dùng. Lưu ý chọn đúng bản H12 Pro đời đầu khi mua — tránh nhầm với H12 Pro FlexReach hay H12 Dual có thông số khác. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
+   "image": "img/may-lau-nha-dreame-h12-pro.jpg",
+   "name": "Máy lau nhà không dây Dreame H12 Pro",
+   "posted": "Đăng Shopee Video + clip Facebook 12–13/11/2026",
+   "price": 8290000,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá niêm yết tại Dreame Official Store khi đăng Shopee Video ngày 13/11/2026 (chưa áp voucher) — mở Shopee để xem giá ưu đãi hiện tại.",
+   "slug": "may-lau-nha-dreame-h12-pro"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/5LDPMT2aFV",
+   "category": "nha-bep",
+   "description": "Máy lọc không khí Xiaomi Air Purifier 4 Lite (mã AC-M17-SC) cho phòng nhỏ, lọc bụi mịn PM2.5, có màn hình hiển thị chất lượng không khí. Lưu ý: nhiều listing gộp chung bản 4 / 4 Lite / 4 Pro / 4 Compact — khi mua nhớ chọn đúng phân loại Air Purifier 4 Lite. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
+   "image": "img/may-loc-khong-khi-xiaomi-purifier-4-lite.jpg",
+   "name": "Máy lọc không khí Xiaomi Air Purifier 4 Lite",
+   "posted": "Đăng Shopee Video + clip Facebook 12–13/11/2026",
+   "price": 2499000,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá niêm yết tại Xiaomi Official Store (Shopee Mall) khi đăng Shopee Video ngày 13/11/2026 (chưa áp voucher) — mở Shopee để xem giá ưu đãi hiện tại.",
+   "slug": "may-loc-khong-khi-xiaomi-purifier-4-lite"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/70LQnBtQ7K",
+   "category": "nha-bep",
+   "description": "Máy đánh trứng cầm tay Philips HR3705/20 chính hãng: công suất 300W, 5 tốc độ cộng chế độ Turbo, kèm 2 cặp que trộn và nhào bằng inox, thiết kế gọn nhẹ cầm lâu không mỏi. Đánh giá 4,91/5 với hơn 960 lượt đánh giá. Lưu ý: máy hợp đánh trứng, kem và trộn bột lỏng tại nhà; bột đặc số lượng lớn nên dùng máy trộn chuyên dụng.",
+   "image": "img/may-danh-trung-philips-hr3705.jpg",
+   "name": "Máy đánh trứng cầm tay Philips HR3705/20",
+   "posted": "Đăng clip Facebook 11/11/2026, Shopee Video",
+   "price": 668640,
+   "price_checked": "2026-11-08",
+   "price_note": "Giá sau voucher Shopee giảm 16% (gốc 815.000đ), kiểm chứng trong app Shopee ngày 08/11/2026 tại Philips Home Appliances Official Store (Shopee Mall).",
+   "slug": "may-danh-trung-philips-hr3705"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/70LTpvfHTH",
+   "category": "nha-bep",
+   "description": "Cân tiểu ly điện tử nhà bếp SF-400 định lượng từ 1g tới 10kg, phù hợp cân nguyên liệu làm bánh và nấu ăn cần độ chính xác tới từng gram. Khi mua nhớ chọn đúng phân loại SF-400 (1g–10kg) trong listing. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
+   "image": "img/can-bep-sf-400.jpg",
+   "name": "Cân bếp điện tử tiểu ly SF-400 (1g–10kg)",
+   "posted": "Đăng clip Facebook 12/11/2026, Shopee Video",
+   "price": 70000,
+   "price_checked": "2026-11-07",
+   "price_note": "Giá phân loại SF-400 kiểm chứng trong app Shopee ngày 07/11/2026 (giá gạch 139.000đ). Listing gộp nhiều dòng cân — khi mua chọn đúng phân loại SF-400 1g–10kg.",
+   "slug": "can-bep-dien-tu-sf-400"
+  }
+ ],
+ "site": {
+  "base_url": "https://ryannguyentran.github.io/hangtotgiatot/",
+  "name": "Hàng Tốt Giá Tốt",
+  "tagline": "Deal Shopee chọn lọc — giá đã kiểm chứng trong app Shopee"
+ }
+}
