@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ryannguyentran.github.io/hangtotgiatot/sitemap.xml
+Sitemap: https://hangtot.pages.dev/sitemap.xml
