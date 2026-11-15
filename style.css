@@ -23,8 +23,26 @@ select{padding:9px;border-radius:8px;border:1px solid #ccc;font-size:14px;backgr
 .cat{font-size:12px;color:#666}
 .btn{margin-top:auto;display:block;text-align:center;background:#ee4d2d;color:#fff;text-decoration:none;padding:11px;border-radius:9px;font-weight:600}
 .btn:active{opacity:.85}
+.btn.yt{background:#e62117}
+.card .btn{margin-top:0}
+.card .btn.shop{margin-top:auto}
 .detail{background:#fff;border-radius:12px;padding:16px;box-shadow:0 1px 4px rgba(0,0,0,.08)}
-.detail img{width:100%;max-width:520px;border-radius:10px;display:block}
+.detail .gmain{width:100%;max-width:520px;border-radius:10px;display:block}
+.thumbs{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+.thumbs img{width:72px;height:72px;object-fit:cover;border-radius:8px;cursor:pointer;border:2px solid #e3e3e3;background:#eee}
+.thumbs img.on{border-color:#ee4d2d}
+.pager{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:center;margin:16px 0 4px}
+.pager button{padding:9px 14px;border-radius:999px;border:1px solid #ddd;background:#fff;cursor:pointer;font-size:14px;font-weight:600}
+.pager button.on{background:#ee4d2d;color:#fff;border-color:#ee4d2d}
+.pager button:disabled{opacity:.4;cursor:default}
+.pager .dots{color:#888;padding:0 2px}
+.ytbanner{width:100%;border-radius:10px;display:block;margin:10px 0 4px}
+.cap{font-size:12px;color:#888;margin:2px 0 8px}
+.steps{display:grid;gap:10px;margin:10px 0}
+@media(min-width:700px){.steps{grid-template-columns:repeat(3,1fr)}}
+.step{background:#fff8f0;border:1px solid #ffd9c7;border-radius:10px;padding:12px}
+.step .n{display:inline-block;background:#ee4d2d;color:#fff;font-weight:800;border-radius:999px;width:26px;height:26px;line-height:26px;text-align:center;margin-bottom:6px}
+.step p{margin:0;font-size:14px;color:#444;line-height:1.55}
 .note{font-size:13px;color:#555;line-height:1.5}
 footer{color:#777;font-size:13px;text-align:center;padding:26px 14px;line-height:1.6}
 .empty{text-align:center;color:#888;padding:34px 0}
