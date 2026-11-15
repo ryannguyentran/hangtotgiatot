@@ -85,7 +85,10 @@ footer{color:#777;font-size:13px;text-align:center;padding:26px 14px;line-height
 .navhome.on{background:#333;color:#fff;border-color:#333}
 .navpill{flex:1 1 340px;max-width:640px;display:block;text-align:center;text-decoration:none;color:#fff;background:linear-gradient(90deg,#d61f26,#ee4d2d);border-radius:14px;padding:10px 18px 11px;box-shadow:0 3px 10px rgba(214,31,38,.4)}
 .navpill .np1{display:block;font-size:19px;font-weight:800;letter-spacing:.3px;line-height:1.25}
-.navpill .np2{display:block;font-size:13px;font-weight:600;opacity:.96;margin-top:2px;line-height:1.35}
+.navpill .np2{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:4px 7px;font-size:13.5px;font-weight:700;margin-top:4px;line-height:1.35}
+.navpill .lgchip{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:7px;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.3);flex:0 0 auto}
+.navpill .lgchip svg{width:19px;height:19px;display:block}
+.navpill .npunit{display:inline-flex;align-items:center;gap:6px}
 .navpill.on{outline:3px solid #ffd9c7;outline-offset:2px}
 @media(max-width:640px){.mainnav{flex-direction:column}.navhome{justify-content:center}.navpill{flex:1 1 auto;max-width:none}}
 .salestrip{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;background:linear-gradient(90deg,#ee4d2d,#ff7337);color:#fff;border-radius:10px;padding:11px 14px;margin:10px 0;box-shadow:0 2px 6px rgba(238,77,45,.3)}
@@ -93,6 +96,7 @@ footer{color:#777;font-size:13px;text-align:center;padding:26px 14px;line-height
 .salestrip .ss-date{background:rgba(255,255,255,.22);border-radius:999px;padding:3px 10px;font-weight:700;font-size:13px}
 .salestrip .ss-when{font-weight:700;font-size:14px}
 .salestrip .ss-note{font-size:13px;opacity:.95;flex:1 1 220px}
+.salestrip .ss-next{font-size:13px;opacity:.95}
 .salestrip a{margin-left:auto;background:#fff;color:#ee4d2d;font-weight:700;text-decoration:none;padding:8px 14px;border-radius:999px;font-size:14px;white-space:nowrap}
 @media(max-width:640px){.salestrip a{margin-left:0}}
 .stripbanner{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;border-radius:10px;padding:13px 16px;margin:10px 0;color:#fff}
