@@ -37,7 +37,12 @@
    "price_checked": "2026-11-13",
    "price_note": "Giá sau Voucher Shopee giảm 20% (giá shop 215.000đ, gốc 300.000đ), kiểm chứng trong app Shopee ngày 13/11/2026.",
    "price_verified": true,
-   "slug": "may-tam-nuoc-hamani"
+   "slug": "may-tam-nuoc-hamani",
+   "images": [
+    "may-tam-nuoc-hamani-x2.jpg",
+    "may-tam-nuoc-hamani-x3.jpg",
+    "may-tam-nuoc-hamani-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/2LZdX5L7Ta",
@@ -50,7 +55,11 @@
    "price_checked": "2026-11-13",
    "price_note": "Giá sau Voucher Shopee giảm 20% (giá shop 209.000đ, gốc 399.000đ), kiểm chứng trong app Shopee ngày 13/11/2026.",
    "price_verified": true,
-   "slug": "nhiet-ke-sipanic-tp-606"
+   "slug": "nhiet-ke-sipanic-tp-606",
+   "images": [
+    "nhiet-ke-sipanic-tp-606-x2.jpg",
+    "nhiet-ke-sipanic-tp-606-x3.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/8AXREEOCsg",
@@ -63,7 +72,12 @@
    "price_checked": "2026-11-12",
    "price_note": "Giá sau voucher Shopee giảm 20% (giá shop 255.000đ, gốc 378.000đ), kiểm chứng trong app Shopee đêm 11→12/11/2026.",
    "price_verified": true,
-   "slug": "bo-dao-lua-mach-nha-bep"
+   "slug": "bo-dao-lua-mach-nha-bep",
+   "images": [
+    "bo-dao-lua-mach-x2.jpg",
+    "bo-dao-lua-mach-x3.jpg",
+    "bo-dao-lua-mach-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/1Lh421QpRo",
@@ -76,7 +90,10 @@
    "price_checked": "2026-11-13",
    "price_note": "Giá app sau ưu đãi đo lại ngày 13/11/2026 tại Lock&Lock Official Store (Shopee Mall); giá đăng Page ngày 12/11 là 1.491.840đ — giá có thể thay đổi theo đợt sale.",
    "price_verified": true,
-   "slug": "noi-chien-khong-dau-locklock-ejf357"
+   "slug": "noi-chien-khong-dau-locklock-ejf357",
+   "images": [
+    "noi-chien-locklock-ejf357-x2.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/7fbAeGRzLD",
@@ -89,7 +106,12 @@
    "price_checked": "2026-11-12",
    "price_note": "Giá kiểm chứng trong app Shopee đêm 11→12/11/2026 tại Huawei Flagship Store (Shopee Mall), khớp giá niêm yết.",
    "price_verified": true,
-   "slug": "can-suc-khoe-huawei-scale-3"
+   "slug": "can-suc-khoe-huawei-scale-3",
+   "images": [
+    "can-huawei-scale-3-x2.jpg",
+    "can-huawei-scale-3-x3.jpg",
+    "can-huawei-scale-3-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/2BGE7Glvwi",
@@ -167,7 +189,12 @@
    "price_checked": "2026-11-07",
    "price_note": "Giá phân loại SF-400 kiểm chứng trong app Shopee ngày 07/11/2026 (giá gạch 139.000đ). Listing gộp nhiều dòng cân — khi mua chọn đúng phân loại SF-400 1g–10kg.",
    "price_verified": true,
-   "slug": "can-bep-dien-tu-sf-400"
+   "slug": "can-bep-dien-tu-sf-400",
+   "images": [
+    "can-bep-sf-400-x2.jpg",
+    "can-bep-sf-400-x3.jpg",
+    "can-bep-sf-400-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/AKaJleFrop",
@@ -564,7 +591,11 @@
    "price": null,
    "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
    "price_verified": false,
-   "slug": "ban-chai-dien-oral-b-vitality-d100"
+   "slug": "ban-chai-dien-oral-b-vitality-d100",
+   "images": [
+    "ban-chai-dien-oral-b-d100-x2.jpg",
+    "ban-chai-dien-oral-b-d100-x3.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/7KyKFeTG17",
@@ -664,7 +695,11 @@
    "price_checked": "2026-11-13",
    "price_note": "Giá sau ưu đãi kiểm chứng trong app Shopee ngày 13/11/2026.",
    "price_verified": true,
-   "slug": "may-da-nang-fatz-baby-multimax-2"
+   "slug": "may-da-nang-fatz-baby-multimax-2",
+   "images": [
+    "fatz-multimax-2-x2.jpg",
+    "fatz-multimax-2-x3.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/AKbvpe9uZN",
@@ -690,7 +725,13 @@
    "price_checked": "2026-11-13",
    "price_note": "Giá sau ưu đãi tại Ugreen (Shopee Mall), kiểm chứng trong app Shopee ngày 13/11/2026.",
    "price_verified": true,
-   "slug": "pin-sac-du-phong-ugreen-10000mah"
+   "slug": "pin-sac-du-phong-ugreen-10000mah",
+   "images": [
+    "pin-ugreen-10000mah-g2.jpg",
+    "pin-ugreen-10000mah-g3.jpg",
+    "pin-ugreen-10000mah-g4.jpg",
+    "pin-ugreen-10000mah-g5.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/3VlbfyUFYZ",
@@ -714,7 +755,10 @@
    "price": null,
    "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
    "price_verified": false,
-   "slug": "may-massage-cam-tay-smart-trend"
+   "slug": "may-massage-cam-tay-smart-trend",
+   "images": [
+    "may-massage-smart-trend-x2.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/7puaqZRM0E",
@@ -726,7 +770,12 @@
    "price": null,
    "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
    "price_verified": false,
-   "slug": "can-suc-khoe-laica-ps7011"
+   "slug": "can-suc-khoe-laica-ps7011",
+   "images": [
+    "can-laica-ps7011-x2.jpg",
+    "can-laica-ps7011-x3.jpg",
+    "can-laica-ps7011-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/50aMOeo4TQ",
@@ -835,7 +884,12 @@
    "price_checked": "2026-11-08",
    "price_note": "Giá sau Voucher Shopee giảm 16% (giá shop 830.000đ, gốc 890.000đ), kiểm chứng trong app Shopee ngày 08/11/2026; đối chiếu lại tối 13/11 giá shop vẫn 830.000đ.",
    "price_verified": true,
-   "slug": "bep-hong-ngoai-sunhouse-shd6011"
+   "slug": "bep-hong-ngoai-sunhouse-shd6011",
+   "images": [
+    "bep-hong-ngoai-sunhouse-shd6011-x2.jpg",
+    "bep-hong-ngoai-sunhouse-shd6011-x3.jpg",
+    "bep-hong-ngoai-sunhouse-shd6011-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/6L5mOV2qFm",
@@ -848,7 +902,12 @@
    "price_checked": "2026-11-14",
    "price_note": "Giá sau voucher giảm 60% (niêm yết 80.000đ), kiểm chứng trong app Shopee đêm 13→14/11/2026; giá web tham chiếu 49.000đ.",
    "price_verified": true,
-   "slug": "dau-voi-rua-bat-tang-ap-360-homebox"
+   "slug": "dau-voi-rua-bat-tang-ap-360-homebox",
+   "images": [
+    "dau-voi-rua-bat-tang-ap-360-homebox-x2.jpg",
+    "dau-voi-rua-bat-tang-ap-360-homebox-x3.jpg",
+    "dau-voi-rua-bat-tang-ap-360-homebox-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/1qdNeXlZuI",
@@ -861,7 +920,12 @@
    "price_checked": "2026-11-14",
    "price_note": "Giá sau voucher giảm 41% (niêm yết 1.690.000đ), kiểm chứng trong app Shopee đêm 14/11/2026 (00:02–01:15); giá web tham chiếu 1.231.900đ.",
    "price_verified": true,
-   "slug": "may-lam-sua-hat-bear-sb-sh09q-1l"
+   "slug": "may-lam-sua-hat-bear-sb-sh09q-1l",
+   "images": [
+    "may-lam-sua-hat-bear-sb-sh09q-1l-x2.jpg",
+    "may-lam-sua-hat-bear-sb-sh09q-1l-x3.jpg",
+    "may-lam-sua-hat-bear-sb-sh09q-1l-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/60StbLxE9A",
@@ -874,7 +938,13 @@
    "price_checked": "2026-11-14",
    "price_note": "Giá sau voucher 924.000₫, kiểm chứng trong app Shopee đêm 14/11/2026 (00:02–01:15) tại listing 'Nồi nấu đa năng 2,5L Bear DHG-B25Z1' (3 phân loại, còn hàng); Bear Mall đã ngừng bán model này nên không có niêm yết Mall để đối chiếu.",
    "price_verified": true,
-   "slug": "noi-lau-dien-bear-dhg-b25z1-25l"
+   "slug": "noi-lau-dien-bear-dhg-b25z1-25l",
+   "images": [
+    "noi-lau-dien-bear-dhg-b25z1-g2.jpg",
+    "noi-lau-dien-bear-dhg-b25z1-g3.jpg",
+    "noi-lau-dien-bear-dhg-b25z1-g4.jpg",
+    "noi-lau-dien-bear-dhg-b25z1-g5.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/7KyKCKueI7",
@@ -887,7 +957,12 @@
    "price_checked": "2026-11-14",
    "price_note": "Giá sau voucher, giảm 53% so với giá gốc 2.289.000đ, kiểm chứng trong app Shopee đêm 13→14/11/2026.",
    "price_verified": true,
-   "slug": "noi-com-dien-lock-lock-ejr346blk-12l"
+   "slug": "noi-com-dien-lock-lock-ejr346blk-12l",
+   "images": [
+    "noi-com-dien-lock-lock-ejr346blk-12l-x2.jpg",
+    "noi-com-dien-lock-lock-ejr346blk-12l-x3.jpg",
+    "noi-com-dien-lock-lock-ejr346blk-12l-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1294163373%2F24933027759&affiliate_id=17374300035&sub_id=----",
@@ -899,7 +974,13 @@
    "price": null,
    "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
    "price_verified": false,
-   "slug": "may-tam-nuoc-waterpik-wp-660-aquarius"
+   "slug": "may-tam-nuoc-waterpik-wp-660-aquarius",
+   "images": [
+    "may-tam-nuoc-waterpik-wp-660-g2.jpg",
+    "may-tam-nuoc-waterpik-wp-660-g3.jpg",
+    "may-tam-nuoc-waterpik-wp-660-g4.jpg",
+    "may-tam-nuoc-waterpik-wp-660-g5.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/80E11boaVN",
@@ -911,7 +992,12 @@
    "price": 1051747,
    "price_checked": "2026-11-14",
    "price_note": "Giá sau voucher, kiểm chứng bằng app Shopee ngày 14/11/2026 (giảm 50% so với giá gốc 2.114.000đ)",
-   "slug": "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l"
+   "slug": "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l",
+   "images": [
+    "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l-x2.jpg",
+    "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l-x3.jpg",
+    "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/LoZr0ASmc",
@@ -923,7 +1009,12 @@
    "price": 2800000,
    "price_checked": "2026-11-08",
    "price_note": "Giá sau voucher, kiểm chứng bằng app Shopee ngày 08/11/2026 (voucher Shopee giảm 20%, giá gốc 3.500.000đ)",
-   "slug": "may-ep-cham-hurom-hu-19sgm"
+   "slug": "may-ep-cham-hurom-hu-19sgm",
+   "images": [
+    "may-ep-cham-hurom-hu-19sgm-x2.jpg",
+    "may-ep-cham-hurom-hu-19sgm-x3.jpg",
+    "may-ep-cham-hurom-hu-19sgm-x4.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F635807690%2F20687146347&affiliate_id=17374300035&sub_id=----",
