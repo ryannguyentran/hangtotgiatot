@@ -68,3 +68,15 @@ footer{color:#777;font-size:13px;text-align:center;padding:26px 14px;line-height
 .chcard .steps{grid-template-columns:1fr}
 .chcard .btn{max-width:none}
 .btn.fb{background:#1877f2}
+.sec .claim{background:#fff4e5;border:1px solid #f5a623;border-radius:10px;padding:11px 13px;font-size:15px;color:#333;margin:10px 0;line-height:1.5}
+.bchips{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 4px}
+.bchip{background:#f5f5f5;border:1px solid #e3e3e3;border-radius:999px;padding:8px 12px;font-size:13px;font-weight:600;color:#333}
+.ytfb{align-items:start}
+.chcard.sp{border-top:4px solid #ee4d2d}
+.chcard .btn{margin-top:10px}
+.btn.soft{background:#fff;color:#ee4d2d;border:2px solid #ee4d2d;padding:9px}
+.sec .micro{font-size:13px;color:#666;margin:12px 0 0}
+.rsteps{display:grid;gap:8px;margin:10px 0}
+.rstep{display:flex;gap:10px;align-items:flex-start;background:#fff8f0;border:1px solid #ffd9c7;border-radius:10px;padding:10px 12px}
+.rstep .n{flex:0 0 auto;background:#ee4d2d;color:#fff;font-weight:800;border-radius:999px;width:24px;height:24px;line-height:24px;text-align:center;font-size:13px}
+.rstep p{margin:0;font-size:14px;color:#444;line-height:1.5}
