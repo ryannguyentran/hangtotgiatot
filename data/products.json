@@ -1,1371 +1,1388 @@
 {
-  "categories": [
-    {
-      "id": "nha-bep",
-      "name": "Nhà bếp & Gia dụng"
-    },
-    {
-      "id": "me-be",
-      "name": "Mẹ & Bé"
-    },
-    {
-      "id": "suc-khoe",
-      "name": "Sức khỏe & Chăm sóc cá nhân"
-    },
-    {
-      "id": "xe",
-      "name": "Phụ kiện ô tô & xe máy"
-    },
-    {
-      "id": "dien-tu",
-      "name": "Điện tử & Phụ kiện"
-    },
-    {
-      "id": "khac",
-      "name": "Khác"
-    }
-  ],
-  "products": [
-    {
-      "aff_link": "https://s.shopee.vn/gRLx0g2ze",
-      "category": "suc-khoe",
-      "description": "Máy tăm nước vệ sinh răng miệng với tia nước siêu mềm 0,6mm, 3 chế độ Weak / Strong / Pulse giúp làm sạch mảng bám và thức ăn kẹt kẽ răng. Bình chứa 220ml, kèm 4 đầu tăm và cáp sạc USB, nhỏ gọn mang đi du lịch, bảo hành 6 tháng. Lưu ý: bình 220ml dùng kỹ có thể phải châm thêm giữa chừng; nướu nhạy cảm nên bắt đầu ở chế độ Weak.",
-      "image": "img/may-tam-nuoc-hamani.jpg",
-      "images": [
-        "may-tam-nuoc-hamani-x2.jpg",
-        "may-tam-nuoc-hamani-x3.jpg",
-        "may-tam-nuoc-hamani-x4.jpg"
-      ],
-      "name": "Máy tăm nước HAMANI 3 chế độ",
-      "posted": "Đăng Page Facebook 13/11/2026",
-      "price": 172000,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá sau Voucher Shopee giảm 20% (giá shop 215.000đ, gốc 300.000đ), kiểm chứng trong app Shopee ngày 13/11/2026.",
-      "price_verified": true,
-      "slug": "may-tam-nuoc-hamani"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/2LZdX5L7Ta",
-      "category": "me-be",
-      "description": "Nhiệt kế đa năng đo nước pha sữa, thực phẩm và nước tắm cho bé: đầu dò thép không gỉ gập gọn, dải đo −50°C đến 300°C, màn hình LCD đọc nhanh, chuyển °C/°F bằng 1 nút bấm, bảo hành 12 tháng. Nhỏ gọn, bỏ túi mang theo tiện.",
-      "image": "img/nhiet-ke-sipanic-tp-606.jpg",
-      "images": [
-        "nhiet-ke-sipanic-tp-606-x2.jpg",
-        "nhiet-ke-sipanic-tp-606-x3.jpg"
-      ],
-      "name": "Nhiệt kế điện tử đa năng Sipanic TP-606",
-      "posted": "Đăng Page Facebook 13/11/2026",
-      "price": 167200,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá sau Voucher Shopee giảm 20% (giá shop 209.000đ, gốc 399.000đ), kiểm chứng trong app Shopee ngày 13/11/2026.",
-      "price_verified": true,
-      "slug": "nhiet-ke-sipanic-tp-606"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/8AXREEOCsg",
-      "category": "nha-bep",
-      "description": "Bộ dao nhà bếp gồm dao chặt, dao thái, dao gọt, kéo, nạo, thớt và giá đựng. Lưỡi thép không gỉ có lớp kháng khuẩn, chống oxi hoá; cán nhựa lúa mạch chắc tay, chống trơn trượt. Lưu ý: lớp phủ màu trang trí nên tránh chà bằng búi sắt mạnh tay để giữ màu bền.",
-      "image": "img/bo-dao-lua-mach.jpg",
-      "images": [
-        "bo-dao-lua-mach-x2.jpg",
-        "bo-dao-lua-mach-x3.jpg",
-        "bo-dao-lua-mach-x4.jpg"
-      ],
-      "name": "Bộ dao lúa mạch nhà bếp 6 món",
-      "posted": "Đăng Page Facebook 12/11/2026",
-      "price": 205000,
-      "price_checked": "2026-11-12",
-      "price_note": "Giá sau voucher Shopee giảm 20% (giá shop 255.000đ, gốc 378.000đ), kiểm chứng trong app Shopee đêm 11→12/11/2026.",
-      "price_verified": true,
-      "slug": "bo-dao-lua-mach-nha-bep"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/1Lh421QpRo",
-      "category": "nha-bep",
-      "description": "Nồi chiên không dầu Lock&Lock Jumbo Plus Air Fryer dung tích 5.2L, 8 menu nấu sẵn, bảng điều khiển cảm ứng, có chế độ giữ ấm, kèm chảo nướng bánh 1,7L. Đánh giá 4,9/5 với hơn 8.700 lượt đánh giá trên Shopee Mall.",
-      "image": "img/noi-chien-locklock-ejf357.jpg",
-      "images": [
-        "noi-chien-locklock-ejf357-x2.jpg"
-      ],
-      "name": "Nồi chiên không dầu Lock&Lock EJF357 5.2L",
-      "posted": "Đăng Page Facebook 12/11/2026",
-      "price": 1493100,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá app sau ưu đãi đo lại ngày 13/11/2026 tại Lock&Lock Official Store (Shopee Mall); giá đăng Page ngày 12/11 là 1.491.840đ — giá có thể thay đổi theo đợt sale.",
-      "price_verified": true,
-      "slug": "noi-chien-khong-dau-locklock-ejf357"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/7fbAeGRzLD",
-      "category": "suc-khoe",
-      "description": "Cân điện tử Huawei Scale 3 kết nối Bluetooth, báo cáo 10 chỉ số cơ thể với công nghệ HUAWEI TruFit, màu trắng tuyết. Đánh giá 4,91/5 với hơn 1.700 lượt đánh giá tại cửa hàng chính hãng Huawei trên Shopee Mall.",
-      "image": "img/can-huawei-scale-3.jpg",
-      "images": [
-        "can-huawei-scale-3-x2.jpg",
-        "can-huawei-scale-3-x4.jpg"
-      ],
-      "name": "Cân sức khỏe Huawei Scale 3 Bluetooth Edition",
-      "posted": "Đăng Page Facebook 12/11/2026, clip review trên Facebook",
-      "price": 540000,
-      "price_checked": "2026-11-12",
-      "price_note": "Giá kiểm chứng trong app Shopee đêm 11→12/11/2026 tại Huawei Flagship Store (Shopee Mall), khớp giá niêm yết.",
-      "price_verified": true,
-      "slug": "can-suc-khoe-huawei-scale-3"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/2BGE7Glvwi",
-      "category": "me-be",
-      "description": "Máy hút sữa Spectra 9 Plus có pin tích điện, hàng chính hãng, bảo hành 12 tháng. Đánh giá 4,92/5 với hơn 400 lượt đánh giá. Sản phẩm đã được giới thiệu trên Page và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/may-hut-sua-spectra-9-plus.jpg",
-      "name": "Máy hút sữa Spectra 9 Plus",
-      "posted": "Đăng Page Facebook 11/11/2026, clip Facebook 13/11/2026, Shopee Video",
-      "price": 2836890,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá app sau ưu đãi kiểm chứng ngày 13/11/2026 (Shopee Mall); giá đăng Page ngày 11/11 là 2.729.160đ — giá thay đổi theo đợt sale.",
-      "price_verified": true,
-      "slug": "may-hut-sua-spectra-9-plus"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F163073857%2F2496408572&affiliate_id=17374300035&sub_id=----",
-      "category": "me-be",
-      "description": "Máy hút sữa Spectra S1 Plus — điện đôi chuẩn bệnh viện, pin sạc tích hợp, 2 chế độ massage rồi hút, 12 mức lực hút và 5 mức massage, hệ thống kín chống trào ngược, màn hình LCD hiển thị chu kỳ và lực hút. Đánh giá 4,84/5 với 75 lượt đánh giá tại Spectra Baby trên Shopee Mall. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/may-hut-sua-spectra-s1-plus.jpg",
-      "images": [
-        "img/may-hut-sua-spectra-s1-plus-2.jpg",
-        "img/may-hut-sua-spectra-s1-plus-3.jpg",
-        "img/may-hut-sua-spectra-s1-plus-4.jpg",
-        "img/may-hut-sua-spectra-s1-plus-5.jpg",
-        "img/may-hut-sua-spectra-s1-plus-6.jpg"
-      ],
-      "name": "Máy hút sữa Spectra S1 Plus",
-      "posted": "Đăng Page Facebook 16/11/2026, clip Facebook 16/11/2026, Shopee Video, YouTube Short 09:30 16/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
-      "price_verified": false,
-      "slug": "may-hut-sua-spectra-s1-plus",
-      "youtube": "https://www.youtube.com/shorts/8Ns6SNoGlyw"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F116737290%2F27923978237&affiliate_id=17374300035&sub_id=----",
-      "category": "me-be",
-      "description": "Máy hút sữa đeo rảnh tay Momcozy S12 Pro với 3 chế độ (kích thích, massage và hỗn hợp), 9 cấp độ hút chỉnh theo cảm giác. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/may-hut-sua-momcozy-s12-pro.jpg",
-      "images": [
-        "img/may-hut-sua-momcozy-s12-pro-2.jpg"
-      ],
-      "name": "Máy hút sữa Momcozy S12 Pro",
-      "posted": "Đăng Shopee Video + clip Facebook 13/11/2026",
-      "price": 3309926,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá niêm yết tại shop khi đăng Shopee Video ngày 13/11/2026 (chưa áp voucher) — mở Shopee để xem giá ưu đãi hiện tại.",
-      "price_verified": true,
-      "slug": "may-hut-sua-momcozy-s12-pro"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/5VWpYm1wuW",
-      "category": "nha-bep",
-      "description": "Máy lau sàn không dây Dreame H12 Pro (mã HHR25A): hút khô và ướt 2 trong 1, con lăn tự giặt sau khi dùng. Lưu ý chọn đúng bản H12 Pro đời đầu khi mua — tránh nhầm với H12 Pro FlexReach hay H12 Dual có thông số khác. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
-      "image": "img/may-lau-nha-dreame-h12-pro.jpg",
-      "images": [
-        "img/may-lau-nha-dreame-h12-pro-2.jpg",
-        "img/may-lau-nha-dreame-h12-pro-3.jpg",
-        "img/may-lau-nha-dreame-h12-pro-4.jpg",
-        "img/may-lau-nha-dreame-h12-pro-5.jpg",
-        "img/may-lau-nha-dreame-h12-pro-6.jpg",
-        "img/may-lau-nha-dreame-h12-pro-7.jpg",
-        "img/may-lau-nha-dreame-h12-pro-8.jpg",
-        "img/may-lau-nha-dreame-h12-pro-9.jpg"
-      ],
-      "name": "Máy lau nhà không dây Dreame H12 Pro",
-      "posted": "Đăng Shopee Video + clip Facebook 12–13/11/2026",
-      "price": 8290000,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá niêm yết tại Dreame Official Store khi đăng Shopee Video ngày 13/11/2026 (chưa áp voucher) — mở Shopee để xem giá ưu đãi hiện tại.",
-      "price_verified": true,
-      "slug": "may-lau-nha-dreame-h12-pro"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/5LDPMT2aFV",
-      "category": "nha-bep",
-      "description": "Máy lọc không khí Xiaomi Air Purifier 4 Lite (mã AC-M17-SC) cho phòng nhỏ, lọc bụi mịn PM2.5, có màn hình hiển thị chất lượng không khí. Lưu ý: nhiều listing gộp chung bản 4 / 4 Lite / 4 Pro / 4 Compact — khi mua nhớ chọn đúng phân loại Air Purifier 4 Lite. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
-      "image": "img/may-loc-khong-khi-xiaomi-purifier-4-lite.jpg",
-      "images": [
-        "img/may-loc-khong-khi-xiaomi-purifier-4-lite-2.jpg",
-        "img/may-loc-khong-khi-xiaomi-purifier-4-lite-3.jpg",
-        "img/may-loc-khong-khi-xiaomi-purifier-4-lite-4.jpg",
-        "img/may-loc-khong-khi-xiaomi-purifier-4-lite-5.jpg",
-        "img/may-loc-khong-khi-xiaomi-purifier-4-lite-6.jpg"
-      ],
-      "name": "Máy lọc không khí Xiaomi Air Purifier 4 Lite",
-      "posted": "Đăng Shopee Video + clip Facebook 12–13/11/2026",
-      "price": 2499000,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá niêm yết tại Xiaomi Official Store (Shopee Mall) khi đăng Shopee Video ngày 13/11/2026 (chưa áp voucher) — mở Shopee để xem giá ưu đãi hiện tại.",
-      "price_verified": true,
-      "slug": "may-loc-khong-khi-xiaomi-purifier-4-lite"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/70LQnBtQ7K",
-      "category": "nha-bep",
-      "description": "Máy đánh trứng cầm tay Philips HR3705/20 chính hãng: công suất 300W, 5 tốc độ cộng chế độ Turbo, kèm 2 cặp que trộn và nhào bằng inox, thiết kế gọn nhẹ cầm lâu không mỏi. Đánh giá 4,91/5 với hơn 960 lượt đánh giá. Lưu ý: máy hợp đánh trứng, kem và trộn bột lỏng tại nhà; bột đặc số lượng lớn nên dùng máy trộn chuyên dụng.",
-      "image": "img/may-danh-trung-philips-hr3705.jpg",
-      "name": "Máy đánh trứng cầm tay Philips HR3705/20",
-      "posted": "Đăng clip Facebook 11/11/2026, Shopee Video",
-      "price": 668640,
-      "price_checked": "2026-11-08",
-      "price_note": "Giá sau voucher Shopee giảm 16% (gốc 815.000đ), kiểm chứng trong app Shopee ngày 08/11/2026 tại Philips Home Appliances Official Store (Shopee Mall).",
-      "price_verified": true,
-      "slug": "may-danh-trung-philips-hr3705"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/70LTpvfHTH",
-      "category": "nha-bep",
-      "description": "Cân tiểu ly điện tử nhà bếp SF-400 định lượng từ 1g tới 10kg, phù hợp cân nguyên liệu làm bánh và nấu ăn cần độ chính xác tới từng gram. Khi mua nhớ chọn đúng phân loại SF-400 (1g–10kg) trong listing. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
-      "image": "img/can-bep-sf-400.jpg",
-      "images": [
-        "img/can-bep-sf-400-2.jpg",
-        "img/can-bep-sf-400-3.jpg",
-        "img/can-bep-sf-400-4.jpg",
-        "img/can-bep-sf-400-5.jpg"
-      ],
-      "name": "Cân bếp điện tử tiểu ly SF-400 (1g–10kg)",
-      "posted": "Đăng clip Facebook 12/11/2026, Shopee Video",
-      "price": 70000,
-      "price_checked": "2026-11-07",
-      "price_note": "Giá phân loại SF-400 kiểm chứng trong app Shopee ngày 07/11/2026 (giá gạch 139.000đ). Listing gộp nhiều dòng cân — khi mua chọn đúng phân loại SF-400 1g–10kg.",
-      "price_verified": true,
-      "slug": "can-bep-dien-tu-sf-400"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/AKaJleFrop",
-      "category": "xe",
-      "description": "Khay nhựa cao cấp chịu lực, đặt vừa dưới ghế lái và phụ của xe VinFast VF2/Minio. Chọn mã 04 để vừa dưới ghế lái và phụ.",
-      "image": "img/khaynhua.jpg",
-      "name": "Khay nhựa chữ nhật trong suốt cho VF2/Minio",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "khay-nhua-chu-nhat-trong-suot"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/9V1CmCdqLU",
-      "category": "xe",
-      "description": "Bộ tẩu sạc kiêm truyền phát âm thanh Bluetooth qua sóng FM 5.3, có đầu vào thẻ TF.",
-      "image": "img/fmtranmission.jpg",
-      "name": "Essager — Bộ chuyển đổi Bluetooth FM 5.3 có đầu vào TF",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "bo-chuyen-doi-bluetooth-fm-essager"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/9zxTNHyuwU",
-      "category": "xe",
-      "description": "Thảm sàn đúc khuôn chuẩn form xe, kèm rối giữ bụi bẩn. Có cả link giá rẻ và link Mall chính hãng trong trang sản phẩm Shopee.",
-      "image": "img/thamhuvivf2.jpg",
-      "name": "Thảm sàn HUVI + rối cho VF2/Minio",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "tham-san-huvi-vf2"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/1qbleKJ6Oo",
-      "category": "xe",
-      "description": "Camera hành trình dạng gương 4K siêu nét, tích hợp camera lùi.",
-      "image": "img/cams4k.jpg",
-      "name": "Cam hành trình gương Galaxy S4K + camera lùi",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "cam-hanh-trinh-guong-galaxy-s4k"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/5LBdr4o6Iz",
-      "category": "nha-bep",
-      "description": "Bình giữ nhiệt inox 316 dung tích 800ml, giữ nóng lạnh cho cả ngày.",
-      "image": "img/lygiunhiettatinvia.jpg",
-      "name": "Bình giữ nhiệt LATINVIA 316 800ml",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "binh-giu-nhiet-latinvia-316-800ml"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/5foUFntDSP",
-      "category": "xe",
-      "description": "Thảm sàn cao cấp thiết kế vừa vặn cho xe điện VinFast Feliz.",
-      "image": "img/thamfeliz.jpg",
-      "name": "Thảm sàn xe Feliz 2 (2025–2026)",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "tham-san-feliz-2"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/4AzgTDNgvw",
-      "category": "xe",
-      "description": "Hộc chứa đồ đôi tiện dụng gắn xe Feliz, không cần khoan đục.",
-      "image": "img/hocdodoifeliz.jpg",
-      "name": "Hộc đồ đôi Feliz không khoan",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "hoc-do-doi-feliz-khong-khoan"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/2VrSUGNlsi",
-      "category": "xe",
-      "description": "Túi lưới đựng đồ 2 lớp tiện lợi, đàn hồi tốt. Dùng cho Feliz chọn size L 25x40cm.",
-      "image": "img/tuidungdocogian.jpg",
-      "name": "Túi lưới đựng đồ 2 lớp co giãn",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "tui-luoi-dung-do-2-lop"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/5AsDfDKNlU",
-      "category": "xe",
-      "description": "Móc treo đa năng kèm ổ khóa an toàn chống trộm mũ bảo hiểm.",
-      "image": "img/khoambh.jpg",
-      "name": "Móc treo kèm khoá mũ bảo hiểm",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "moc-treo-khoa-mu-bao-hiem"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/904wXAKjOY",
-      "category": "nha-bep",
-      "description": "Thanh xốp chắn khe cửa ra vào: chặn bụi, ngăn gió lùa và côn trùng.",
-      "image": "img/chancua.jpg",
-      "name": "Thanh chắn gió cửa ra vào",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "thanh-chan-gio-cua-ra-vao"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/4qFNZcL31n",
-      "category": "nha-bep",
-      "description": "Dao bếp thép cao cấp bén ngọt, cầm chắc tay và chống gỉ sét.",
-      "image": "img/daobepkatana.jpg",
-      "name": "Dao bếp KATANA cao cấp",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "dao-bep-katana"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/3LQZmvOf3K",
-      "category": "nha-bep",
-      "description": "Thảm trải sàn phong cách IKEA êm ái, chống trượt, bền. Size 60x40.",
-      "image": "img/thamsanikea.jpg",
-      "name": "Thảm trải sàn IKEA 60x40",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "tham-trai-san-ikea"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/50Ynm8EgGm",
-      "category": "nha-bep",
-      "description": "Kệ cắm dao kéo nhà bếp gọn gàng, thoát nước, vệ sinh tiện lợi.",
-      "image": "img/kedaokeo.jpg",
-      "name": "Giá để dao kéo AKICHI",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "gia-de-dao-keo-akichi"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/20vCCsOaWK",
-      "category": "nha-bep",
-      "description": "Hộp chứa đồ đa năng gấp gọn, nhựa PP bền bỉ chịu lực. Size 34x49x23.5cm.",
-      "image": "img/thunggapgon.jpg",
-      "name": "Thùng nhựa đựng đồ gấp gọn",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "thung-nhua-dung-do-gap-gon"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/AKaK8EQZA4",
-      "category": "nha-bep",
-      "description": "Ruột gối nằm gòn bi êm ái, đàn hồi cao, nâng đỡ đầu cổ.",
-      "image": "img/goigonbi.jpg",
-      "name": "Gối gòn bi Thắng Lợi",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "goi-gon-bi-thang-loi"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/LmyDuX2xM",
-      "category": "nha-bep",
-      "description": "Rèm lá nhôm cản sáng, chống nắng cho cửa sổ, làm theo kích thước yêu cầu.",
-      "image": "img/remsao.jpg",
-      "name": "Rèm sáo nhôm làm theo yêu cầu",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "rem-sao-nhom-theo-yeu-cau"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/2LY2bnoUyO",
-      "category": "suc-khoe",
-      "description": "Dầu gội bồ kết truyền thống Thorakao, sạch gàu và mượt tóc.",
-      "image": "img/boket.jpg",
-      "name": "Dầu gội bồ kết Thorakao 750ml/400ml",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "dau-goi-bo-ket-thorakao"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/9zxTljx8CW",
-      "category": "nha-bep",
-      "description": "Tủ kệ gỗ lắp ghép nhiều ngăn, MDF chống ẩm phủ Melamine chống trầy. Một ngăn 30x40x24cm.",
-      "image": "img/tugotrangtri.jpg",
-      "name": "Tủ gỗ trang trí H234 MDF chống trầy",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "tu-go-trang-tri-h234"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/7AdJ2Vvv0O",
-      "category": "khac",
-      "description": "Keo 3M 4229P dạng tờ khổ A4 chính hãng, độ dính cao, dán đa năng.",
-      "image": "img/keo3ma4.jpg",
-      "name": "Keo 3M 4229P dạng tờ A4",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "keo-3m-4229p-to-a4"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/80CSBXdNsO",
-      "category": "xe",
-      "description": "Thảm tràn full bậc cửa, hàng sau cao lên bằng ghế, chất liệu không mùi cho Minio Green - VF2.",
-      "image": "img/thamfuho.jpg",
-      "name": "Thảm sàn FUMO cho VF2/Minio (Shopee Mall)",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "tham-san-fumo-vf2"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/W6RKjQIZ2",
-      "category": "dien-tu",
-      "description": "Màn di động BOE 13.3 inch FHD cảm ứng, viền mỏng, độ sáng 500 nit, có sẵn kickstand — tiện cho xe hơi và công việc.",
-      "image": "img/manhinhdidong.jpg",
-      "name": "Màn di động BOE 13.3 inch FHD cảm ứng 500 nit",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "man-di-dong-boe-13-3-fhd"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/112mYZ04nc",
-      "category": "xe",
-      "description": "Ốp trang trí phanh tay xe VinFast VF2 - Minio Green, hoàn thiện đẹp, lắp đặt dễ dàng.",
-      "image": "img/phanhtay_vf2.jpg",
-      "name": "Trang trí phanh tay VF2 — Minio Green",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "trang-tri-phanh-tay-vf2"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/60RSWP1jPw",
-      "category": "xe",
-      "description": "Giá đỡ hít nam châm từ tính chắc chắn cho điện thoại, máy tính bảng và màn di động trên VF2 - Minio Green.",
-      "image": "img/giadotutinh.jpg",
-      "name": "Giá đỡ hít từ tính cho điện thoại/màn di động VF2",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "gia-do-hit-tu-tinh-vf2"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/5q85WKr7Ku",
-      "category": "xe",
-      "description": "Bộ vít vá lốp xe khẩn cấp không cần tháo bánh, thao tác vặn vít nhanh, tiện mang theo xe.",
-      "image": "img/bovitalop.jpg",
-      "name": "Bộ ốc vít vá lốp khẩn cấp không cần tháo lốp",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "bo-oc-vit-va-lop-khan-cap"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/7pt9uZgulY",
-      "category": "xe",
-      "description": "Giá đỡ điện thoại ô tô công nghệ hút chân không kết hợp nam châm từ tính, xoay 360 độ.",
-      "image": "img/giado_hutchankhong.jpg",
-      "name": "Giá đỡ điện thoại ô tô hút chân không từ tính xoay 360",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "gia-do-dien-thoai-o-to-hut-chan-khong"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/1gIgD8i5OX",
-      "category": "xe",
-      "description": "Móc khoá logo VinFast dây da, sang trọng và bền đẹp.",
-      "image": "img/mockhoa_vinfast.jpg",
-      "name": "Móc khoá ô tô xe máy logo VinFast dây da",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "moc-khoa-vinfast-day-da"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/2gBDP36m3T",
-      "category": "xe",
-      "description": "Miếng logo dán móc khoá nhận diện các hãng xe ô tô, xe máy, giá rẻ.",
-      "image": "img/logo_dan_mockhoa.jpg",
-      "name": "Logo dán móc khoá các hãng xe",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "logo-dan-moc-khoa-hang-xe"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/AKaeYAIXyc",
-      "category": "xe",
-      "description": "Giá để cốc ô tô 2 lỗ có khe đựng riêng biệt, phía sau có nút tăng đưa điều chỉnh to nhỏ chắc chắn.",
-      "image": "img/giadecoc_2lo.jpg",
-      "name": "Giá để cốc ô tô 2 lỗ cho VF2/Minio",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "gia-de-coc-o-to-2-lo"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/9AOibTHki0",
-      "category": "xe",
-      "description": "Tấm chắn gió điều hoà ô tô giúp định hướng luồng gió, tránh phả thẳng vào mặt, tỏa mát đều khoang xe.",
-      "image": "img/tamchangio_dieuhoa.jpg",
-      "name": "Tấm chắn gió điều hoà ô tô",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "tam-chan-gio-dieu-hoa-o-to"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/2gBS4GHj8V",
-      "category": "khac",
-      "description": "Dù gập 24–72 nan đôi tự động mở đóng 2 chiều, khung nan kép chịu gió, vải chống thấm và cản tia UV.",
-      "image": "img/du_gapgon_24nan.jpg",
-      "name": "Dù gấp gọn 24–72 nan mở đóng tự động",
-      "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "du-gap-gon-24-72-nan"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/3B8iDTvQXw",
-      "category": "nha-bep",
-      "description": "Máy xay sinh tố Philips HR2041 cối lớn, xay sinh tố và thực phẩm cho gia đình. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/philips-hr2041.jpg",
-      "images": [
-        "img/philips-hr2041-2.jpg",
-        "img/philips-hr2041-3.jpg",
-        "img/philips-hr2041-4.jpg",
-        "img/philips-hr2041-5.jpg",
-        "img/philips-hr2041-6.jpg",
-        "img/philips-hr2041-7.jpg",
-        "img/philips-hr2041-8.jpg",
-        "img/philips-hr2041-9.jpg"
-      ],
-      "name": "Máy xay sinh tố Philips HR2041",
-      "posted": "Đăng clip Facebook, Instagram và Shopee Video 09/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-xay-sinh-to-philips-hr2041"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/70LTrCUt0x",
-      "category": "suc-khoe",
-      "description": "Máy sấy tóc Panasonic EH-ND11 bản A645 màu xanh, hàng chính hãng. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/panasonic-eh-nd11.jpg",
-      "images": [
-        "img/panasonic-eh-nd11-2.jpg",
-        "img/panasonic-eh-nd11-3.jpg",
-        "img/panasonic-eh-nd11-4.jpg",
-        "img/panasonic-eh-nd11-5.jpg",
-        "img/panasonic-eh-nd11-6.jpg"
-      ],
-      "name": "Máy sấy tóc Panasonic EH-ND11 A645",
-      "posted": "Đăng clip Facebook, Instagram và Shopee Video 09/11/2026",
-      "price": 243020,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá đúng model EH-ND11 (bản A645) sau voucher tại listing còn hàng, kiểm chứng trong app Shopee ngày 13/11/2026.",
-      "price_verified": true,
-      "slug": "may-say-toc-panasonic-eh-nd11"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/114Ghh8jAG",
-      "category": "suc-khoe",
-      "description": "Bàn chải đánh răng điện Oral-B Vitality D100. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/ban-chai-dien-oral-b-d100.jpg",
-      "images": [
-        "ban-chai-dien-oral-b-d100-x2.jpg",
-        "ban-chai-dien-oral-b-d100-x3.jpg"
-      ],
-      "name": "Bàn chải điện Oral-B Vitality D100",
-      "posted": "Đăng clip Facebook, Instagram và Shopee Video 09/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "ban-chai-dien-oral-b-vitality-d100"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/7KyKFeTG17",
-      "category": "suc-khoe",
-      "description": "Cân điện tử Xiaomi Smart Scale 2 (mã XMTZC04HM) bản thường. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/xiaomi-scale-2.jpg",
-      "images": [
-        "img/xiaomi-scale-2-2.jpg",
-        "img/xiaomi-scale-2-3.jpg",
-        "img/xiaomi-scale-2-4.jpg",
-        "img/xiaomi-scale-2-5.jpg",
-        "img/xiaomi-scale-2-6.jpg",
-        "img/xiaomi-scale-2-7.jpg"
-      ],
-      "name": "Cân điện tử Xiaomi Smart Scale 2",
-      "posted": "Đăng clip Facebook, Instagram và Shopee Video 10/11/2026",
-      "price": 518000,
-      "price_checked": "2026-11-10",
-      "price_note": "Giá tại các shop còn hàng trong app Shopee ngày 10/11/2026, ghi nhận khi đăng Shopee Video.",
-      "price_verified": true,
-      "slug": "can-dien-tu-xiaomi-smart-scale-2"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/1BNdpiRSml",
-      "category": "nha-bep",
-      "description": "Nồi chiên không dầu Philips HD9200 dung tích 4.1L, núm vặn cơ dễ dùng. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/philips-hd9200.jpg",
-      "images": [
-        "img/philips-hd9200-2.jpg",
-        "img/philips-hd9200-3.jpg",
-        "img/philips-hd9200-4.jpg",
-        "img/philips-hd9200-5.jpg",
-        "img/philips-hd9200-6.jpg"
-      ],
-      "name": "Nồi chiên không dầu Philips HD9200 4.1L",
-      "posted": "Đăng clip Facebook, Instagram và Shopee Video 10/11/2026",
-      "price": 1949000,
-      "price_checked": "2026-11-10",
-      "price_note": "Giá tại ALMA MART (Shopee Mall) trong app Shopee ngày 10/11/2026, ghi nhận khi đăng Shopee Video.",
-      "price_verified": true,
-      "slug": "noi-chien-khong-dau-philips-hd9200"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/qkm9JfPeh",
-      "category": "suc-khoe",
-      "description": "Máy sấy tóc Panasonic EH-NE66-K645 Ionity công suất 2000W. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/panasonic-eh-ne66.jpg",
-      "name": "Máy sấy tóc Panasonic EH-NE66-K645 Ionity 2000W",
-      "posted": "Đăng clip Facebook, Instagram và Shopee Video 10/11/2026",
-      "price": 929000,
-      "price_checked": "2026-11-10",
-      "price_note": "Giá tại Panasonic Official Store trong app Shopee ngày 10/11/2026, ghi nhận khi đăng Shopee Video.",
-      "price_verified": true,
-      "slug": "may-say-toc-panasonic-eh-ne66"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/114DdPS67i",
-      "category": "xe",
-      "description": "Bơm lốp ô tô 70mai Midrive TP03 chính hãng, nhỏ gọn để sẵn trong xe. Khi mua nhớ chọn đúng phân loại TP03. Đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/70mai-tp03.jpg",
-      "images": [
-        "img/70mai-tp03-2.jpg",
-        "img/70mai-tp03-3.jpg",
-        "img/70mai-tp03-4.jpg",
-        "img/70mai-tp03-5.jpg",
-        "img/70mai-tp03-6.jpg",
-        "img/70mai-tp03-7.jpg",
-        "img/70mai-tp03-8.jpg",
-        "img/70mai-tp03-9.jpg"
-      ],
-      "name": "Bơm lốp ô tô 70mai Midrive TP03",
-      "posted": "Đăng clip Facebook 11/11/2026 và Shopee Video 12/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "bom-lop-o-to-70mai-midrive-tp03"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/6AmJnewaoD",
-      "category": "nha-bep",
-      "description": "Nồi nấu chậm Bear DDZ-A08D1 dung tích 0.8L kèm xửng hấp, nấu cháo và hầm đồ ăn. Đã lên clip review Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/bear-ddz-a08d1.jpg",
-      "images": [
-        "img/bear-ddz-a08d1-2.jpg",
-        "img/bear-ddz-a08d1-3.jpg",
-        "img/bear-ddz-a08d1-4.jpg",
-        "img/bear-ddz-a08d1-5.jpg",
-        "img/bear-ddz-a08d1-6.jpg"
-      ],
-      "name": "Nồi nấu chậm Bear DDZ-A08D1 0.8L kèm xửng",
-      "posted": "Đăng clip Shopee Video",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "noi-nau-cham-bear-ddz-a08d1"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/4Ve8pHnVcn",
-      "category": "nha-bep",
-      "description": "Máy làm sữa hạt Bear DJJ-H05C1 dung tích 0.6L, hợp nấu sữa hạt cho 1–2 người. Đã lên clip review Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/bear-djj-h05c1.jpg",
-      "images": [
-        "img/bear-djj-h05c1-2.jpg",
-        "img/bear-djj-h05c1-3.jpg",
-        "img/bear-djj-h05c1-4.jpg",
-        "img/bear-djj-h05c1-5.jpg",
-        "img/bear-djj-h05c1-6.jpg",
-        "img/bear-djj-h05c1-7.jpg",
-        "img/bear-djj-h05c1-8.jpg",
-        "img/bear-djj-h05c1-9.jpg"
-      ],
-      "name": "Máy làm sữa hạt Bear DJJ-H05C1 0.6L",
-      "posted": "Đăng clip Shopee Video",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-lam-sua-hat-bear-djj-h05c1"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/3VlYdAJkDG",
-      "category": "nha-bep",
-      "description": "Nồi cơm điện mini Bear DFB-B12F1 dung tích 1.2L, hợp người ở một mình hoặc gia đình nhỏ. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/bear-dfb-b12f1.jpg",
-      "name": "Nồi cơm điện mini Bear DFB-B12F1 1.2L",
-      "posted": "Đăng Page Facebook 06/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "noi-com-dien-mini-bear-dfb-b12f1"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/7VHkSHYMTd",
-      "category": "me-be",
-      "description": "Máy đa năng điện tử Fatz Baby Multimax 2: tiệt trùng, sấy khô và hâm sữa cho bé trong một máy. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/fatz-multimax-2.jpg",
-      "images": [
-        "fatz-multimax-2-x2.jpg",
-        "fatz-multimax-2-x3.jpg"
-      ],
-      "name": "Máy đa năng điện tử Fatz Baby Multimax 2",
-      "posted": "Đăng Page Facebook 11/11/2026",
-      "price": 1167600,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá sau ưu đãi kiểm chứng trong app Shopee ngày 13/11/2026.",
-      "price_verified": true,
-      "slug": "may-da-nang-fatz-baby-multimax-2"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/AKbvpe9uZN",
-      "category": "me-be",
-      "description": "Máy tiệt trùng sấy khô UVC LED Fatz Baby King 2 (FB4799BT) cho bình sữa và đồ dùng của bé. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/fatz-king-2.jpg",
-      "name": "Máy tiệt trùng sấy khô UVC LED Fatz Baby King 2",
-      "posted": "Đăng Page Facebook 11/11/2026",
-      "price": 2259300,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá sau ưu đãi kiểm chứng trong app Shopee ngày 13/11/2026.",
-      "price_verified": true,
-      "slug": "may-tiet-trung-fatz-baby-king-2"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/AAIVf4pfsJ",
-      "category": "dien-tu",
-      "description": "Pin sạc dự phòng Ugreen dung lượng 10.000mAh, hỗ trợ sạc nhanh PD 3.0. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/pin-ugreen-10000mah.jpg",
-      "images": [
-        "pin-ugreen-10000mah-g2.jpg",
-        "pin-ugreen-10000mah-g3.jpg",
-        "pin-ugreen-10000mah-g4.jpg",
-        "pin-ugreen-10000mah-g5.jpg"
-      ],
-      "name": "Pin sạc dự phòng Ugreen 10.000mAh PD 3.0",
-      "posted": "Đăng Page Facebook; kiểm chứng lại giá 13/11/2026",
-      "price": 450180,
-      "price_checked": "2026-11-13",
-      "price_note": "Giá sau ưu đãi tại Ugreen (Shopee Mall), kiểm chứng trong app Shopee ngày 13/11/2026.",
-      "price_verified": true,
-      "slug": "pin-sac-du-phong-ugreen-10000mah",
-      "youtube": "https://www.youtube.com/shorts/iQBNocqHhms"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/3VlbfyUFYZ",
-      "category": "suc-khoe",
-      "description": "Máy massage cầm tay mini cao cấp có cảm biến Zidan chính hãng, thư giãn cơ sau tập luyện và làm việc. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/may-massage-zidan.jpg",
-      "name": "Máy massage cầm tay mini Zidan có cảm biến",
-      "posted": "Đăng Page Facebook 10/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-massage-cam-tay-zidan"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/3qOS4aSysb",
-      "category": "suc-khoe",
-      "description": "Máy massage cầm tay Smart Trend chính hãng, nhiều mức lực, dùng cho vai gáy, lưng và chân. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/may-massage-smart-trend.jpg",
-      "images": [
-        "may-massage-smart-trend-x2.jpg"
-      ],
-      "name": "Máy massage cầm tay Smart Trend",
-      "posted": "Đăng Page Facebook 10/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-massage-cam-tay-smart-trend"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/7puaqZRM0E",
-      "category": "suc-khoe",
-      "description": "Cân điện tử thông minh Laica PS7011 đo 6 chỉ số cơ thể. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/can-laica-ps7011.jpg",
-      "images": [
-        "can-laica-ps7011-x2.jpg",
-        "can-laica-ps7011-x3.jpg",
-        "can-laica-ps7011-x4.jpg"
-      ],
-      "name": "Cân sức khỏe Laica PS7011 đo 6 chỉ số",
-      "posted": "Đăng Page Facebook 10/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "can-suc-khoe-laica-ps7011"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/50aMOeo4TQ",
-      "category": "suc-khoe",
-      "description": "Bàn chải điện Halio Sonic Whitening PRO, bán tại Lixibox Official Store (Shopee Mall). Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/ban-chai-dien-halio.jpg",
-      "name": "Bàn chải điện Halio Sonic Whitening PRO",
-      "posted": "Đăng Page Facebook 05/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "ban-chai-dien-halio-sonic-whitening-pro"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/qknR6SjSf",
-      "category": "suc-khoe",
-      "description": "Máy massage bàn tay Túc Thảo An, thư giãn bàn tay sau ngày làm việc. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/may-massage-tuc-thao-an.jpg",
-      "name": "Máy massage bàn tay Túc Thảo An",
-      "posted": "Đăng Page Facebook 05/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-massage-ban-tay-tuc-thao-an"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/4fxW02pL9O",
-      "category": "nha-bep",
-      "description": "Bàn ủi (bàn là) hơi nước cầm tay gấp gọn 1550W, ủi nhanh quần áo và tiện mang đi du lịch. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/ban-ui-hoi-nuoc.jpg",
-      "name": "Bàn ủi hơi nước cầm tay gấp gọn 1550W",
-      "posted": "Đăng Page Facebook 05/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "ban-ui-hoi-nuoc-cam-tay-gap-gon"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/gRNEnTMnc",
-      "category": "dien-tu",
-      "description": "Camera trong nhà IMOU Ranger 2 (bản A32/A52), quan sát nhà cửa và trẻ nhỏ qua điện thoại. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/camera-imou-ranger-2.png",
-      "name": "Camera trong nhà IMOU Ranger 2 A32/A52",
-      "posted": "Đăng Page Facebook 06/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "camera-trong-nha-imou-ranger-2"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/3qOP1huJNU",
-      "category": "nha-bep",
-      "description": "Máy vắt cam bằng điện Lock&Lock EJJ231, vắt cam nhanh gọn cho gia đình. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
-      "image": "img/may-vat-cam-ejj231.jpg",
-      "name": "Máy vắt cam bằng điện Lock&Lock EJJ231",
-      "posted": "Đăng Page Facebook 06/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-vat-cam-locklock-ejj231"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/BV5M5hx0V",
-      "category": "suc-khoe",
-      "description": "Máy đo huyết áp bắp tay OMRON HEM-7183T1-AP EZ BT, kết nối Bluetooth để theo dõi kết quả trên điện thoại.",
-      "image": "img/omron-hem-7183t1.jpg",
-      "name": "Máy đo huyết áp OMRON HEM-7183T1-AP EZ BT",
-      "posted": "Có link affiliate trong kho Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-do-huyet-ap-omron-hem-7183t1"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/1BNcXve8yj",
-      "category": "nha-bep",
-      "description": "Máy làm sữa hạt Sunhouse SHD5261 dung tích 1L, xay nấu sữa hạt cho gia đình nhỏ.",
-      "image": "img/sunhouse-shd5261.jpg",
-      "name": "Máy làm sữa hạt Sunhouse SHD5261 1L",
-      "posted": "Có link affiliate trong kho Hàng Tốt Giá Tốt",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-lam-sua-hat-sunhouse-shd5261"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F17209089%2F10728280473&affiliate_id=17374300035&sub_id=----",
-      "category": "nha-bep",
-      "description": "Nồi chiên không dầu Philips Airfryer XL HD9270/90: dung tích tổng 6,2 lít, giỏ chiên 3 lít chứa 1,2kg thực phẩm, công nghệ Rapid Air đáy hình sao, công suất 2000W, màn hình cảm ứng, 7 chương trình nấu sẵn, chỉnh nhiệt 40–200°C, hẹn giờ, giữ ấm, lòng nồi chống dính tháo rời rửa được bằng máy rửa chén. Lưu ý: Philips VN ghi model này 'Ngừng sản xuất' — hàng trên Shopee là tồn kho/nhập khẩu, nguồn cung có thể cạn; khi mua chọn đúng phân loại HD9270 6,2L và kiểm tra mã HD9270/90 trên tem máy. Không có Wi-Fi/app (đó là HD9280).",
-      "image": "img/noi-chien-philips-hd9270.jpg",
-      "images": [
-        "img/noi-chien-philips-hd9270-2.jpg",
-        "img/noi-chien-philips-hd9270-3.jpg"
-      ],
-      "name": "Nồi chiên không dầu Philips Airfryer XL HD9270/90 6.2L",
-      "posted": "Đăng Page Facebook 13/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "noi-chien-khong-dau-philips-hd9270"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/1W0XFIpOyr",
-      "category": "nha-bep",
-      "description": "Bếp đơn hồng ngoại Sunhouse (Shopee Mall): công suất 2000W, 5 chế độ nấu, mặt kính cường lực chịu nhiệt tới 600°C, hẹn giờ tắt 4h, phím bấm điện tử. Dùng được mọi loại nồi kể cả nồi đất. Lưu ý: điều khiển cảm ứng nên tay ướt bấm sẽ kém nhạy; mặt kính sau khi nấu còn nóng một lúc, chờ nguội hẳn mới lau.",
-      "image": "img/bep-hong-ngoai-sunhouse-shd6011.jpg",
-      "images": [
-        "bep-hong-ngoai-sunhouse-shd6011-x2.jpg",
-        "bep-hong-ngoai-sunhouse-shd6011-x3.jpg",
-        "bep-hong-ngoai-sunhouse-shd6011-x4.jpg"
-      ],
-      "name": "Bếp hồng ngoại Sunhouse SHD6011",
-      "posted": "Đăng Page Facebook 13/11/2026",
-      "price": 697200,
-      "price_checked": "2026-11-08",
-      "price_note": "Giá sau Voucher Shopee giảm 16% (giá shop 830.000đ, gốc 890.000đ), kiểm chứng trong app Shopee ngày 08/11/2026; đối chiếu lại tối 13/11 giá shop vẫn 830.000đ.",
-      "price_verified": true,
-      "slug": "bep-hong-ngoai-sunhouse-shd6011"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/6L5mOV2qFm",
-      "category": "nha-bep",
-      "description": "Đầu vòi gắn thêm cho vòi rửa chén: dòng nước tăng áp, xoay 360°, 3 chế độ phun (tia mạnh – phun mưa – phun rộng), tích hợp đầu lọc nước. Nhỏ gọn 90×38 mm, đầu nối 24 mm. Lưu ý: đo ren vòi nhà trước khi đặt (đầu nối 24 mm).",
-      "image": "img/dau-voi-rua-bat-tang-ap-360-homebox.jpg",
-      "images": [
-        "dau-voi-rua-bat-tang-ap-360-homebox-x2.jpg",
-        "dau-voi-rua-bat-tang-ap-360-homebox-x3.jpg",
-        "dau-voi-rua-bat-tang-ap-360-homebox-x4.jpg"
-      ],
-      "name": "Đầu Vòi Rửa Bát Tăng Áp 360° HOMEBOX",
-      "posted": "Đăng Page Facebook 14/11/2026",
-      "price": 31850,
-      "price_checked": "2026-11-14",
-      "price_note": "Giá sau voucher giảm 60% (niêm yết 80.000đ), kiểm chứng trong app Shopee đêm 13→14/11/2026; giá web tham chiếu 49.000đ.",
-      "price_verified": true,
-      "slug": "dau-voi-rua-bat-tang-ap-360-homebox"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/1qdNeXlZuI",
-      "category": "nha-bep",
-      "description": "Máy làm sữa hạt Bear 1L: xay nấu 3 chiều công suất 800W, dao 10 lưỡi thép không gỉ, 8 chế độ (sữa hạt, cháo, sinh tố, giữ ấm, hẹn giờ), chống ồn 5 lớp, lõi thép không gỉ 304, vệ sinh 1 chạm bằng nước nóng. Lưu ý: 1L chỉ hợp nhà 2–4 người.",
-      "image": "img/may-lam-sua-hat-bear-sb-sh09q-1l.jpg",
-      "images": [
-        "may-lam-sua-hat-bear-sb-sh09q-1l-x2.jpg",
-        "may-lam-sua-hat-bear-sb-sh09q-1l-x3.jpg",
-        "may-lam-sua-hat-bear-sb-sh09q-1l-x4.jpg"
-      ],
-      "name": "Máy làm sữa hạt Bear SB-SH09Q 1L",
-      "posted": "Đăng Page Facebook 14/11/2026",
-      "price": 1003842,
-      "price_checked": "2026-11-14",
-      "price_note": "Giá sau voucher giảm 41% (niêm yết 1.690.000đ), kiểm chứng trong app Shopee đêm 14/11/2026 (00:02–01:15); giá web tham chiếu 1.231.900đ.",
-      "price_verified": true,
-      "slug": "may-lam-sua-hat-bear-sb-sh09q-1l"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/60StbLxE9A",
-      "category": "nha-bep",
-      "description": "Nồi lẩu điện đa năng Bear 2,5L: thiết kế 2 tầng tách rời có khay hấp inox riêng, lòng nồi chống dính nấu/lẩu/chiên/xào/hầm/hấp, nắp kính trong nhìn rõ đồ ăn, núm vặn chỉnh nhiệt, vừa cho 2–3 người ăn. Lưu ý: Bear Mall đã ngừng bán model này, nay chỉ còn ở các shop nhỏ và nhiều listing gộp phân loại — khi mua nhớ chọn đúng phân loại DHG-B25Z1 2,5L.",
-      "image": "img/noi-lau-dien-bear-dhg-b25z1.jpg",
-      "images": [
-        "noi-lau-dien-bear-dhg-b25z1-g3.jpg",
-        "noi-lau-dien-bear-dhg-b25z1-g4.jpg",
-        "noi-lau-dien-bear-dhg-b25z1-g5.jpg"
-      ],
-      "name": "Nồi lẩu điện đa năng Bear DHG-B25Z1 2,5L",
-      "posted": "Đăng Page Facebook 14/11/2026",
-      "price": 924000,
-      "price_checked": "2026-11-14",
-      "price_note": "Giá sau voucher 924.000₫, kiểm chứng trong app Shopee đêm 14/11/2026 (00:02–01:15) tại listing 'Nồi nấu đa năng 2,5L Bear DHG-B25Z1' (3 phân loại, còn hàng); Bear Mall đã ngừng bán model này nên không có niêm yết Mall để đối chiếu.",
-      "price_verified": true,
-      "slug": "noi-lau-dien-bear-dhg-b25z1-25l",
-      "youtube": "https://www.youtube.com/shorts/GQY4Qw7UY0w"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/7KyKCKueI7",
-      "category": "nha-bep",
-      "description": "Nồi cơm điện Lock&Lock Compact 1.2L màu đen: nhỏ gọn vừa bếp nhỏ và nhà 1–3 người, 5 chế độ nấu (cơm, cháo, súp, sữa chua, giữ ấm) bấm 1 nút Start, công suất 500W. Chính hãng Lock&Lock Official Store (Shopee Mall), bảo hành 2 năm. Lưu ý: dung tích 1.2L chỉ hợp nhà ít người; nhà đông người nên chọn nồi 1.8L trở lên.",
-      "image": "img/noi-com-dien-lock-lock-ejr346blk-12l.jpg",
-      "images": [
-        "noi-com-dien-lock-lock-ejr346blk-12l-x2.jpg",
-        "noi-com-dien-lock-lock-ejr346blk-12l-x3.jpg",
-        "noi-com-dien-lock-lock-ejr346blk-12l-x4.jpg"
-      ],
-      "name": "Nồi cơm điện Lock&Lock Compact EJR346BLK 1.2L",
-      "posted": "Đăng Page Facebook 14/11/2026",
-      "price": 1078963,
-      "price_checked": "2026-11-14",
-      "price_note": "Giá sau voucher, giảm 53% so với giá gốc 2.289.000đ, kiểm chứng trong app Shopee đêm 13→14/11/2026.",
-      "price_verified": true,
-      "slug": "noi-com-dien-lock-lock-ejr346blk-12l"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1294163373%2F24933027759&affiliate_id=17374300035&sub_id=----",
-      "category": "suc-khoe",
-      "description": "Máy tăm nước Waterpik WP-660 Aquarius để bàn: 10 mức áp lực nước (10–100 PSI), 2 chế độ Floss và Hydro-Pulse Massage, kèm 7 đầu tăm cho cả nhà, bình nước 650ml xịt liên tục hơn 90 giây, hẹn giờ 1 phút và nhắc sau 30 giây, đầu xoay 360 độ. Lưu ý: listing VN có bản Đức 220V (dùng trực tiếp) và bản Mỹ 120V (cần ổ đổi nguồn, có shop tặng kèm) — khi mua chọn đúng phân loại WP-660.",
-      "image": "img/may-tam-nuoc-waterpik-wp-660.jpg",
-      "images": [
-        "may-tam-nuoc-waterpik-wp-660-g3.jpg",
-        "may-tam-nuoc-waterpik-wp-660-g4.jpg",
-        "may-tam-nuoc-waterpik-wp-660-g5.jpg"
-      ],
-      "name": "Máy tăm nước Waterpik WP-660 Aquarius",
-      "posted": "Đăng Page Facebook 14/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-tam-nuoc-waterpik-wp-660-aquarius",
-      "youtube": "https://www.youtube.com/shorts/ylwH0hHb4fo"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/80E11boaVN",
-      "category": "nha-bep",
-      "description": "Bộ hộp cơm giữ nhiệt 2.0L gồm 1 hộp 720ml + 2 hộp 420ml, đựng cơm, canh/súp và món ăn kèm riêng từng ngăn. Thân inox không gỉ, nắp PP chịu nhiệt −20°C đến 120°C, có nắp tránh mất nhiệt. Kèm túi đựng giữ nhiệt có dây đeo + bộ muỗng nĩa inox. Lưu ý: listing có 17 phân loại / 5 màu — giá theo phân loại.",
-      "image": "img/bo-hop-com-giu-nhiet-locknlock-lhc8039-2l.jpg",
-      "images": [
-        "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l-x2.jpg",
-        "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l-x3.jpg",
-        "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l-x4.jpg"
-      ],
-      "name": "Bộ Hộp Cơm Giữ Nhiệt LocknLock LHC8039 2.0L",
-      "posted": "Đăng Page Facebook 15/11/2026",
-      "price": 1051747,
-      "price_checked": "2026-11-14",
-      "price_note": "Giá sau voucher, kiểm chứng bằng app Shopee ngày 14/11/2026 (giảm 50% so với giá gốc 2.114.000đ)",
-      "slug": "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/LoZr0ASmc",
-      "category": "nha-bep",
-      "description": "Máy ép chậm Hurom HU-19SGM: ép bằng trục vít tốc độ thấp, tách nước ra khỏi bã nên nước ép mịn, ít bọt và ít tách nước hơn máy ép nhanh. Thiết kế tháo rời, vệ sinh nhanh sau mỗi lần ép. Phễu tiếp nguyên liệu lớn, cho trái cây vào tiện. Lưu ý: listing có 2 phân loại (Hurom HU-19SGM và Promix SJ-06) — giá theo phân loại HU-19SGM.",
-      "image": "img/may-ep-cham-hurom-hu-19sgm.jpg",
-      "images": [
-        "img/may-ep-cham-hurom-hu-19sgm-2.jpg",
-        "img/may-ep-cham-hurom-hu-19sgm-3.jpg",
-        "img/may-ep-cham-hurom-hu-19sgm-4.jpg",
-        "img/may-ep-cham-hurom-hu-19sgm-5.jpg",
-        "img/may-ep-cham-hurom-hu-19sgm-6.jpg",
-        "img/may-ep-cham-hurom-hu-19sgm-7.jpg",
-        "img/may-ep-cham-hurom-hu-19sgm-8.jpg",
-        "img/may-ep-cham-hurom-hu-19sgm-9.jpg"
-      ],
-      "name": "Máy ép chậm Hurom HU-19SGM",
-      "posted": "Đăng Page Facebook 15/11/2026",
-      "price": 2800000,
-      "price_checked": "2026-11-08",
-      "price_note": "Giá sau voucher, kiểm chứng bằng app Shopee ngày 08/11/2026 (voucher Shopee giảm 20%, giá gốc 3.500.000đ)",
-      "slug": "may-ep-cham-hurom-hu-19sgm"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F635807690%2F20687146347&affiliate_id=17374300035&sub_id=----",
-      "category": "nha-bep",
-      "description": "Nồi áp suất điện đa năng Instant Pot Duo 60 (bản V5): dung tích 5,7L nấu cho 4–6 khẩu phần, 7 chức năng trong 1 (áp suất, nấu chậm, nấu cơm, xào, hấp, làm sữa chua, giữ ấm) với 13 chương trình nấu một chạm. Lòng nồi inox SS304 cho vào máy rửa chén được; nắp khóa an toàn, kiểm soát áp suất, chống quá nhiệt.",
-      "image": "img/noi-ap-suat-dien-instant-pot-duo-60.jpg",
-      "name": "Nồi áp suất điện Instant Pot Duo 60",
-      "posted": "Đăng Page Facebook 15/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "noi-ap-suat-dien-instant-pot-duo-60"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F27495839%2F22139487052&affiliate_id=17374300035&sub_id=----",
-      "category": "me-be",
-      "description": "Máy pha sữa Baby Brezza Formula Pro Advanced (bản thường, không WiFi): bấm 1 nút là có ngay bình sữa ấm — tự pha, trộn đều, rót thẳng vào bình, không cần đong đo hay chờ nguội. 9 mức sữa 60–300ml, 3 mức nhiệt (nhiệt độ phòng / thân nhiệt / ấm hơn), hộc bột kín khí 700g, dùng được hầu hết hãng sữa và mọi loại bình. Lưu ý: listing hay gộp bản Advanced + Mini — khi mua chọn đúng phân loại Advanced thường.",
-      "image": "img/may-pha-sua-baby-brezza-formula-pro-advanced.jpg",
-      "name": "Máy pha sữa Baby Brezza Formula Pro Advanced",
-      "posted": "Đăng Page Facebook 15/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-pha-sua-baby-brezza-formula-pro-advanced"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F832087581%2F27801732934&affiliate_id=17374300035&sub_id=shopeevideo----",
-      "category": "nha-bep",
-      "description": "Máy ép chậm Panasonic MJ-L500: ép chậm chỉ 45 vòng/phút — nước ép đậm vị, giữ trọn dưỡng chất; trục ép thép không gỉ, công suất 150W; kèm cối làm kem chuyên dụng — vừa ép nước, vừa làm kem trái cây; vòi chống nhỏ giọt, xoay đảo chiều chống kẹt. Lưu ý: footage quay bản MJ-L500 màu đỏ (bản RXE thị trường châu Âu/Singapore); listing VN bán bản MJ-L500SRA bạc–đen — cùng model, chỉ khác màu/biến thể thị trường, khi mua chọn đúng phân loại MJ-L500SRA.",
-      "image": "img/may-ep-cham-panasonic-mj-l500.jpg",
-      "images": [
-        "img/may-ep-cham-panasonic-mj-l500-2.jpg",
-        "img/may-ep-cham-panasonic-mj-l500-3.jpg",
-        "img/may-ep-cham-panasonic-mj-l500-4.jpg",
-        "img/may-ep-cham-panasonic-mj-l500-5.jpg"
-      ],
-      "name": "Máy ép chậm Panasonic MJ-L500",
-      "posted": "Đăng Page Facebook 15/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-ep-cham-panasonic-mj-l500"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/3LSBVG3TSL",
-      "category": "suc-khoe",
-      "description": "Nhiệt kế hồng ngoại điện tử đo không tiếp xúc: đo trán/tai, đo thêm nước pha sữa và nhiệt độ bề mặt, kết quả sau 0,5–1 giây, không chạm da. Màn hình đổi 3 màu theo nhiệt độ (xanh bình thường, vàng cao, đỏ sốt kèm âm báo). Tặng pin kèm theo, bảo hành 12 tháng 1 đổi 1. Lưu ý: listing gộp 4 model khác nhau — kiểm tra kỹ model của phân loại trước khi đặt (giá theo phân loại mặc định CK-T1502).",
-      "image": "img/nhiet-ke-hong-ngoai-dien-tu-do-khong-tiep-xuc.jpg",
-      "images": [
-        "nhiet-ke-hong-ngoai-dien-tu-do-khong-tiep-xuc-x2.jpg",
-        "nhiet-ke-hong-ngoai-dien-tu-do-khong-tiep-xuc-x3.jpg"
-      ],
-      "name": "Nhiệt kế hồng ngoại điện tử đo không tiếp xúc",
-      "posted": "Đăng Page Facebook 15/11/2026",
-      "price": 185600,
-      "price_checked": "2026-11-08",
-      "price_note": "Giá sau voucher, kiểm chứng bằng app Shopee ngày 08/11/2026 (voucher Shopee giảm 20%, giá gốc 232.000đ)",
-      "slug": "nhiet-ke-hong-ngoai-dien-tu-do-khong-tiep-xuc"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/9fMF2jvMfx",
-      "category": "suc-khoe",
-      "description": "Nhiệt kế hồng ngoại đo trán không tiếp xúc: đo ở trán, tai hoặc nách, cho kết quả sau khoảng 0,5 giây chỉ với 1 lần ấn SCAN, màn hình điện tử hiển thị rõ ràng. Thay thế tiện cho nhiệt kế thủy ngân trong nhà có trẻ nhỏ, bảo hành 12 tháng. Lưu ý: listing có 2 phân loại (CKT-1502 và CK-T1803) — giá theo phân loại mặc định CKT-1502, chọn đúng model trước khi đặt.",
-      "image": "img/nhiet-ke-dien-tu-hong-ngoai-do-tran-infrared-ckt1502.jpg",
-      "images": [
-        "nhiet-ke-dien-tu-hong-ngoai-do-tran-infrared-ckt1502-x2.jpg",
-        "nhiet-ke-dien-tu-hong-ngoai-do-tran-infrared-ckt1502-x3.jpg"
-      ],
-      "name": "Nhiệt kế điện tử hồng ngoại đo trán Infrared CKT1502",
-      "posted": "Đăng Page Facebook 16/11/2026",
-      "price": 250000,
-      "price_checked": "2026-11-16",
-      "price_note": "Giá sau voucher Shopee (giá gốc 300.000đ), kiểm chứng trong app Shopee đêm 16/11/2026.",
-      "price_verified": true,
-      "slug": "nhiet-ke-dien-tu-hong-ngoai-do-tran-infrared-ckt1502"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/3B8iETwqjI",
-      "category": "nha-bep",
-      "description": "Máy làm bánh mì tự động Panasonic SD-P104WRA: 13 thực đơn tự động, hẹn giờ tới 13 tiếng, ngăn rắc hạt khô/men tự động, ghi nhớ khi mất điện. Tối cho nguyên liệu vào, sáng dậy đã có ổ bánh mì nóng hổi — khỏi nhào tay, khỏi canh lò. Lưu ý: listing có 2 model (SD-P104WRA / SD-PD100WRA) — giá theo bản SD-P104WRA như ảnh, chọn đúng model trước khi đặt.",
-      "image": "img/may-lam-banh-mi-panasonic-sd-p104.jpg",
-      "images": [
-        "may-lam-banh-mi-panasonic-sd-p104-x2.jpg",
-        "may-lam-banh-mi-panasonic-sd-p104-x3.jpg"
-      ],
-      "name": "Máy làm bánh mì tự động Panasonic SD-P104",
-      "posted": "Đăng Page Facebook 16/11/2026",
-      "price": 4190000,
-      "price_checked": "2026-11-08",
-      "price_note": "Giá sau voucher Shopee giảm 20% (tối đa 1.000.000đ), giá gốc 5.190.000đ, kiểm chứng trong app Shopee ngày 08/11/2026.",
-      "price_verified": true,
-      "slug": "may-lam-banh-mi-panasonic-sd-p104"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F324877062%2F4357990358&affiliate_id=17374300035&sub_id=----",
-      "category": "nha-bep",
-      "description": "Máy hút bụi Deerma DX700S 2 trong 1: công suất 600W, lực hút 15.000Pa, hộp bụi 0,8 lít, lọc HEPA 3 lớp, 3 đầu hút thay đổi (sàn, khe hẹp, bàn chải), dây dài 4,5 mét, công nghệ lốc xoáy Pro Cyclone. Đánh giá 4,92/5 với 1.423 lượt đánh giá tại opaanlp trên Shopee. Lưu ý: clip quay máy DX700 (bản quốc tế) — cùng họ DX700S bán ở VN, manual hãng ghi chung MODEL NO.: DX700/DX700S; một shop ghi lực hút 14.000Pa, đa số listing DX700S ghi 15.000Pa. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/may-hut-bui-deerma-dx700s.jpg",
-      "images": [
-        "img/may-hut-bui-deerma-dx700s-2.jpg",
-        "img/may-hut-bui-deerma-dx700s-3.jpg",
-        "img/may-hut-bui-deerma-dx700s-4.jpg",
-        "img/may-hut-bui-deerma-dx700s-5.jpg"
-      ],
-      "name": "Máy hút bụi Deerma DX700S",
-      "posted": "Đăng Page Facebook 16/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
-      "price_verified": false,
-      "slug": "may-hut-bui-deerma-dx700s",
-      "youtube": "https://www.youtube.com/shorts/IuvzWuQV2Qg"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/7VHkQqdNSO",
-      "category": "nha-bep",
-      "description": "Cân tiểu ly điện tử mặt thép không gỉ, định lượng 1g đến 10kg, màn hình LCD rõ nét, đổi đơn vị g/oz/ml, trừ bì 1 chạm, tự tắt sau 60 giây, tặng kèm 2 pin AAA. Lưu ý: mặt cân nhỏ, cân đồ cồng kềnh hơi chật; nhớ chọn đúng phân loại 1g–10kg để được giá trong bài.",
-      "image": "img/can-tieu-ly-dien-tu-nha-bep.jpg",
-      "images": [
-        "can-tieu-ly-dien-tu-nha-bep-x2.jpg",
-        "can-tieu-ly-dien-tu-nha-bep-x3.jpg"
-      ],
-      "name": "Cân Tiểu Ly Điện Tử Nhà Bếp 1g–10kg",
-      "posted": "Đăng Page Facebook 16/11/2026",
-      "price": 64000,
-      "price_checked": "2026-11-08",
-      "price_note": "Giá sau Flash Sale giảm 28% (gốc 89.000đ), bản 1g–10kg, kiểm chứng trong app Shopee ngày 08/11; kiểm tra lại trên web ngày 16/11 khớp đúng 64.000đ.",
-      "price_verified": true,
-      "slug": "can-tieu-ly-dien-tu-nha-bep"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1557189999%2F42906220413&affiliate_id=17374300035&sub_id=----",
-      "category": "me-be",
-      "description": "Máy hâm sữa Philips Avent SCF358/00 — hâm sữa và thức ăn trong ~3 phút (chuẩn 150ml ở 22°C), cảm biến nhiệt thông minh, dùng được bình 30–330ml, 3 chế độ hâm/rã đông/giữ ấm 60 phút rồi tự ngắt. Đánh giá 4,7/5 tại Philips Avent trên Shopee Mall. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/may-ham-sua-philips-avent-scf358-00.jpg",
-      "images": [
-        "img/may-ham-sua-philips-avent-scf358-00-2.jpg",
-        "img/may-ham-sua-philips-avent-scf358-00-3.jpg",
-        "img/may-ham-sua-philips-avent-scf358-00-4.jpg",
-        "img/may-ham-sua-philips-avent-scf358-00-5.jpg",
-        "img/may-ham-sua-philips-avent-scf358-00-6.jpg",
-        "img/may-ham-sua-philips-avent-scf358-00-7.jpg"
-      ],
-      "name": "Máy hâm sữa Philips Avent SCF358/00",
-      "posted": "Đăng Page Facebook 16/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
-      "price_verified": false,
-      "slug": "may-ham-sua-philips-avent-scf358-00",
-      "youtube": "https://www.youtube.com/shorts/cuNYz3egYjQ"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/7VHeW252JY",
-      "category": "suc-khoe",
-      "description": "Súng massage cầm tay KAW model Relax Tone, 2.500 vòng/phút, công suất 25W, kèm 5 đầu massage thay thế (3 đầu massage, 1 đầu chà gót chân, 1 đầu bọc lưới), dùng điện trực tiếp 220V dây dài 140cm, dùng cho cổ vai gáy, lưng, eo, chân. Lưu ý: cần ổ cắm gần chỗ ngồi; có phản hồi lẻ về tiếng ồn khi mở mức cao; lực đấm dòng phổ thông, ấn sâu thì yếu hơn.",
-      "image": "img/sung-massage-cam-tay-kaw-relax.jpg",
-      "images": [
-        "sung-massage-cam-tay-kaw-relax-x2.jpg",
-        "sung-massage-cam-tay-kaw-relax-x3.jpg"
-      ],
-      "name": "Súng Massage Cầm Tay KAW Relax",
-      "posted": "Đăng Page Facebook 17/11/2026",
-      "price": 275600,
-      "price_checked": "2026-11-17",
-      "price_note": "Giá sau voucher giảm 26% (gốc 370.000đ), kiểm chứng trong app Shopee ngày 17/11; giá và mã có thể thay đổi theo đợt sale.",
-      "price_verified": true,
-      "slug": "sung-massage-cam-tay-kaw-relax"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/4fxT8uhmBR",
-      "category": "nha-bep",
-      "description": "Nồi chiên không dầu SUNHOUSE SHD4032 dung tích 6.5L, khoang chiên kính trong suốt nhìn thấy đồ ăn đang chín mà không cần mở nắp, công nghệ Rapid Air 360° giảm tới 80% dầu mỡ, 10 chức năng nấu, công suất 1600W. Đã bán 10k+, 4.88/5 với 2.098 đánh giá, bảo hành chính hãng 12 tháng. Lưu ý: máy khá to, hợp bếp gia đình rộng rãi; khay chiên đồ tẩm ướp nên ngâm rửa sau khi dùng.",
-      "image": "img/noi-chien-khong-dau-sunhouse-shd4032-6-5l.jpg",
-      "images": [
-        "noi-chien-khong-dau-sunhouse-shd4032-6-5l-x2.jpg",
-        "noi-chien-khong-dau-sunhouse-shd4032-6-5l-x3.jpg"
-      ],
-      "name": "Nồi chiên không dầu SUNHOUSE SHD4032 6.5L",
-      "posted": "Đăng Page Facebook 17/11/2026",
-      "price": 1197200,
-      "price_checked": "2026-11-17",
-      "price_note": "Giá sau voucher giảm 18% (gốc 1.460.000đ, tiết kiệm 262.800đ), kiểm chứng trong app Shopee ngày 17/11; giá và mã có thể thay đổi theo đợt sale.",
-      "price_verified": true,
-      "slug": "noi-chien-khong-dau-sunhouse-shd4032-6-5l"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F130938115%2F29514881869&affiliate_id=17374300035&sub_id=----",
-      "category": "dien-tu",
-      "description": "Sạc không dây 3 trong 1 UGREEN CD278 — MagSafe 15W cho iPhone (chuẩn MFi), 5W cho Apple Watch và 5W cho AirPods, sạc 3 thiết bị cùng lúc qua một dây USB-C, giá đỡ xoay nghiêng 20–90 độ, bảo hành 18 tháng 1 đổi 1. Lưu ý: đế không kèm củ sạc, cần củ 30W riêng mới đạt đủ công suất. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/sac-khong-day-ugreen-cd278.jpg",
-      "images": [
-        "img/sac-khong-day-ugreen-cd278-2.jpg",
-        "img/sac-khong-day-ugreen-cd278-3.jpg",
-        "img/sac-khong-day-ugreen-cd278-4.jpg",
-        "img/sac-khong-day-ugreen-cd278-5.jpg"
-      ],
-      "name": "Sạc không dây MagSafe 3 trong 1 UGREEN CD278",
-      "posted": "Đăng Page Facebook 17/11/2026; YouTube Short 14:27 17/11/2026; Shopee Video chờ phiên đêm",
-      "price": null,
-      "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
-      "price_verified": false,
-      "slug": "sac-khong-day-ugreen-cd278-magsafe-3-trong-1",
-      "youtube": "https://www.youtube.com/shorts/beZngvlKe7Y"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F6470337%2F4383713782&affiliate_id=17374300035&sub_id=----",
-      "category": "nha-bep",
-      "description": "Máy khử mùi tủ lạnh Xiaomi EraClean CW-B01 — khử mùi bằng ozone, hai chế độ: giữ tươi tới 30 ngày và khử mùi sâu khi mùi nặng. Sạc USB đầy trong 2 giờ, không cần thay lõi lọc. Nhỏ gọn, treo ngay cửa tủ, chịu lạnh tới −30°C; dùng được cả tủ giày, tủ quần áo và xe hơi. Lưu ý: máy mang logo EraClean (hãng sản xuất trực tiếp, hợp tác với Xiaomi) — trên thân máy và hộp không có logo Xiaomi.",
-      "image": "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01.jpg",
-      "images": [
-        "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-2.jpg",
-        "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-3.jpg",
-        "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-4.jpg",
-        "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-5.jpg",
-        "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-6.jpg",
-        "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-7.jpg",
-        "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-8.jpg"
-      ],
-      "name": "Máy khử mùi tủ lạnh Xiaomi EraClean CW-B01",
-      "posted": "YouTube Short 17:51 17/11/2026; Shopee Video chờ phiên đêm",
-      "price": 389000,
-      "price_checked": "2026-11-17",
-      "price_note": "Giá sau voucher (giá gốc 439.000đ), kiểm chứng trong app Shopee ngày 17/11/2026 — đúng phân loại EraClean CW-B01, shop 978 Store (đã bán 1k+).",
-      "price_verified": true,
-      "slug": "may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01",
-      "youtube": "https://www.youtube.com/shorts/Agh0HbX-IZc"
-    },
-    {
-      "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F284593651%2F25921105548&affiliate_id=17374300035&sub_id=----",
-      "category": "nha-bep",
-      "description": "Ấm siêu tốc Philips HD9350/90 — Daily Collection, 1,7 lít (hơn 7 tách), thân inox, nắp lò xo mở rộng, công suất 2200W đun sôi nhanh, vòi rót có lưới lọc cặn siêu mịn 200 micromet, tự ngắt khi sôi, chống cạn, đèn báo xanh, đế xoay 360 độ không dây. Lưu ý: bản /90 màu đen; không chỉnh nhiệt độ, không giữ ấm. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
-      "image": "img/am-sieu-toc-philips-hd9350-90.jpg",
-      "name": "Ấm siêu tốc Philips HD9350/90 1.7L",
-      "posted": "Đăng Page Facebook 17/11/2026; Shopee Video chờ phiên đêm",
-      "price": null,
-      "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
-      "price_verified": false,
-      "slug": "am-sieu-toc-philips-hd9350-90"
-    }
-  ],
-  "site": {
-    "base_url": "https://hangtot.pages.dev/",
-    "name": "Hàng Tốt Giá Tốt",
-    "tagline": "Deal Shopee chọn lọc — giá đã kiểm chứng trong app Shopee"
+ "categories": [
+  {
+   "id": "nha-bep",
+   "name": "Nhà bếp & Gia dụng"
+  },
+  {
+   "id": "me-be",
+   "name": "Mẹ & Bé"
+  },
+  {
+   "id": "suc-khoe",
+   "name": "Sức khỏe & Chăm sóc cá nhân"
+  },
+  {
+   "id": "xe",
+   "name": "Phụ kiện ô tô & xe máy"
+  },
+  {
+   "id": "dien-tu",
+   "name": "Điện tử & Phụ kiện"
+  },
+  {
+   "id": "khac",
+   "name": "Khác"
   }
+ ],
+ "products": [
+  {
+   "aff_link": "https://s.shopee.vn/gRLx0g2ze",
+   "category": "suc-khoe",
+   "description": "Máy tăm nước vệ sinh răng miệng với tia nước siêu mềm 0,6mm, 3 chế độ Weak / Strong / Pulse giúp làm sạch mảng bám và thức ăn kẹt kẽ răng. Bình chứa 220ml, kèm 4 đầu tăm và cáp sạc USB, nhỏ gọn mang đi du lịch, bảo hành 6 tháng. Lưu ý: bình 220ml dùng kỹ có thể phải châm thêm giữa chừng; nướu nhạy cảm nên bắt đầu ở chế độ Weak.",
+   "image": "img/may-tam-nuoc-hamani.jpg",
+   "images": [
+    "may-tam-nuoc-hamani-x2.jpg",
+    "may-tam-nuoc-hamani-x3.jpg",
+    "may-tam-nuoc-hamani-x4.jpg"
+   ],
+   "name": "Máy tăm nước HAMANI 3 chế độ",
+   "posted": "Đăng Page Facebook 13/11/2026",
+   "price": 172000,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá sau Voucher Shopee giảm 20% (giá shop 215.000đ, gốc 300.000đ), kiểm chứng trong app Shopee ngày 13/11/2026.",
+   "price_verified": true,
+   "slug": "may-tam-nuoc-hamani"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/2LZdX5L7Ta",
+   "category": "me-be",
+   "description": "Nhiệt kế đa năng đo nước pha sữa, thực phẩm và nước tắm cho bé: đầu dò thép không gỉ gập gọn, dải đo −50°C đến 300°C, màn hình LCD đọc nhanh, chuyển °C/°F bằng 1 nút bấm, bảo hành 12 tháng. Nhỏ gọn, bỏ túi mang theo tiện.",
+   "image": "img/nhiet-ke-sipanic-tp-606.jpg",
+   "images": [
+    "nhiet-ke-sipanic-tp-606-x2.jpg",
+    "nhiet-ke-sipanic-tp-606-x3.jpg"
+   ],
+   "name": "Nhiệt kế điện tử đa năng Sipanic TP-606",
+   "posted": "Đăng Page Facebook 13/11/2026",
+   "price": 167200,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá sau Voucher Shopee giảm 20% (giá shop 209.000đ, gốc 399.000đ), kiểm chứng trong app Shopee ngày 13/11/2026.",
+   "price_verified": true,
+   "slug": "nhiet-ke-sipanic-tp-606"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/8AXREEOCsg",
+   "category": "nha-bep",
+   "description": "Bộ dao nhà bếp gồm dao chặt, dao thái, dao gọt, kéo, nạo, thớt và giá đựng. Lưỡi thép không gỉ có lớp kháng khuẩn, chống oxi hoá; cán nhựa lúa mạch chắc tay, chống trơn trượt. Lưu ý: lớp phủ màu trang trí nên tránh chà bằng búi sắt mạnh tay để giữ màu bền.",
+   "image": "img/bo-dao-lua-mach.jpg",
+   "images": [
+    "bo-dao-lua-mach-x2.jpg",
+    "bo-dao-lua-mach-x3.jpg",
+    "bo-dao-lua-mach-x4.jpg"
+   ],
+   "name": "Bộ dao lúa mạch nhà bếp 6 món",
+   "posted": "Đăng Page Facebook 12/11/2026",
+   "price": 205000,
+   "price_checked": "2026-11-12",
+   "price_note": "Giá sau voucher Shopee giảm 20% (giá shop 255.000đ, gốc 378.000đ), kiểm chứng trong app Shopee đêm 11→12/11/2026.",
+   "price_verified": true,
+   "slug": "bo-dao-lua-mach-nha-bep"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/1Lh421QpRo",
+   "category": "nha-bep",
+   "description": "Nồi chiên không dầu Lock&Lock Jumbo Plus Air Fryer dung tích 5.2L, 8 menu nấu sẵn, bảng điều khiển cảm ứng, có chế độ giữ ấm, kèm chảo nướng bánh 1,7L. Đánh giá 4,9/5 với hơn 8.700 lượt đánh giá trên Shopee Mall.",
+   "image": "img/noi-chien-locklock-ejf357.jpg",
+   "images": [
+    "noi-chien-locklock-ejf357-x2.jpg"
+   ],
+   "name": "Nồi chiên không dầu Lock&Lock EJF357 5.2L",
+   "posted": "Đăng Page Facebook 12/11/2026",
+   "price": 1493100,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá app sau ưu đãi đo lại ngày 13/11/2026 tại Lock&Lock Official Store (Shopee Mall); giá đăng Page ngày 12/11 là 1.491.840đ — giá có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "noi-chien-khong-dau-locklock-ejf357"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7fbAeGRzLD",
+   "category": "suc-khoe",
+   "description": "Cân điện tử Huawei Scale 3 kết nối Bluetooth, báo cáo 10 chỉ số cơ thể với công nghệ HUAWEI TruFit, màu trắng tuyết. Đánh giá 4,91/5 với hơn 1.700 lượt đánh giá tại cửa hàng chính hãng Huawei trên Shopee Mall.",
+   "image": "img/can-huawei-scale-3.jpg",
+   "images": [
+    "can-huawei-scale-3-x2.jpg",
+    "can-huawei-scale-3-x4.jpg"
+   ],
+   "name": "Cân sức khỏe Huawei Scale 3 Bluetooth Edition",
+   "posted": "Đăng Page Facebook 12/11/2026, clip review trên Facebook",
+   "price": 540000,
+   "price_checked": "2026-11-12",
+   "price_note": "Giá kiểm chứng trong app Shopee đêm 11→12/11/2026 tại Huawei Flagship Store (Shopee Mall), khớp giá niêm yết.",
+   "price_verified": true,
+   "slug": "can-suc-khoe-huawei-scale-3"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/2BGE7Glvwi",
+   "category": "me-be",
+   "description": "Máy hút sữa Spectra 9 Plus có pin tích điện, hàng chính hãng, bảo hành 12 tháng. Đánh giá 4,92/5 với hơn 400 lượt đánh giá. Sản phẩm đã được giới thiệu trên Page và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-hut-sua-spectra-9-plus.jpg",
+   "name": "Máy hút sữa Spectra 9 Plus",
+   "posted": "Đăng Page Facebook 11/11/2026, clip Facebook 13/11/2026, Shopee Video",
+   "price": 2836890,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá app sau ưu đãi kiểm chứng ngày 13/11/2026 (Shopee Mall); giá đăng Page ngày 11/11 là 2.729.160đ — giá thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "may-hut-sua-spectra-9-plus"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F163073857%2F2496408572&affiliate_id=17374300035&sub_id=----",
+   "category": "me-be",
+   "description": "Máy hút sữa Spectra S1 Plus — điện đôi chuẩn bệnh viện, pin sạc tích hợp, 2 chế độ massage rồi hút, 12 mức lực hút và 5 mức massage, hệ thống kín chống trào ngược, màn hình LCD hiển thị chu kỳ và lực hút. Đánh giá 4,84/5 với 75 lượt đánh giá tại Spectra Baby trên Shopee Mall. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-hut-sua-spectra-s1-plus.jpg",
+   "images": [
+    "img/may-hut-sua-spectra-s1-plus-2.jpg",
+    "img/may-hut-sua-spectra-s1-plus-3.jpg",
+    "img/may-hut-sua-spectra-s1-plus-4.jpg",
+    "img/may-hut-sua-spectra-s1-plus-5.jpg",
+    "img/may-hut-sua-spectra-s1-plus-6.jpg"
+   ],
+   "name": "Máy hút sữa Spectra S1 Plus",
+   "posted": "Đăng Page Facebook 16/11/2026, clip Facebook 16/11/2026, Shopee Video, YouTube Short 09:30 16/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": false,
+   "slug": "may-hut-sua-spectra-s1-plus",
+   "youtube": "https://www.youtube.com/shorts/8Ns6SNoGlyw"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F116737290%2F27923978237&affiliate_id=17374300035&sub_id=----",
+   "category": "me-be",
+   "description": "Máy hút sữa đeo rảnh tay Momcozy S12 Pro với 3 chế độ (kích thích, massage và hỗn hợp), 9 cấp độ hút chỉnh theo cảm giác. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-hut-sua-momcozy-s12-pro.jpg",
+   "images": [
+    "img/may-hut-sua-momcozy-s12-pro-2.jpg"
+   ],
+   "name": "Máy hút sữa Momcozy S12 Pro",
+   "posted": "Đăng Shopee Video + clip Facebook 13/11/2026",
+   "price": 3309926,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá niêm yết tại shop khi đăng Shopee Video ngày 13/11/2026 (chưa áp voucher) — mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": true,
+   "slug": "may-hut-sua-momcozy-s12-pro"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/5VWpYm1wuW",
+   "category": "nha-bep",
+   "description": "Máy lau sàn không dây Dreame H12 Pro (mã HHR25A): hút khô và ướt 2 trong 1, con lăn tự giặt sau khi dùng. Lưu ý chọn đúng bản H12 Pro đời đầu khi mua — tránh nhầm với H12 Pro FlexReach hay H12 Dual có thông số khác. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
+   "image": "img/may-lau-nha-dreame-h12-pro.jpg",
+   "images": [
+    "img/may-lau-nha-dreame-h12-pro-2.jpg",
+    "img/may-lau-nha-dreame-h12-pro-3.jpg",
+    "img/may-lau-nha-dreame-h12-pro-4.jpg",
+    "img/may-lau-nha-dreame-h12-pro-5.jpg",
+    "img/may-lau-nha-dreame-h12-pro-6.jpg",
+    "img/may-lau-nha-dreame-h12-pro-7.jpg",
+    "img/may-lau-nha-dreame-h12-pro-8.jpg",
+    "img/may-lau-nha-dreame-h12-pro-9.jpg"
+   ],
+   "name": "Máy lau nhà không dây Dreame H12 Pro",
+   "posted": "Đăng Shopee Video + clip Facebook 12–13/11/2026",
+   "price": 8290000,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá niêm yết tại Dreame Official Store khi đăng Shopee Video ngày 13/11/2026 (chưa áp voucher) — mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": true,
+   "slug": "may-lau-nha-dreame-h12-pro"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/5LDPMT2aFV",
+   "category": "nha-bep",
+   "description": "Máy lọc không khí Xiaomi Air Purifier 4 Lite (mã AC-M17-SC) cho phòng nhỏ, lọc bụi mịn PM2.5, có màn hình hiển thị chất lượng không khí. Lưu ý: nhiều listing gộp chung bản 4 / 4 Lite / 4 Pro / 4 Compact — khi mua nhớ chọn đúng phân loại Air Purifier 4 Lite. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
+   "image": "img/may-loc-khong-khi-xiaomi-purifier-4-lite.jpg",
+   "images": [
+    "img/may-loc-khong-khi-xiaomi-purifier-4-lite-2.jpg",
+    "img/may-loc-khong-khi-xiaomi-purifier-4-lite-3.jpg",
+    "img/may-loc-khong-khi-xiaomi-purifier-4-lite-4.jpg",
+    "img/may-loc-khong-khi-xiaomi-purifier-4-lite-5.jpg",
+    "img/may-loc-khong-khi-xiaomi-purifier-4-lite-6.jpg"
+   ],
+   "name": "Máy lọc không khí Xiaomi Air Purifier 4 Lite",
+   "posted": "Đăng Shopee Video + clip Facebook 12–13/11/2026",
+   "price": 2499000,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá niêm yết tại Xiaomi Official Store (Shopee Mall) khi đăng Shopee Video ngày 13/11/2026 (chưa áp voucher) — mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": true,
+   "slug": "may-loc-khong-khi-xiaomi-purifier-4-lite"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/70LQnBtQ7K",
+   "category": "nha-bep",
+   "description": "Máy đánh trứng cầm tay Philips HR3705/20 chính hãng: công suất 300W, 5 tốc độ cộng chế độ Turbo, kèm 2 cặp que trộn và nhào bằng inox, thiết kế gọn nhẹ cầm lâu không mỏi. Đánh giá 4,91/5 với hơn 960 lượt đánh giá. Lưu ý: máy hợp đánh trứng, kem và trộn bột lỏng tại nhà; bột đặc số lượng lớn nên dùng máy trộn chuyên dụng.",
+   "image": "img/may-danh-trung-philips-hr3705.jpg",
+   "name": "Máy đánh trứng cầm tay Philips HR3705/20",
+   "posted": "Đăng clip Facebook 11/11/2026, Shopee Video",
+   "price": 668640,
+   "price_checked": "2026-11-08",
+   "price_note": "Giá sau voucher Shopee giảm 16% (gốc 815.000đ), kiểm chứng trong app Shopee ngày 08/11/2026 tại Philips Home Appliances Official Store (Shopee Mall).",
+   "price_verified": true,
+   "slug": "may-danh-trung-philips-hr3705"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/70LTpvfHTH",
+   "category": "nha-bep",
+   "description": "Cân tiểu ly điện tử nhà bếp SF-400 định lượng từ 1g tới 10kg, phù hợp cân nguyên liệu làm bánh và nấu ăn cần độ chính xác tới từng gram. Khi mua nhớ chọn đúng phân loại SF-400 (1g–10kg) trong listing. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
+   "image": "img/can-bep-sf-400.jpg",
+   "images": [
+    "img/can-bep-sf-400-2.jpg",
+    "img/can-bep-sf-400-3.jpg",
+    "img/can-bep-sf-400-4.jpg",
+    "img/can-bep-sf-400-5.jpg"
+   ],
+   "name": "Cân bếp điện tử tiểu ly SF-400 (1g–10kg)",
+   "posted": "Đăng clip Facebook 12/11/2026, Shopee Video",
+   "price": 70000,
+   "price_checked": "2026-11-07",
+   "price_note": "Giá phân loại SF-400 kiểm chứng trong app Shopee ngày 07/11/2026 (giá gạch 139.000đ). Listing gộp nhiều dòng cân — khi mua chọn đúng phân loại SF-400 1g–10kg.",
+   "price_verified": true,
+   "slug": "can-bep-dien-tu-sf-400"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/AKaJleFrop",
+   "category": "xe",
+   "description": "Khay nhựa cao cấp chịu lực, đặt vừa dưới ghế lái và phụ của xe VinFast VF2/Minio. Chọn mã 04 để vừa dưới ghế lái và phụ.",
+   "image": "img/khaynhua.jpg",
+   "name": "Khay nhựa chữ nhật trong suốt cho VF2/Minio",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "khay-nhua-chu-nhat-trong-suot"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/9V1CmCdqLU",
+   "category": "xe",
+   "description": "Bộ tẩu sạc kiêm truyền phát âm thanh Bluetooth qua sóng FM 5.3, có đầu vào thẻ TF.",
+   "image": "img/fmtranmission.jpg",
+   "name": "Essager — Bộ chuyển đổi Bluetooth FM 5.3 có đầu vào TF",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "bo-chuyen-doi-bluetooth-fm-essager"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/9zxTNHyuwU",
+   "category": "xe",
+   "description": "Thảm sàn đúc khuôn chuẩn form xe, kèm rối giữ bụi bẩn. Có cả link giá rẻ và link Mall chính hãng trong trang sản phẩm Shopee.",
+   "image": "img/thamhuvivf2.jpg",
+   "name": "Thảm sàn HUVI + rối cho VF2/Minio",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "tham-san-huvi-vf2"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/1qbleKJ6Oo",
+   "category": "xe",
+   "description": "Camera hành trình dạng gương 4K siêu nét, tích hợp camera lùi.",
+   "image": "img/cams4k.jpg",
+   "name": "Cam hành trình gương Galaxy S4K + camera lùi",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "cam-hanh-trinh-guong-galaxy-s4k"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/5LBdr4o6Iz",
+   "category": "nha-bep",
+   "description": "Bình giữ nhiệt inox 316 dung tích 800ml, giữ nóng lạnh cho cả ngày.",
+   "image": "img/lygiunhiettatinvia.jpg",
+   "name": "Bình giữ nhiệt LATINVIA 316 800ml",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "binh-giu-nhiet-latinvia-316-800ml"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/5foUFntDSP",
+   "category": "xe",
+   "description": "Thảm sàn cao cấp thiết kế vừa vặn cho xe điện VinFast Feliz.",
+   "image": "img/thamfeliz.jpg",
+   "name": "Thảm sàn xe Feliz 2 (2025–2026)",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "tham-san-feliz-2"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/4AzgTDNgvw",
+   "category": "xe",
+   "description": "Hộc chứa đồ đôi tiện dụng gắn xe Feliz, không cần khoan đục.",
+   "image": "img/hocdodoifeliz.jpg",
+   "name": "Hộc đồ đôi Feliz không khoan",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "hoc-do-doi-feliz-khong-khoan"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/2VrSUGNlsi",
+   "category": "xe",
+   "description": "Túi lưới đựng đồ 2 lớp tiện lợi, đàn hồi tốt. Dùng cho Feliz chọn size L 25x40cm.",
+   "image": "img/tuidungdocogian.jpg",
+   "name": "Túi lưới đựng đồ 2 lớp co giãn",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "tui-luoi-dung-do-2-lop"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/5AsDfDKNlU",
+   "category": "xe",
+   "description": "Móc treo đa năng kèm ổ khóa an toàn chống trộm mũ bảo hiểm.",
+   "image": "img/khoambh.jpg",
+   "name": "Móc treo kèm khoá mũ bảo hiểm",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "moc-treo-khoa-mu-bao-hiem"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/904wXAKjOY",
+   "category": "nha-bep",
+   "description": "Thanh xốp chắn khe cửa ra vào: chặn bụi, ngăn gió lùa và côn trùng.",
+   "image": "img/chancua.jpg",
+   "name": "Thanh chắn gió cửa ra vào",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "thanh-chan-gio-cua-ra-vao"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/4qFNZcL31n",
+   "category": "nha-bep",
+   "description": "Dao bếp thép cao cấp bén ngọt, cầm chắc tay và chống gỉ sét.",
+   "image": "img/daobepkatana.jpg",
+   "name": "Dao bếp KATANA cao cấp",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "dao-bep-katana"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/3LQZmvOf3K",
+   "category": "nha-bep",
+   "description": "Thảm trải sàn phong cách IKEA êm ái, chống trượt, bền. Size 60x40.",
+   "image": "img/thamsanikea.jpg",
+   "name": "Thảm trải sàn IKEA 60x40",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "tham-trai-san-ikea"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/50Ynm8EgGm",
+   "category": "nha-bep",
+   "description": "Kệ cắm dao kéo nhà bếp gọn gàng, thoát nước, vệ sinh tiện lợi.",
+   "image": "img/kedaokeo.jpg",
+   "name": "Giá để dao kéo AKICHI",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "gia-de-dao-keo-akichi"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/20vCCsOaWK",
+   "category": "nha-bep",
+   "description": "Hộp chứa đồ đa năng gấp gọn, nhựa PP bền bỉ chịu lực. Size 34x49x23.5cm.",
+   "image": "img/thunggapgon.jpg",
+   "name": "Thùng nhựa đựng đồ gấp gọn",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "thung-nhua-dung-do-gap-gon"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/AKaK8EQZA4",
+   "category": "nha-bep",
+   "description": "Ruột gối nằm gòn bi êm ái, đàn hồi cao, nâng đỡ đầu cổ.",
+   "image": "img/goigonbi.jpg",
+   "name": "Gối gòn bi Thắng Lợi",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "goi-gon-bi-thang-loi"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/LmyDuX2xM",
+   "category": "nha-bep",
+   "description": "Rèm lá nhôm cản sáng, chống nắng cho cửa sổ, làm theo kích thước yêu cầu.",
+   "image": "img/remsao.jpg",
+   "name": "Rèm sáo nhôm làm theo yêu cầu",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "rem-sao-nhom-theo-yeu-cau"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/2LY2bnoUyO",
+   "category": "suc-khoe",
+   "description": "Dầu gội bồ kết truyền thống Thorakao, sạch gàu và mượt tóc.",
+   "image": "img/boket.jpg",
+   "name": "Dầu gội bồ kết Thorakao 750ml/400ml",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "dau-goi-bo-ket-thorakao"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/9zxTljx8CW",
+   "category": "nha-bep",
+   "description": "Tủ kệ gỗ lắp ghép nhiều ngăn, MDF chống ẩm phủ Melamine chống trầy. Một ngăn 30x40x24cm.",
+   "image": "img/tugotrangtri.jpg",
+   "name": "Tủ gỗ trang trí H234 MDF chống trầy",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "tu-go-trang-tri-h234"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7AdJ2Vvv0O",
+   "category": "khac",
+   "description": "Keo 3M 4229P dạng tờ khổ A4 chính hãng, độ dính cao, dán đa năng.",
+   "image": "img/keo3ma4.jpg",
+   "name": "Keo 3M 4229P dạng tờ A4",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "keo-3m-4229p-to-a4"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/80CSBXdNsO",
+   "category": "xe",
+   "description": "Thảm tràn full bậc cửa, hàng sau cao lên bằng ghế, chất liệu không mùi cho Minio Green - VF2.",
+   "image": "img/thamfuho.jpg",
+   "name": "Thảm sàn FUMO cho VF2/Minio (Shopee Mall)",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "tham-san-fumo-vf2"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/W6RKjQIZ2",
+   "category": "dien-tu",
+   "description": "Màn di động BOE 13.3 inch FHD cảm ứng, viền mỏng, độ sáng 500 nit, có sẵn kickstand — tiện cho xe hơi và công việc.",
+   "image": "img/manhinhdidong.jpg",
+   "name": "Màn di động BOE 13.3 inch FHD cảm ứng 500 nit",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "man-di-dong-boe-13-3-fhd"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/112mYZ04nc",
+   "category": "xe",
+   "description": "Ốp trang trí phanh tay xe VinFast VF2 - Minio Green, hoàn thiện đẹp, lắp đặt dễ dàng.",
+   "image": "img/phanhtay_vf2.jpg",
+   "name": "Trang trí phanh tay VF2 — Minio Green",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "trang-tri-phanh-tay-vf2"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/60RSWP1jPw",
+   "category": "xe",
+   "description": "Giá đỡ hít nam châm từ tính chắc chắn cho điện thoại, máy tính bảng và màn di động trên VF2 - Minio Green.",
+   "image": "img/giadotutinh.jpg",
+   "name": "Giá đỡ hít từ tính cho điện thoại/màn di động VF2",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "gia-do-hit-tu-tinh-vf2"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/5q85WKr7Ku",
+   "category": "xe",
+   "description": "Bộ vít vá lốp xe khẩn cấp không cần tháo bánh, thao tác vặn vít nhanh, tiện mang theo xe.",
+   "image": "img/bovitalop.jpg",
+   "name": "Bộ ốc vít vá lốp khẩn cấp không cần tháo lốp",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "bo-oc-vit-va-lop-khan-cap"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7pt9uZgulY",
+   "category": "xe",
+   "description": "Giá đỡ điện thoại ô tô công nghệ hút chân không kết hợp nam châm từ tính, xoay 360 độ.",
+   "image": "img/giado_hutchankhong.jpg",
+   "name": "Giá đỡ điện thoại ô tô hút chân không từ tính xoay 360",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "gia-do-dien-thoai-o-to-hut-chan-khong"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/1gIgD8i5OX",
+   "category": "xe",
+   "description": "Móc khoá logo VinFast dây da, sang trọng và bền đẹp.",
+   "image": "img/mockhoa_vinfast.jpg",
+   "name": "Móc khoá ô tô xe máy logo VinFast dây da",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "moc-khoa-vinfast-day-da"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/2gBDP36m3T",
+   "category": "xe",
+   "description": "Miếng logo dán móc khoá nhận diện các hãng xe ô tô, xe máy, giá rẻ.",
+   "image": "img/logo_dan_mockhoa.jpg",
+   "name": "Logo dán móc khoá các hãng xe",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "logo-dan-moc-khoa-hang-xe"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/AKaeYAIXyc",
+   "category": "xe",
+   "description": "Giá để cốc ô tô 2 lỗ có khe đựng riêng biệt, phía sau có nút tăng đưa điều chỉnh to nhỏ chắc chắn.",
+   "image": "img/giadecoc_2lo.jpg",
+   "name": "Giá để cốc ô tô 2 lỗ cho VF2/Minio",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "gia-de-coc-o-to-2-lo"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/9AOibTHki0",
+   "category": "xe",
+   "description": "Tấm chắn gió điều hoà ô tô giúp định hướng luồng gió, tránh phả thẳng vào mặt, tỏa mát đều khoang xe.",
+   "image": "img/tamchangio_dieuhoa.jpg",
+   "name": "Tấm chắn gió điều hoà ô tô",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "tam-chan-gio-dieu-hoa-o-to"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/2gBS4GHj8V",
+   "category": "khac",
+   "description": "Dù gập 24–72 nan đôi tự động mở đóng 2 chiều, khung nan kép chịu gió, vải chống thấm và cản tia UV.",
+   "image": "img/du_gapgon_24nan.jpg",
+   "name": "Dù gấp gọn 24–72 nan mở đóng tự động",
+   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "du-gap-gon-24-72-nan"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/3B8iDTvQXw",
+   "category": "nha-bep",
+   "description": "Máy xay sinh tố Philips HR2041 cối lớn, xay sinh tố và thực phẩm cho gia đình. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/philips-hr2041.jpg",
+   "images": [
+    "img/philips-hr2041-2.jpg",
+    "img/philips-hr2041-3.jpg",
+    "img/philips-hr2041-4.jpg",
+    "img/philips-hr2041-5.jpg",
+    "img/philips-hr2041-6.jpg",
+    "img/philips-hr2041-7.jpg",
+    "img/philips-hr2041-8.jpg",
+    "img/philips-hr2041-9.jpg"
+   ],
+   "name": "Máy xay sinh tố Philips HR2041",
+   "posted": "Đăng clip Facebook, Instagram và Shopee Video 09/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-xay-sinh-to-philips-hr2041"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/70LTrCUt0x",
+   "category": "suc-khoe",
+   "description": "Máy sấy tóc Panasonic EH-ND11 bản A645 màu xanh, hàng chính hãng. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/panasonic-eh-nd11.jpg",
+   "images": [
+    "img/panasonic-eh-nd11-2.jpg",
+    "img/panasonic-eh-nd11-3.jpg",
+    "img/panasonic-eh-nd11-4.jpg",
+    "img/panasonic-eh-nd11-5.jpg",
+    "img/panasonic-eh-nd11-6.jpg"
+   ],
+   "name": "Máy sấy tóc Panasonic EH-ND11 A645",
+   "posted": "Đăng clip Facebook, Instagram và Shopee Video 09/11/2026",
+   "price": 243020,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá đúng model EH-ND11 (bản A645) sau voucher tại listing còn hàng, kiểm chứng trong app Shopee ngày 13/11/2026.",
+   "price_verified": true,
+   "slug": "may-say-toc-panasonic-eh-nd11"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/114Ghh8jAG",
+   "category": "suc-khoe",
+   "description": "Bàn chải đánh răng điện Oral-B Vitality D100. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/ban-chai-dien-oral-b-d100.jpg",
+   "images": [
+    "ban-chai-dien-oral-b-d100-x2.jpg",
+    "ban-chai-dien-oral-b-d100-x3.jpg"
+   ],
+   "name": "Bàn chải điện Oral-B Vitality D100",
+   "posted": "Đăng clip Facebook, Instagram và Shopee Video 09/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "ban-chai-dien-oral-b-vitality-d100"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7KyKFeTG17",
+   "category": "suc-khoe",
+   "description": "Cân điện tử Xiaomi Smart Scale 2 (mã XMTZC04HM) bản thường. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/xiaomi-scale-2.jpg",
+   "images": [
+    "img/xiaomi-scale-2-2.jpg",
+    "img/xiaomi-scale-2-3.jpg",
+    "img/xiaomi-scale-2-4.jpg",
+    "img/xiaomi-scale-2-5.jpg",
+    "img/xiaomi-scale-2-6.jpg",
+    "img/xiaomi-scale-2-7.jpg"
+   ],
+   "name": "Cân điện tử Xiaomi Smart Scale 2",
+   "posted": "Đăng clip Facebook, Instagram và Shopee Video 10/11/2026",
+   "price": 518000,
+   "price_checked": "2026-11-10",
+   "price_note": "Giá tại các shop còn hàng trong app Shopee ngày 10/11/2026, ghi nhận khi đăng Shopee Video.",
+   "price_verified": true,
+   "slug": "can-dien-tu-xiaomi-smart-scale-2"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/1BNdpiRSml",
+   "category": "nha-bep",
+   "description": "Nồi chiên không dầu Philips HD9200 dung tích 4.1L, núm vặn cơ dễ dùng. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/philips-hd9200.jpg",
+   "images": [
+    "img/philips-hd9200-2.jpg",
+    "img/philips-hd9200-3.jpg",
+    "img/philips-hd9200-4.jpg",
+    "img/philips-hd9200-5.jpg",
+    "img/philips-hd9200-6.jpg"
+   ],
+   "name": "Nồi chiên không dầu Philips HD9200 4.1L",
+   "posted": "Đăng clip Facebook, Instagram và Shopee Video 10/11/2026",
+   "price": 1949000,
+   "price_checked": "2026-11-10",
+   "price_note": "Giá tại ALMA MART (Shopee Mall) trong app Shopee ngày 10/11/2026, ghi nhận khi đăng Shopee Video.",
+   "price_verified": true,
+   "slug": "noi-chien-khong-dau-philips-hd9200"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/qkm9JfPeh",
+   "category": "suc-khoe",
+   "description": "Máy sấy tóc Panasonic EH-NE66-K645 Ionity công suất 2000W. Đã lên clip review trên Facebook, Instagram và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/panasonic-eh-ne66.jpg",
+   "name": "Máy sấy tóc Panasonic EH-NE66-K645 Ionity 2000W",
+   "posted": "Đăng clip Facebook, Instagram và Shopee Video 10/11/2026",
+   "price": 929000,
+   "price_checked": "2026-11-10",
+   "price_note": "Giá tại Panasonic Official Store trong app Shopee ngày 10/11/2026, ghi nhận khi đăng Shopee Video.",
+   "price_verified": true,
+   "slug": "may-say-toc-panasonic-eh-ne66"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/114DdPS67i",
+   "category": "xe",
+   "description": "Bơm lốp ô tô 70mai Midrive TP03 chính hãng, nhỏ gọn để sẵn trong xe. Khi mua nhớ chọn đúng phân loại TP03. Đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/70mai-tp03.jpg",
+   "images": [
+    "img/70mai-tp03-2.jpg",
+    "img/70mai-tp03-3.jpg",
+    "img/70mai-tp03-4.jpg",
+    "img/70mai-tp03-5.jpg",
+    "img/70mai-tp03-6.jpg",
+    "img/70mai-tp03-7.jpg",
+    "img/70mai-tp03-8.jpg",
+    "img/70mai-tp03-9.jpg"
+   ],
+   "name": "Bơm lốp ô tô 70mai Midrive TP03",
+   "posted": "Đăng clip Facebook 11/11/2026 và Shopee Video 12/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "bom-lop-o-to-70mai-midrive-tp03"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/6AmJnewaoD",
+   "category": "nha-bep",
+   "description": "Nồi nấu chậm Bear DDZ-A08D1 dung tích 0.8L kèm xửng hấp, nấu cháo và hầm đồ ăn. Đã lên clip review Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/bear-ddz-a08d1.jpg",
+   "images": [
+    "img/bear-ddz-a08d1-2.jpg",
+    "img/bear-ddz-a08d1-3.jpg",
+    "img/bear-ddz-a08d1-4.jpg",
+    "img/bear-ddz-a08d1-5.jpg",
+    "img/bear-ddz-a08d1-6.jpg"
+   ],
+   "name": "Nồi nấu chậm Bear DDZ-A08D1 0.8L kèm xửng",
+   "posted": "Đăng clip Shopee Video",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "noi-nau-cham-bear-ddz-a08d1"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/4Ve8pHnVcn",
+   "category": "nha-bep",
+   "description": "Máy làm sữa hạt Bear DJJ-H05C1 dung tích 0.6L, hợp nấu sữa hạt cho 1–2 người. Đã lên clip review Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/bear-djj-h05c1.jpg",
+   "images": [
+    "img/bear-djj-h05c1-2.jpg",
+    "img/bear-djj-h05c1-3.jpg",
+    "img/bear-djj-h05c1-4.jpg",
+    "img/bear-djj-h05c1-5.jpg",
+    "img/bear-djj-h05c1-6.jpg",
+    "img/bear-djj-h05c1-7.jpg",
+    "img/bear-djj-h05c1-8.jpg",
+    "img/bear-djj-h05c1-9.jpg"
+   ],
+   "name": "Máy làm sữa hạt Bear DJJ-H05C1 0.6L",
+   "posted": "Đăng clip Shopee Video",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-lam-sua-hat-bear-djj-h05c1"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/3VlYdAJkDG",
+   "category": "nha-bep",
+   "description": "Nồi cơm điện mini Bear DFB-B12F1 dung tích 1.2L, hợp người ở một mình hoặc gia đình nhỏ. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/bear-dfb-b12f1.jpg",
+   "name": "Nồi cơm điện mini Bear DFB-B12F1 1.2L",
+   "posted": "Đăng Page Facebook 06/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "noi-com-dien-mini-bear-dfb-b12f1"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7VHkSHYMTd",
+   "category": "me-be",
+   "description": "Máy đa năng điện tử Fatz Baby Multimax 2: tiệt trùng, sấy khô và hâm sữa cho bé trong một máy. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/fatz-multimax-2.jpg",
+   "images": [
+    "fatz-multimax-2-x2.jpg",
+    "fatz-multimax-2-x3.jpg"
+   ],
+   "name": "Máy đa năng điện tử Fatz Baby Multimax 2",
+   "posted": "Đăng Page Facebook 11/11/2026",
+   "price": 1167600,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá sau ưu đãi kiểm chứng trong app Shopee ngày 13/11/2026.",
+   "price_verified": true,
+   "slug": "may-da-nang-fatz-baby-multimax-2"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/AKbvpe9uZN",
+   "category": "me-be",
+   "description": "Máy tiệt trùng sấy khô UVC LED Fatz Baby King 2 (FB4799BT) cho bình sữa và đồ dùng của bé. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/fatz-king-2.jpg",
+   "name": "Máy tiệt trùng sấy khô UVC LED Fatz Baby King 2",
+   "posted": "Đăng Page Facebook 11/11/2026",
+   "price": 2259300,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá sau ưu đãi kiểm chứng trong app Shopee ngày 13/11/2026.",
+   "price_verified": true,
+   "slug": "may-tiet-trung-fatz-baby-king-2"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/AAIVf4pfsJ",
+   "category": "dien-tu",
+   "description": "Pin sạc dự phòng Ugreen dung lượng 10.000mAh, hỗ trợ sạc nhanh PD 3.0. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/pin-ugreen-10000mah.jpg",
+   "images": [
+    "pin-ugreen-10000mah-g2.jpg",
+    "pin-ugreen-10000mah-g3.jpg",
+    "pin-ugreen-10000mah-g4.jpg",
+    "pin-ugreen-10000mah-g5.jpg"
+   ],
+   "name": "Pin sạc dự phòng Ugreen 10.000mAh PD 3.0",
+   "posted": "Đăng Page Facebook; kiểm chứng lại giá 13/11/2026",
+   "price": 450180,
+   "price_checked": "2026-11-13",
+   "price_note": "Giá sau ưu đãi tại Ugreen (Shopee Mall), kiểm chứng trong app Shopee ngày 13/11/2026.",
+   "price_verified": true,
+   "slug": "pin-sac-du-phong-ugreen-10000mah",
+   "youtube": "https://www.youtube.com/shorts/iQBNocqHhms"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/3VlbfyUFYZ",
+   "category": "suc-khoe",
+   "description": "Máy massage cầm tay mini cao cấp có cảm biến Zidan chính hãng, thư giãn cơ sau tập luyện và làm việc. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/may-massage-zidan.jpg",
+   "name": "Máy massage cầm tay mini Zidan có cảm biến",
+   "posted": "Đăng Page Facebook 10/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-massage-cam-tay-zidan"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/3qOS4aSysb",
+   "category": "suc-khoe",
+   "description": "Máy massage cầm tay Smart Trend chính hãng, nhiều mức lực, dùng cho vai gáy, lưng và chân. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/may-massage-smart-trend.jpg",
+   "images": [
+    "may-massage-smart-trend-x2.jpg"
+   ],
+   "name": "Máy massage cầm tay Smart Trend",
+   "posted": "Đăng Page Facebook 10/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-massage-cam-tay-smart-trend"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7puaqZRM0E",
+   "category": "suc-khoe",
+   "description": "Cân điện tử thông minh Laica PS7011 đo 6 chỉ số cơ thể. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/can-laica-ps7011.jpg",
+   "images": [
+    "can-laica-ps7011-x2.jpg",
+    "can-laica-ps7011-x3.jpg",
+    "can-laica-ps7011-x4.jpg"
+   ],
+   "name": "Cân sức khỏe Laica PS7011 đo 6 chỉ số",
+   "posted": "Đăng Page Facebook 10/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "can-suc-khoe-laica-ps7011"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/50aMOeo4TQ",
+   "category": "suc-khoe",
+   "description": "Bàn chải điện Halio Sonic Whitening PRO, bán tại Lixibox Official Store (Shopee Mall). Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/ban-chai-dien-halio.jpg",
+   "name": "Bàn chải điện Halio Sonic Whitening PRO",
+   "posted": "Đăng Page Facebook 05/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "ban-chai-dien-halio-sonic-whitening-pro"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/qknR6SjSf",
+   "category": "suc-khoe",
+   "description": "Máy massage bàn tay Túc Thảo An, thư giãn bàn tay sau ngày làm việc. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/may-massage-tuc-thao-an.jpg",
+   "name": "Máy massage bàn tay Túc Thảo An",
+   "posted": "Đăng Page Facebook 05/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-massage-ban-tay-tuc-thao-an"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/4fxW02pL9O",
+   "category": "nha-bep",
+   "description": "Bàn ủi (bàn là) hơi nước cầm tay gấp gọn 1550W, ủi nhanh quần áo và tiện mang đi du lịch. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/ban-ui-hoi-nuoc.jpg",
+   "name": "Bàn ủi hơi nước cầm tay gấp gọn 1550W",
+   "posted": "Đăng Page Facebook 05/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "ban-ui-hoi-nuoc-cam-tay-gap-gon"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/gRNEnTMnc",
+   "category": "dien-tu",
+   "description": "Camera trong nhà IMOU Ranger 2 (bản A32/A52), quan sát nhà cửa và trẻ nhỏ qua điện thoại. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/camera-imou-ranger-2.png",
+   "name": "Camera trong nhà IMOU Ranger 2 A32/A52",
+   "posted": "Đăng Page Facebook 06/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "camera-trong-nha-imou-ranger-2"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/3qOP1huJNU",
+   "category": "nha-bep",
+   "description": "Máy vắt cam bằng điện Lock&Lock EJJ231, vắt cam nhanh gọn cho gia đình. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
+   "image": "img/may-vat-cam-ejj231.jpg",
+   "name": "Máy vắt cam bằng điện Lock&Lock EJJ231",
+   "posted": "Đăng Page Facebook 06/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-vat-cam-locklock-ejj231"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/BV5M5hx0V",
+   "category": "suc-khoe",
+   "description": "Máy đo huyết áp bắp tay OMRON HEM-7183T1-AP EZ BT, kết nối Bluetooth để theo dõi kết quả trên điện thoại.",
+   "image": "img/omron-hem-7183t1.jpg",
+   "name": "Máy đo huyết áp OMRON HEM-7183T1-AP EZ BT",
+   "posted": "Có link affiliate trong kho Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-do-huyet-ap-omron-hem-7183t1"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/1BNcXve8yj",
+   "category": "nha-bep",
+   "description": "Máy làm sữa hạt Sunhouse SHD5261 dung tích 1L, xay nấu sữa hạt cho gia đình nhỏ.",
+   "image": "img/sunhouse-shd5261.jpg",
+   "name": "Máy làm sữa hạt Sunhouse SHD5261 1L",
+   "posted": "Có link affiliate trong kho Hàng Tốt Giá Tốt",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-lam-sua-hat-sunhouse-shd5261"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F17209089%2F10728280473&affiliate_id=17374300035&sub_id=----",
+   "category": "nha-bep",
+   "description": "Nồi chiên không dầu Philips Airfryer XL HD9270/90: dung tích tổng 6,2 lít, giỏ chiên 3 lít chứa 1,2kg thực phẩm, công nghệ Rapid Air đáy hình sao, công suất 2000W, màn hình cảm ứng, 7 chương trình nấu sẵn, chỉnh nhiệt 40–200°C, hẹn giờ, giữ ấm, lòng nồi chống dính tháo rời rửa được bằng máy rửa chén. Lưu ý: Philips VN ghi model này 'Ngừng sản xuất' — hàng trên Shopee là tồn kho/nhập khẩu, nguồn cung có thể cạn; khi mua chọn đúng phân loại HD9270 6,2L và kiểm tra mã HD9270/90 trên tem máy. Không có Wi-Fi/app (đó là HD9280).",
+   "image": "img/noi-chien-philips-hd9270.jpg",
+   "images": [
+    "img/noi-chien-philips-hd9270-2.jpg",
+    "img/noi-chien-philips-hd9270-3.jpg"
+   ],
+   "name": "Nồi chiên không dầu Philips Airfryer XL HD9270/90 6.2L",
+   "posted": "Đăng Page Facebook 13/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "noi-chien-khong-dau-philips-hd9270"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/1W0XFIpOyr",
+   "category": "nha-bep",
+   "description": "Bếp đơn hồng ngoại Sunhouse (Shopee Mall): công suất 2000W, 5 chế độ nấu, mặt kính cường lực chịu nhiệt tới 600°C, hẹn giờ tắt 4h, phím bấm điện tử. Dùng được mọi loại nồi kể cả nồi đất. Lưu ý: điều khiển cảm ứng nên tay ướt bấm sẽ kém nhạy; mặt kính sau khi nấu còn nóng một lúc, chờ nguội hẳn mới lau.",
+   "image": "img/bep-hong-ngoai-sunhouse-shd6011.jpg",
+   "images": [
+    "bep-hong-ngoai-sunhouse-shd6011-x2.jpg",
+    "bep-hong-ngoai-sunhouse-shd6011-x3.jpg",
+    "bep-hong-ngoai-sunhouse-shd6011-x4.jpg"
+   ],
+   "name": "Bếp hồng ngoại Sunhouse SHD6011",
+   "posted": "Đăng Page Facebook 13/11/2026",
+   "price": 697200,
+   "price_checked": "2026-11-08",
+   "price_note": "Giá sau Voucher Shopee giảm 16% (giá shop 830.000đ, gốc 890.000đ), kiểm chứng trong app Shopee ngày 08/11/2026; đối chiếu lại tối 13/11 giá shop vẫn 830.000đ.",
+   "price_verified": true,
+   "slug": "bep-hong-ngoai-sunhouse-shd6011"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/6L5mOV2qFm",
+   "category": "nha-bep",
+   "description": "Đầu vòi gắn thêm cho vòi rửa chén: dòng nước tăng áp, xoay 360°, 3 chế độ phun (tia mạnh – phun mưa – phun rộng), tích hợp đầu lọc nước. Nhỏ gọn 90×38 mm, đầu nối 24 mm. Lưu ý: đo ren vòi nhà trước khi đặt (đầu nối 24 mm).",
+   "image": "img/dau-voi-rua-bat-tang-ap-360-homebox.jpg",
+   "images": [
+    "dau-voi-rua-bat-tang-ap-360-homebox-x2.jpg",
+    "dau-voi-rua-bat-tang-ap-360-homebox-x3.jpg",
+    "dau-voi-rua-bat-tang-ap-360-homebox-x4.jpg"
+   ],
+   "name": "Đầu Vòi Rửa Bát Tăng Áp 360° HOMEBOX",
+   "posted": "Đăng Page Facebook 14/11/2026",
+   "price": 31850,
+   "price_checked": "2026-11-14",
+   "price_note": "Giá sau voucher giảm 60% (niêm yết 80.000đ), kiểm chứng trong app Shopee đêm 13→14/11/2026; giá web tham chiếu 49.000đ.",
+   "price_verified": true,
+   "slug": "dau-voi-rua-bat-tang-ap-360-homebox"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/1qdNeXlZuI",
+   "category": "nha-bep",
+   "description": "Máy làm sữa hạt Bear 1L: xay nấu 3 chiều công suất 800W, dao 10 lưỡi thép không gỉ, 8 chế độ (sữa hạt, cháo, sinh tố, giữ ấm, hẹn giờ), chống ồn 5 lớp, lõi thép không gỉ 304, vệ sinh 1 chạm bằng nước nóng. Lưu ý: 1L chỉ hợp nhà 2–4 người.",
+   "image": "img/may-lam-sua-hat-bear-sb-sh09q-1l.jpg",
+   "images": [
+    "may-lam-sua-hat-bear-sb-sh09q-1l-x2.jpg",
+    "may-lam-sua-hat-bear-sb-sh09q-1l-x3.jpg",
+    "may-lam-sua-hat-bear-sb-sh09q-1l-x4.jpg"
+   ],
+   "name": "Máy làm sữa hạt Bear SB-SH09Q 1L",
+   "posted": "Đăng Page Facebook 14/11/2026",
+   "price": 1003842,
+   "price_checked": "2026-11-14",
+   "price_note": "Giá sau voucher giảm 41% (niêm yết 1.690.000đ), kiểm chứng trong app Shopee đêm 14/11/2026 (00:02–01:15); giá web tham chiếu 1.231.900đ.",
+   "price_verified": true,
+   "slug": "may-lam-sua-hat-bear-sb-sh09q-1l"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/60StbLxE9A",
+   "category": "nha-bep",
+   "description": "Nồi lẩu điện đa năng Bear 2,5L: thiết kế 2 tầng tách rời có khay hấp inox riêng, lòng nồi chống dính nấu/lẩu/chiên/xào/hầm/hấp, nắp kính trong nhìn rõ đồ ăn, núm vặn chỉnh nhiệt, vừa cho 2–3 người ăn. Lưu ý: Bear Mall đã ngừng bán model này, nay chỉ còn ở các shop nhỏ và nhiều listing gộp phân loại — khi mua nhớ chọn đúng phân loại DHG-B25Z1 2,5L.",
+   "image": "img/noi-lau-dien-bear-dhg-b25z1.jpg",
+   "images": [
+    "noi-lau-dien-bear-dhg-b25z1-g3.jpg",
+    "noi-lau-dien-bear-dhg-b25z1-g4.jpg",
+    "noi-lau-dien-bear-dhg-b25z1-g5.jpg"
+   ],
+   "name": "Nồi lẩu điện đa năng Bear DHG-B25Z1 2,5L",
+   "posted": "Đăng Page Facebook 14/11/2026",
+   "price": 924000,
+   "price_checked": "2026-11-14",
+   "price_note": "Giá sau voucher 924.000₫, kiểm chứng trong app Shopee đêm 14/11/2026 (00:02–01:15) tại listing 'Nồi nấu đa năng 2,5L Bear DHG-B25Z1' (3 phân loại, còn hàng); Bear Mall đã ngừng bán model này nên không có niêm yết Mall để đối chiếu.",
+   "price_verified": true,
+   "slug": "noi-lau-dien-bear-dhg-b25z1-25l",
+   "youtube": "https://www.youtube.com/shorts/GQY4Qw7UY0w"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7KyKCKueI7",
+   "category": "nha-bep",
+   "description": "Nồi cơm điện Lock&Lock Compact 1.2L màu đen: nhỏ gọn vừa bếp nhỏ và nhà 1–3 người, 5 chế độ nấu (cơm, cháo, súp, sữa chua, giữ ấm) bấm 1 nút Start, công suất 500W. Chính hãng Lock&Lock Official Store (Shopee Mall), bảo hành 2 năm. Lưu ý: dung tích 1.2L chỉ hợp nhà ít người; nhà đông người nên chọn nồi 1.8L trở lên.",
+   "image": "img/noi-com-dien-lock-lock-ejr346blk-12l.jpg",
+   "images": [
+    "noi-com-dien-lock-lock-ejr346blk-12l-x2.jpg",
+    "noi-com-dien-lock-lock-ejr346blk-12l-x3.jpg",
+    "noi-com-dien-lock-lock-ejr346blk-12l-x4.jpg"
+   ],
+   "name": "Nồi cơm điện Lock&Lock Compact EJR346BLK 1.2L",
+   "posted": "Đăng Page Facebook 14/11/2026",
+   "price": 1078963,
+   "price_checked": "2026-11-14",
+   "price_note": "Giá sau voucher, giảm 53% so với giá gốc 2.289.000đ, kiểm chứng trong app Shopee đêm 13→14/11/2026.",
+   "price_verified": true,
+   "slug": "noi-com-dien-lock-lock-ejr346blk-12l"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1294163373%2F24933027759&affiliate_id=17374300035&sub_id=----",
+   "category": "suc-khoe",
+   "description": "Máy tăm nước Waterpik WP-660 Aquarius để bàn: 10 mức áp lực nước (10–100 PSI), 2 chế độ Floss và Hydro-Pulse Massage, kèm 7 đầu tăm cho cả nhà, bình nước 650ml xịt liên tục hơn 90 giây, hẹn giờ 1 phút và nhắc sau 30 giây, đầu xoay 360 độ. Lưu ý: listing VN có bản Đức 220V (dùng trực tiếp) và bản Mỹ 120V (cần ổ đổi nguồn, có shop tặng kèm) — khi mua chọn đúng phân loại WP-660.",
+   "image": "img/may-tam-nuoc-waterpik-wp-660.jpg",
+   "images": [
+    "may-tam-nuoc-waterpik-wp-660-g3.jpg",
+    "may-tam-nuoc-waterpik-wp-660-g4.jpg",
+    "may-tam-nuoc-waterpik-wp-660-g5.jpg"
+   ],
+   "name": "Máy tăm nước Waterpik WP-660 Aquarius",
+   "posted": "Đăng Page Facebook 14/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-tam-nuoc-waterpik-wp-660-aquarius",
+   "youtube": "https://www.youtube.com/shorts/ylwH0hHb4fo"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/80E11boaVN",
+   "category": "nha-bep",
+   "description": "Bộ hộp cơm giữ nhiệt 2.0L gồm 1 hộp 720ml + 2 hộp 420ml, đựng cơm, canh/súp và món ăn kèm riêng từng ngăn. Thân inox không gỉ, nắp PP chịu nhiệt −20°C đến 120°C, có nắp tránh mất nhiệt. Kèm túi đựng giữ nhiệt có dây đeo + bộ muỗng nĩa inox. Lưu ý: listing có 17 phân loại / 5 màu — giá theo phân loại.",
+   "image": "img/bo-hop-com-giu-nhiet-locknlock-lhc8039-2l.jpg",
+   "images": [
+    "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l-x2.jpg",
+    "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l-x3.jpg",
+    "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l-x4.jpg"
+   ],
+   "name": "Bộ Hộp Cơm Giữ Nhiệt LocknLock LHC8039 2.0L",
+   "posted": "Đăng Page Facebook 15/11/2026",
+   "price": 1051747,
+   "price_checked": "2026-11-14",
+   "price_note": "Giá sau voucher, kiểm chứng bằng app Shopee ngày 14/11/2026 (giảm 50% so với giá gốc 2.114.000đ)",
+   "slug": "bo-hop-com-giu-nhiet-locknlock-lhc8039-2l"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/LoZr0ASmc",
+   "category": "nha-bep",
+   "description": "Máy ép chậm Hurom HU-19SGM: ép bằng trục vít tốc độ thấp, tách nước ra khỏi bã nên nước ép mịn, ít bọt và ít tách nước hơn máy ép nhanh. Thiết kế tháo rời, vệ sinh nhanh sau mỗi lần ép. Phễu tiếp nguyên liệu lớn, cho trái cây vào tiện. Lưu ý: listing có 2 phân loại (Hurom HU-19SGM và Promix SJ-06) — giá theo phân loại HU-19SGM.",
+   "image": "img/may-ep-cham-hurom-hu-19sgm.jpg",
+   "images": [
+    "img/may-ep-cham-hurom-hu-19sgm-2.jpg",
+    "img/may-ep-cham-hurom-hu-19sgm-3.jpg",
+    "img/may-ep-cham-hurom-hu-19sgm-4.jpg",
+    "img/may-ep-cham-hurom-hu-19sgm-5.jpg",
+    "img/may-ep-cham-hurom-hu-19sgm-6.jpg",
+    "img/may-ep-cham-hurom-hu-19sgm-7.jpg",
+    "img/may-ep-cham-hurom-hu-19sgm-8.jpg",
+    "img/may-ep-cham-hurom-hu-19sgm-9.jpg"
+   ],
+   "name": "Máy ép chậm Hurom HU-19SGM",
+   "posted": "Đăng Page Facebook 15/11/2026",
+   "price": 2800000,
+   "price_checked": "2026-11-08",
+   "price_note": "Giá sau voucher, kiểm chứng bằng app Shopee ngày 08/11/2026 (voucher Shopee giảm 20%, giá gốc 3.500.000đ)",
+   "slug": "may-ep-cham-hurom-hu-19sgm"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F635807690%2F20687146347&affiliate_id=17374300035&sub_id=----",
+   "category": "nha-bep",
+   "description": "Nồi áp suất điện đa năng Instant Pot Duo 60 (bản V5): dung tích 5,7L nấu cho 4–6 khẩu phần, 7 chức năng trong 1 (áp suất, nấu chậm, nấu cơm, xào, hấp, làm sữa chua, giữ ấm) với 13 chương trình nấu một chạm. Lòng nồi inox SS304 cho vào máy rửa chén được; nắp khóa an toàn, kiểm soát áp suất, chống quá nhiệt.",
+   "image": "img/noi-ap-suat-dien-instant-pot-duo-60.jpg",
+   "name": "Nồi áp suất điện Instant Pot Duo 60",
+   "posted": "Đăng Page Facebook 15/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "noi-ap-suat-dien-instant-pot-duo-60"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F27495839%2F22139487052&affiliate_id=17374300035&sub_id=----",
+   "category": "me-be",
+   "description": "Máy pha sữa Baby Brezza Formula Pro Advanced (bản thường, không WiFi): bấm 1 nút là có ngay bình sữa ấm — tự pha, trộn đều, rót thẳng vào bình, không cần đong đo hay chờ nguội. 9 mức sữa 60–300ml, 3 mức nhiệt (nhiệt độ phòng / thân nhiệt / ấm hơn), hộc bột kín khí 700g, dùng được hầu hết hãng sữa và mọi loại bình. Lưu ý: listing hay gộp bản Advanced + Mini — khi mua chọn đúng phân loại Advanced thường.",
+   "image": "img/may-pha-sua-baby-brezza-formula-pro-advanced.jpg",
+   "name": "Máy pha sữa Baby Brezza Formula Pro Advanced",
+   "posted": "Đăng Page Facebook 15/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-pha-sua-baby-brezza-formula-pro-advanced"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F832087581%2F27801732934&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "category": "nha-bep",
+   "description": "Máy ép chậm Panasonic MJ-L500: ép chậm chỉ 45 vòng/phút — nước ép đậm vị, giữ trọn dưỡng chất; trục ép thép không gỉ, công suất 150W; kèm cối làm kem chuyên dụng — vừa ép nước, vừa làm kem trái cây; vòi chống nhỏ giọt, xoay đảo chiều chống kẹt. Lưu ý: footage quay bản MJ-L500 màu đỏ (bản RXE thị trường châu Âu/Singapore); listing VN bán bản MJ-L500SRA bạc–đen — cùng model, chỉ khác màu/biến thể thị trường, khi mua chọn đúng phân loại MJ-L500SRA.",
+   "image": "img/may-ep-cham-panasonic-mj-l500.jpg",
+   "images": [
+    "img/may-ep-cham-panasonic-mj-l500-2.jpg",
+    "img/may-ep-cham-panasonic-mj-l500-3.jpg",
+    "img/may-ep-cham-panasonic-mj-l500-4.jpg",
+    "img/may-ep-cham-panasonic-mj-l500-5.jpg"
+   ],
+   "name": "Máy ép chậm Panasonic MJ-L500",
+   "posted": "Đăng Page Facebook 15/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
+   "price_verified": false,
+   "slug": "may-ep-cham-panasonic-mj-l500"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/3LSBVG3TSL",
+   "category": "suc-khoe",
+   "description": "Nhiệt kế hồng ngoại điện tử đo không tiếp xúc: đo trán/tai, đo thêm nước pha sữa và nhiệt độ bề mặt, kết quả sau 0,5–1 giây, không chạm da. Màn hình đổi 3 màu theo nhiệt độ (xanh bình thường, vàng cao, đỏ sốt kèm âm báo). Tặng pin kèm theo, bảo hành 12 tháng 1 đổi 1. Lưu ý: listing gộp 4 model khác nhau — kiểm tra kỹ model của phân loại trước khi đặt (giá theo phân loại mặc định CK-T1502).",
+   "image": "img/nhiet-ke-hong-ngoai-dien-tu-do-khong-tiep-xuc.jpg",
+   "images": [
+    "nhiet-ke-hong-ngoai-dien-tu-do-khong-tiep-xuc-x2.jpg",
+    "nhiet-ke-hong-ngoai-dien-tu-do-khong-tiep-xuc-x3.jpg"
+   ],
+   "name": "Nhiệt kế hồng ngoại điện tử đo không tiếp xúc",
+   "posted": "Đăng Page Facebook 15/11/2026",
+   "price": 185600,
+   "price_checked": "2026-11-08",
+   "price_note": "Giá sau voucher, kiểm chứng bằng app Shopee ngày 08/11/2026 (voucher Shopee giảm 20%, giá gốc 232.000đ)",
+   "slug": "nhiet-ke-hong-ngoai-dien-tu-do-khong-tiep-xuc"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/9fMF2jvMfx",
+   "category": "suc-khoe",
+   "description": "Nhiệt kế hồng ngoại đo trán không tiếp xúc: đo ở trán, tai hoặc nách, cho kết quả sau khoảng 0,5 giây chỉ với 1 lần ấn SCAN, màn hình điện tử hiển thị rõ ràng. Thay thế tiện cho nhiệt kế thủy ngân trong nhà có trẻ nhỏ, bảo hành 12 tháng. Lưu ý: listing có 2 phân loại (CKT-1502 và CK-T1803) — giá theo phân loại mặc định CKT-1502, chọn đúng model trước khi đặt.",
+   "image": "img/nhiet-ke-dien-tu-hong-ngoai-do-tran-infrared-ckt1502.jpg",
+   "images": [
+    "nhiet-ke-dien-tu-hong-ngoai-do-tran-infrared-ckt1502-x2.jpg",
+    "nhiet-ke-dien-tu-hong-ngoai-do-tran-infrared-ckt1502-x3.jpg"
+   ],
+   "name": "Nhiệt kế điện tử hồng ngoại đo trán Infrared CKT1502",
+   "posted": "Đăng Page Facebook 16/11/2026",
+   "price": 250000,
+   "price_checked": "2026-11-16",
+   "price_note": "Giá sau voucher Shopee (giá gốc 300.000đ), kiểm chứng trong app Shopee đêm 16/11/2026.",
+   "price_verified": true,
+   "slug": "nhiet-ke-dien-tu-hong-ngoai-do-tran-infrared-ckt1502"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/3B8iETwqjI",
+   "category": "nha-bep",
+   "description": "Máy làm bánh mì tự động Panasonic SD-P104WRA: 13 thực đơn tự động, hẹn giờ tới 13 tiếng, ngăn rắc hạt khô/men tự động, ghi nhớ khi mất điện. Tối cho nguyên liệu vào, sáng dậy đã có ổ bánh mì nóng hổi — khỏi nhào tay, khỏi canh lò. Lưu ý: listing có 2 model (SD-P104WRA / SD-PD100WRA) — giá theo bản SD-P104WRA như ảnh, chọn đúng model trước khi đặt.",
+   "image": "img/may-lam-banh-mi-panasonic-sd-p104.jpg",
+   "images": [
+    "may-lam-banh-mi-panasonic-sd-p104-x2.jpg",
+    "may-lam-banh-mi-panasonic-sd-p104-x3.jpg"
+   ],
+   "name": "Máy làm bánh mì tự động Panasonic SD-P104",
+   "posted": "Đăng Page Facebook 16/11/2026",
+   "price": 4190000,
+   "price_checked": "2026-11-08",
+   "price_note": "Giá sau voucher Shopee giảm 20% (tối đa 1.000.000đ), giá gốc 5.190.000đ, kiểm chứng trong app Shopee ngày 08/11/2026.",
+   "price_verified": true,
+   "slug": "may-lam-banh-mi-panasonic-sd-p104"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F324877062%2F4357990358&affiliate_id=17374300035&sub_id=----",
+   "category": "nha-bep",
+   "description": "Máy hút bụi Deerma DX700S 2 trong 1: công suất 600W, lực hút 15.000Pa, hộp bụi 0,8 lít, lọc HEPA 3 lớp, 3 đầu hút thay đổi (sàn, khe hẹp, bàn chải), dây dài 4,5 mét, công nghệ lốc xoáy Pro Cyclone. Đánh giá 4,92/5 với 1.423 lượt đánh giá tại opaanlp trên Shopee. Lưu ý: clip quay máy DX700 (bản quốc tế) — cùng họ DX700S bán ở VN, manual hãng ghi chung MODEL NO.: DX700/DX700S; một shop ghi lực hút 14.000Pa, đa số listing DX700S ghi 15.000Pa. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-hut-bui-deerma-dx700s.jpg",
+   "images": [
+    "img/may-hut-bui-deerma-dx700s-2.jpg",
+    "img/may-hut-bui-deerma-dx700s-3.jpg",
+    "img/may-hut-bui-deerma-dx700s-4.jpg",
+    "img/may-hut-bui-deerma-dx700s-5.jpg"
+   ],
+   "name": "Máy hút bụi Deerma DX700S",
+   "posted": "Đăng Page Facebook 16/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": false,
+   "slug": "may-hut-bui-deerma-dx700s",
+   "youtube": "https://www.youtube.com/shorts/IuvzWuQV2Qg"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7VHkQqdNSO",
+   "category": "nha-bep",
+   "description": "Cân tiểu ly điện tử mặt thép không gỉ, định lượng 1g đến 10kg, màn hình LCD rõ nét, đổi đơn vị g/oz/ml, trừ bì 1 chạm, tự tắt sau 60 giây, tặng kèm 2 pin AAA. Lưu ý: mặt cân nhỏ, cân đồ cồng kềnh hơi chật; nhớ chọn đúng phân loại 1g–10kg để được giá trong bài.",
+   "image": "img/can-tieu-ly-dien-tu-nha-bep.jpg",
+   "images": [
+    "can-tieu-ly-dien-tu-nha-bep-x2.jpg",
+    "can-tieu-ly-dien-tu-nha-bep-x3.jpg"
+   ],
+   "name": "Cân Tiểu Ly Điện Tử Nhà Bếp 1g–10kg",
+   "posted": "Đăng Page Facebook 16/11/2026",
+   "price": 64000,
+   "price_checked": "2026-11-08",
+   "price_note": "Giá sau Flash Sale giảm 28% (gốc 89.000đ), bản 1g–10kg, kiểm chứng trong app Shopee ngày 08/11; kiểm tra lại trên web ngày 16/11 khớp đúng 64.000đ.",
+   "price_verified": true,
+   "slug": "can-tieu-ly-dien-tu-nha-bep"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1557189999%2F42906220413&affiliate_id=17374300035&sub_id=----",
+   "category": "me-be",
+   "description": "Máy hâm sữa Philips Avent SCF358/00 — hâm sữa và thức ăn trong ~3 phút (chuẩn 150ml ở 22°C), cảm biến nhiệt thông minh, dùng được bình 30–330ml, 3 chế độ hâm/rã đông/giữ ấm 60 phút rồi tự ngắt. Đánh giá 4,7/5 tại Philips Avent trên Shopee Mall. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-ham-sua-philips-avent-scf358-00.jpg",
+   "images": [
+    "img/may-ham-sua-philips-avent-scf358-00-2.jpg",
+    "img/may-ham-sua-philips-avent-scf358-00-3.jpg",
+    "img/may-ham-sua-philips-avent-scf358-00-4.jpg",
+    "img/may-ham-sua-philips-avent-scf358-00-5.jpg",
+    "img/may-ham-sua-philips-avent-scf358-00-6.jpg",
+    "img/may-ham-sua-philips-avent-scf358-00-7.jpg"
+   ],
+   "name": "Máy hâm sữa Philips Avent SCF358/00",
+   "posted": "Đăng Page Facebook 16/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": false,
+   "slug": "may-ham-sua-philips-avent-scf358-00",
+   "youtube": "https://www.youtube.com/shorts/cuNYz3egYjQ"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7VHeW252JY",
+   "category": "suc-khoe",
+   "description": "Súng massage cầm tay KAW model Relax Tone, 2.500 vòng/phút, công suất 25W, kèm 5 đầu massage thay thế (3 đầu massage, 1 đầu chà gót chân, 1 đầu bọc lưới), dùng điện trực tiếp 220V dây dài 140cm, dùng cho cổ vai gáy, lưng, eo, chân. Lưu ý: cần ổ cắm gần chỗ ngồi; có phản hồi lẻ về tiếng ồn khi mở mức cao; lực đấm dòng phổ thông, ấn sâu thì yếu hơn.",
+   "image": "img/sung-massage-cam-tay-kaw-relax.jpg",
+   "images": [
+    "sung-massage-cam-tay-kaw-relax-x2.jpg",
+    "sung-massage-cam-tay-kaw-relax-x3.jpg"
+   ],
+   "name": "Súng Massage Cầm Tay KAW Relax",
+   "posted": "Đăng Page Facebook 17/11/2026",
+   "price": 275600,
+   "price_checked": "2026-11-17",
+   "price_note": "Giá sau voucher giảm 26% (gốc 370.000đ), kiểm chứng trong app Shopee ngày 17/11; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "sung-massage-cam-tay-kaw-relax"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/4fxT8uhmBR",
+   "category": "nha-bep",
+   "description": "Nồi chiên không dầu SUNHOUSE SHD4032 dung tích 6.5L, khoang chiên kính trong suốt nhìn thấy đồ ăn đang chín mà không cần mở nắp, công nghệ Rapid Air 360° giảm tới 80% dầu mỡ, 10 chức năng nấu, công suất 1600W. Đã bán 10k+, 4.88/5 với 2.098 đánh giá, bảo hành chính hãng 12 tháng. Lưu ý: máy khá to, hợp bếp gia đình rộng rãi; khay chiên đồ tẩm ướp nên ngâm rửa sau khi dùng.",
+   "image": "img/noi-chien-khong-dau-sunhouse-shd4032-6-5l.jpg",
+   "images": [
+    "noi-chien-khong-dau-sunhouse-shd4032-6-5l-x2.jpg",
+    "noi-chien-khong-dau-sunhouse-shd4032-6-5l-x3.jpg"
+   ],
+   "name": "Nồi chiên không dầu SUNHOUSE SHD4032 6.5L",
+   "posted": "Đăng Page Facebook 17/11/2026",
+   "price": 1197200,
+   "price_checked": "2026-11-17",
+   "price_note": "Giá sau voucher giảm 18% (gốc 1.460.000đ, tiết kiệm 262.800đ), kiểm chứng trong app Shopee ngày 17/11; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "noi-chien-khong-dau-sunhouse-shd4032-6-5l"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F130938115%2F29514881869&affiliate_id=17374300035&sub_id=----",
+   "category": "dien-tu",
+   "description": "Sạc không dây 3 trong 1 UGREEN CD278 — MagSafe 15W cho iPhone (chuẩn MFi), 5W cho Apple Watch và 5W cho AirPods, sạc 3 thiết bị cùng lúc qua một dây USB-C, giá đỡ xoay nghiêng 20–90 độ, bảo hành 18 tháng 1 đổi 1. Lưu ý: đế không kèm củ sạc, cần củ 30W riêng mới đạt đủ công suất. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/sac-khong-day-ugreen-cd278.jpg",
+   "images": [
+    "img/sac-khong-day-ugreen-cd278-2.jpg",
+    "img/sac-khong-day-ugreen-cd278-3.jpg",
+    "img/sac-khong-day-ugreen-cd278-4.jpg",
+    "img/sac-khong-day-ugreen-cd278-5.jpg"
+   ],
+   "name": "Sạc không dây MagSafe 3 trong 1 UGREEN CD278",
+   "posted": "Đăng Page Facebook 17/11/2026; YouTube Short 14:27 17/11/2026; Shopee Video chờ phiên đêm",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": false,
+   "slug": "sac-khong-day-ugreen-cd278-magsafe-3-trong-1",
+   "youtube": "https://www.youtube.com/shorts/beZngvlKe7Y"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F6470337%2F4383713782&affiliate_id=17374300035&sub_id=----",
+   "category": "nha-bep",
+   "description": "Máy khử mùi tủ lạnh Xiaomi EraClean CW-B01 — khử mùi bằng ozone, hai chế độ: giữ tươi tới 30 ngày và khử mùi sâu khi mùi nặng. Sạc USB đầy trong 2 giờ, không cần thay lõi lọc. Nhỏ gọn, treo ngay cửa tủ, chịu lạnh tới −30°C; dùng được cả tủ giày, tủ quần áo và xe hơi. Lưu ý: máy mang logo EraClean (hãng sản xuất trực tiếp, hợp tác với Xiaomi) — trên thân máy và hộp không có logo Xiaomi.",
+   "image": "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01.jpg",
+   "images": [
+    "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-2.jpg",
+    "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-3.jpg",
+    "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-4.jpg",
+    "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-5.jpg",
+    "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-6.jpg",
+    "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-7.jpg",
+    "img/may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01-8.jpg"
+   ],
+   "name": "Máy khử mùi tủ lạnh Xiaomi EraClean CW-B01",
+   "posted": "YouTube Short 17:51 17/11/2026; Shopee Video chờ phiên đêm",
+   "price": 389000,
+   "price_checked": "2026-11-17",
+   "price_note": "Giá sau voucher (giá gốc 439.000đ), kiểm chứng trong app Shopee ngày 17/11/2026 — đúng phân loại EraClean CW-B01, shop 978 Store (đã bán 1k+).",
+   "price_verified": true,
+   "slug": "may-khu-mui-tu-lanh-xiaomi-eraclean-cw-b01",
+   "youtube": "https://www.youtube.com/shorts/Agh0HbX-IZc"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F284593651%2F25921105548&affiliate_id=17374300035&sub_id=----",
+   "category": "nha-bep",
+   "description": "Ấm siêu tốc Philips HD9350/90 — Daily Collection, 1,7 lít (hơn 7 tách), thân inox, nắp lò xo mở rộng, công suất 2200W đun sôi nhanh, vòi rót có lưới lọc cặn siêu mịn 200 micromet, tự ngắt khi sôi, chống cạn, đèn báo xanh, đế xoay 360 độ không dây. Lưu ý: bản /90 màu đen; không chỉnh nhiệt độ, không giữ ấm. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/am-sieu-toc-philips-hd9350-90.jpg",
+   "name": "Ấm siêu tốc Philips HD9350/90 1.7L",
+   "posted": "Đăng Page Facebook 17/11/2026; Shopee Video chờ phiên đêm",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": false,
+   "slug": "am-sieu-toc-philips-hd9350-90"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/7fbAbjUdXd",
+   "category": "dien-tu",
+   "description": "Đèn LED cảm biến chuyển động không dây của MINH HOUSE (Shopee Mall): tự sáng khi có người đi qua trong tối, tự tắt khi trời sáng; đế nam châm gắn tường xoay 360°, sạc USB, pin sạc dùng lại nhiều lần, không cần đi dây. Ánh sáng ấm 3000K dịu mắt (còn bản trắng 6000K), công suất 0.7W, kích thước 90×83×45mm. Đã bán 3k+, 4.83/5 với 653 đánh giá. Lưu ý: cảm biến chỉ bật đèn khi trời tối — ban ngày muốn sáng phải gạt sang chế độ ON; nhớ chọn đúng phân loại Ấm Pin+Sạc để được giá này.",
+   "image": "img/den-cam-bien-chuyen-dong-led-minh-house.jpg",
+   "images": [
+    "den-cam-bien-chuyen-dong-led-minh-house-x2.jpg",
+    "den-cam-bien-chuyen-dong-led-minh-house-x3.jpg"
+   ],
+   "name": "Đèn cảm biến chuyển động LED không dây đế nam châm sạc USB Minh House",
+   "posted": "Đăng Page Facebook 17/11/2026",
+   "price": 149600,
+   "price_checked": "2026-11-17",
+   "price_note": "Giá sau voucher Shopee giảm 20% (gốc 187.000đ), phân loại Ấm Pin+Sạc, kiểm chứng trong app Shopee đêm 17/11; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "den-cam-bien-chuyen-dong-led-minh-house"
+  }
+ ],
+ "site": {
+  "base_url": "https://hangtot.pages.dev/",
+  "name": "Hàng Tốt Giá Tốt",
+  "tagline": "Deal Shopee chọn lọc — giá đã kiểm chứng trong app Shopee"
+ }
 }
