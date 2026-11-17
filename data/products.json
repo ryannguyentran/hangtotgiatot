@@ -606,7 +606,17 @@
       "price": null,
       "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
       "price_verified": false,
-      "slug": "may-xay-sinh-to-philips-hr2041"
+      "slug": "may-xay-sinh-to-philips-hr2041",
+      "images": [
+        "img/philips-hr2041-2.jpg",
+        "img/philips-hr2041-3.jpg",
+        "img/philips-hr2041-4.jpg",
+        "img/philips-hr2041-5.jpg",
+        "img/philips-hr2041-6.jpg",
+        "img/philips-hr2041-7.jpg",
+        "img/philips-hr2041-8.jpg",
+        "img/philips-hr2041-9.jpg"
+      ]
     },
     {
       "aff_link": "https://s.shopee.vn/70LTrCUt0x",
@@ -619,7 +629,14 @@
       "price_checked": "2026-11-13",
       "price_note": "Giá đúng model EH-ND11 (bản A645) sau voucher tại listing còn hàng, kiểm chứng trong app Shopee ngày 13/11/2026.",
       "price_verified": true,
-      "slug": "may-say-toc-panasonic-eh-nd11"
+      "slug": "may-say-toc-panasonic-eh-nd11",
+      "images": [
+        "img/panasonic-eh-nd11-2.jpg",
+        "img/panasonic-eh-nd11-3.jpg",
+        "img/panasonic-eh-nd11-4.jpg",
+        "img/panasonic-eh-nd11-5.jpg",
+        "img/panasonic-eh-nd11-6.jpg"
+      ]
     },
     {
       "aff_link": "https://s.shopee.vn/114Ghh8jAG",
@@ -648,7 +665,15 @@
       "price_checked": "2026-11-10",
       "price_note": "Giá tại các shop còn hàng trong app Shopee ngày 10/11/2026, ghi nhận khi đăng Shopee Video.",
       "price_verified": true,
-      "slug": "can-dien-tu-xiaomi-smart-scale-2"
+      "slug": "can-dien-tu-xiaomi-smart-scale-2",
+      "images": [
+        "img/xiaomi-scale-2-2.jpg",
+        "img/xiaomi-scale-2-3.jpg",
+        "img/xiaomi-scale-2-4.jpg",
+        "img/xiaomi-scale-2-5.jpg",
+        "img/xiaomi-scale-2-6.jpg",
+        "img/xiaomi-scale-2-7.jpg"
+      ]
     },
     {
       "aff_link": "https://s.shopee.vn/1BNdpiRSml",
@@ -661,7 +686,14 @@
       "price_checked": "2026-11-10",
       "price_note": "Giá tại ALMA MART (Shopee Mall) trong app Shopee ngày 10/11/2026, ghi nhận khi đăng Shopee Video.",
       "price_verified": true,
-      "slug": "noi-chien-khong-dau-philips-hd9200"
+      "slug": "noi-chien-khong-dau-philips-hd9200",
+      "images": [
+        "img/philips-hd9200-2.jpg",
+        "img/philips-hd9200-3.jpg",
+        "img/philips-hd9200-4.jpg",
+        "img/philips-hd9200-5.jpg",
+        "img/philips-hd9200-6.jpg"
+      ]
     },
     {
       "aff_link": "https://s.shopee.vn/qkm9JfPeh",
@@ -686,7 +718,17 @@
       "price": null,
       "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
       "price_verified": false,
-      "slug": "bom-lop-o-to-70mai-midrive-tp03"
+      "slug": "bom-lop-o-to-70mai-midrive-tp03",
+      "images": [
+        "img/70mai-tp03-2.jpg",
+        "img/70mai-tp03-3.jpg",
+        "img/70mai-tp03-4.jpg",
+        "img/70mai-tp03-5.jpg",
+        "img/70mai-tp03-6.jpg",
+        "img/70mai-tp03-7.jpg",
+        "img/70mai-tp03-8.jpg",
+        "img/70mai-tp03-9.jpg"
+      ]
     },
     {
       "aff_link": "https://s.shopee.vn/6AmJnewaoD",
@@ -698,7 +740,14 @@
       "price": null,
       "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
       "price_verified": false,
-      "slug": "noi-nau-cham-bear-ddz-a08d1"
+      "slug": "noi-nau-cham-bear-ddz-a08d1",
+      "images": [
+        "img/bear-ddz-a08d1-2.jpg",
+        "img/bear-ddz-a08d1-3.jpg",
+        "img/bear-ddz-a08d1-4.jpg",
+        "img/bear-ddz-a08d1-5.jpg",
+        "img/bear-ddz-a08d1-6.jpg"
+      ]
     },
     {
       "aff_link": "https://s.shopee.vn/4Ve8pHnVcn",
@@ -710,7 +759,17 @@
       "price": null,
       "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
       "price_verified": false,
-      "slug": "may-lam-sua-hat-bear-djj-h05c1"
+      "slug": "may-lam-sua-hat-bear-djj-h05c1",
+      "images": [
+        "img/bear-djj-h05c1-2.jpg",
+        "img/bear-djj-h05c1-3.jpg",
+        "img/bear-djj-h05c1-4.jpg",
+        "img/bear-djj-h05c1-5.jpg",
+        "img/bear-djj-h05c1-6.jpg",
+        "img/bear-djj-h05c1-7.jpg",
+        "img/bear-djj-h05c1-8.jpg",
+        "img/bear-djj-h05c1-9.jpg"
+      ]
     },
     {
       "aff_link": "https://s.shopee.vn/3VlYdAJkDG",
@@ -1050,9 +1109,14 @@
       "description": "Máy ép chậm Hurom HU-19SGM: ép bằng trục vít tốc độ thấp, tách nước ra khỏi bã nên nước ép mịn, ít bọt và ít tách nước hơn máy ép nhanh. Thiết kế tháo rời, vệ sinh nhanh sau mỗi lần ép. Phễu tiếp nguyên liệu lớn, cho trái cây vào tiện. Lưu ý: listing có 2 phân loại (Hurom HU-19SGM và Promix SJ-06) — giá theo phân loại HU-19SGM.",
       "image": "img/may-ep-cham-hurom-hu-19sgm.jpg",
       "images": [
-        "may-ep-cham-hurom-hu-19sgm-x2.jpg",
-        "may-ep-cham-hurom-hu-19sgm-x3.jpg",
-        "may-ep-cham-hurom-hu-19sgm-x4.jpg"
+        "img/may-ep-cham-hurom-hu-19sgm-2.jpg",
+        "img/may-ep-cham-hurom-hu-19sgm-3.jpg",
+        "img/may-ep-cham-hurom-hu-19sgm-4.jpg",
+        "img/may-ep-cham-hurom-hu-19sgm-5.jpg",
+        "img/may-ep-cham-hurom-hu-19sgm-6.jpg",
+        "img/may-ep-cham-hurom-hu-19sgm-7.jpg",
+        "img/may-ep-cham-hurom-hu-19sgm-8.jpg",
+        "img/may-ep-cham-hurom-hu-19sgm-9.jpg"
       ],
       "name": "Máy ép chậm Hurom HU-19SGM",
       "posted": "Đăng Page Facebook 15/11/2026",
