@@ -123,6 +123,7 @@ footer{color:var(--color-text-muted);font-size:13px;text-align:center;padding:28
 .navpill .npunit{display:inline-flex;align-items:center;gap:6px}
 .navpill.on{outline:3px solid var(--color-accent-border);outline-offset:2px}
 @media(max-width:640px){.mainnav{flex-direction:column;position:static}.navhome{justify-content:center}.navpill{flex:1 1 auto;max-width:none}.searchbar{top:0}}
+@media(max-width:640px){.grid{grid-template-columns:repeat(2,1fr);gap:10px}.bd{padding:9px 9px 11px;gap:5px}.card h3{font-size:13.5px}.price{font-size:16px}.card .btn{padding:9px 8px;font-size:13.5px;border-radius:10px}.chk{font-size:10.5px;padding:2px 7px}.cat{font-size:10px;letter-spacing:.04em}}
 .salestrip{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;background:linear-gradient(90deg,#ee4d2d,#ff7337);color:#fff;border-radius:var(--radius-md);padding:12px 16px;margin:10px 0;box-shadow:0 2px 8px rgba(238,77,45,.3)}
 .salestrip .ss-name{font-weight:800;font-size:16px}
 .salestrip .ss-date{background:rgba(255,255,255,.22);border-radius:var(--radius-full);padding:3px 10px;font-weight:700;font-size:13px}
