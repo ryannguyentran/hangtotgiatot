@@ -318,11 +318,16 @@
    "description": "Hộc chứa đồ đôi tiện dụng gắn xe Feliz, không cần khoan đục.",
    "image": "img/hocdodoifeliz.jpg",
    "name": "Hộc đồ đôi Feliz không khoan",
-   "posted": "Có trong catalog chọn lọc trên storefront của Hàng Tốt Giá Tốt",
-   "price": null,
-   "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-   "price_verified": false,
-   "slug": "hoc-do-doi-feliz-khong-khoan"
+   "posted": "Đăng Facebook 21/11/2026",
+   "price": 249000,
+   "price_note": "Giá sau voucher Shopee giảm 20% so với giá gốc 299.000đ (giảm 50.000đ) — kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "hoc-do-doi-feliz-khong-khoan",
+   "price_checked": "2026-11-21",
+   "images": [
+    "hocdodoifeliz-x2.jpg",
+    "hocdodoifeliz-x3.jpg"
+   ]
   },
   {
    "aff_link": "https://s.shopee.vn/2VrSUGNlsi",
