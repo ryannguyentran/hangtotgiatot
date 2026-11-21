@@ -27,6 +27,10 @@
   {
    "id": "xiaozhi",
    "name": "Xiaozhi Linh Kiện"
+  },
+  {
+   "id": "rubik",
+   "name": "Rubik Cho Bé"
   }
  ],
  "products": [
@@ -2115,6 +2119,81 @@
    "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
    "posted": "Đăng clip Facebook 14:00 + YouTube Short 14:30 21/11/2026; Shopee Video chờ box Note8 đăng trong ngày",
    "youtube": "https://www.youtube.com/shorts/fOCQ5HUzSVA"
+  },
+  {
+   "slug": "rubik-moyu-meilong-3m-v2",
+   "name": "Rubik 3x3 MoYu Meilong 3M V2 (bản thường, có nam châm, không UV)",
+   "category": "rubik",
+   "group": "3x3-chinh",
+   "price": 87200,
+   "price_verified": true,
+   "price_checked": "2026-11-21",
+   "price_note": "Biến thể mặc định (rẻ nhất trong 3 biến thể, Magnetic/Lite, không UV). Giá gốc 109.000₫, voucher app 25% (27.250₫) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 1. Ảnh chụp trong app Shopee (khung video đầu gallery).",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F222542894%2F25429501221&affiliate_id=17374300035&sub_id=----",
+   "image": "img/meilong-3m-v2.jpg",
+   "images": [],
+   "description": "Rubik 3x3 MoYu Meilong 3M V2 bản thường (Magnetic/Lite, không UV) — khối nam châm 3x3 rẻ nhất dùng được cho bé học nghiêm túc. Shop DATAS RUBIK, đánh giá 5.0/5. Nam châm hít viên về đúng vị trí, bé xoay đỡ lệch hẳn so với bản thường.",
+   "posted": "Thêm vào web 21/11/2026"
+  },
+  {
+   "slug": "rubik-moyu-rs3m-v5",
+   "name": "Rubik 3x3 MoYu RS3M V5 Magnetic (Dual Adjustment) — khối chính của series",
+   "category": "rubik",
+   "group": "3x3-chinh",
+   "price": 197600,
+   "price_verified": true,
+   "price_checked": "2026-11-21",
+   "price_note": "Biến thể Bản Magnetic. Giá gốc 247.000₫, voucher app 25% (61.750₫) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 9k+. Listing chỉ có 2 biến thể: Magnetic và Ballcore UV (667.250₫ sau voucher) — không có Ball Core không UV.",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F482205734%2F23285178865&affiliate_id=17374300035&sub_id=----",
+   "image": "img/rs3m-v5.jpg",
+   "images": [],
+   "description": "Rubik 3x3 MoYu RS3M V5 bản Magnetic thường (Dual Adjustment) — khối chính của series Bé Học Rubik: best budget 2026, xoay nhanh ngay khi mở hộp, chỉnh được tension/magnet nên dùng tiếp được 6 tháng sau khi bé đã nhanh hơn. Shop Rubik Land. Chọn đúng biến thể Bản Magnetic (không phải Ballcore UV).",
+   "posted": "Thêm vào web 21/11/2026"
+  },
+  {
+   "slug": "rubik-dayan-guhong-pro-m",
+   "name": "Rubik 3x3 DaYan GuHong Pro M 56mm",
+   "category": "rubik",
+   "group": "3x3-chinh",
+   "price": 424000,
+   "price_verified": true,
+   "price_checked": "2026-11-21",
+   "price_note": "Chỉ có 1 biến thể 56mm. Giá gốc 530.000₫, voucher app 190.800₫ (36%) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Shop CubeStation (HCM), đã bán 4. Ảnh chụp trong app Shopee.",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1934691633%2F49219251962&affiliate_id=17374300035&sub_id=----",
+   "image": "img/guhong-pro-m.jpg",
+   "images": [],
+   "description": "Rubik 3x3 DaYan GuHong Pro M 56mm — rất tùy biến, cảm giác mượt đặc trưng DaYan. Shop tại HCM, đánh giá 5.0/5 (1 đánh giá). Lưu ý: listing VN chỉ có bản 56mm, giá cao hơn mặt bằng quốc tế — cân nhắc trước khi mua.",
+   "posted": "Thêm vào web 21/11/2026"
+  },
+  {
+   "slug": "rubik-yj-yuhu-v2-m",
+   "name": "Rubik Megaminx YJ YuHu V2 M (12 mặt, có nam châm)",
+   "category": "rubik",
+   "group": "bien-the",
+   "price": 236087,
+   "price_verified": true,
+   "price_checked": "2026-11-21",
+   "price_note": "Giá gốc 295.109₫, voucher app 21% (61.972₫) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 18.",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F482205734%2F16835400771&affiliate_id=17374300035&sub_id=----",
+   "image": "img/yuhu-v2-m.jpg",
+   "images": [],
+   "description": "Rubik Megaminx YJ YuHu V2 M có nam châm — megaminx nhanh nhất thị trường ở tầm giá này, cắt góc xuất sắc. Shop Rubik Land, đánh giá 4.95/5 (42 đánh giá). Series chỉ làm quen Megaminx ở tập cuối nên mua YuHu là đủ dùng lâu.",
+   "posted": "Thêm vào web 21/11/2026"
+  },
+  {
+   "slug": "rubik-mirror-3x3",
+   "name": "Rubik Mirror 3x3 MoYu/QiYi (khối gương biến thể)",
+   "category": "rubik",
+   "group": "bien-the",
+   "price": 50400,
+   "price_verified": true,
+   "price_checked": "2026-11-21",
+   "price_note": "Giá gốc 63.000₫, voucher app 20% (12.600₫) ngày 21/11/2026 → giá đăng = giá sau voucher. Đã bán 20k+, 3 biến thể.",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F104376285%2F4801273718&affiliate_id=17374300035&sub_id=----",
+   "image": "img/mirror-3x3.jpg",
+   "images": [],
+   "description": "Rubik Mirror 3x3 MoYu/QiYi — khối gương biến thể của 3x3, nhận diện bằng hình khối thay vì màu. Shop Little Kobo, đánh giá 4.94/5 (6.752 đánh giá). Chỉ mua sau khi bé đã giải được 3x3 thường.",
+   "posted": "Thêm vào web 21/11/2026"
   }
  ],
  "site": {
