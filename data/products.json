@@ -889,14 +889,16 @@
       "description": "Máy massage cầm tay Smart Trend chính hãng, nhiều mức lực, dùng cho vai gáy, lưng và chân. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
       "image": "img/may-massage-smart-trend.jpg",
       "images": [
-        "may-massage-smart-trend-x2.jpg"
+        "may-massage-smart-trend-x2.jpg",
+        "may-massage-smart-trend-x3.jpg"
       ],
       "name": "Máy massage cầm tay Smart Trend",
-      "posted": "Đăng Page Facebook 10/11/2026",
-      "price": null,
-      "price_note": "Giá tham khảo — xem giá hiện tại trên Shopee.",
-      "price_verified": false,
-      "slug": "may-massage-cam-tay-smart-trend"
+      "posted": "Đăng Facebook 24/11/2026",
+      "price": 319000,
+      "price_note": "Giá sau voucher Shopee trong app (gốc 450.000đ, giảm 29%), phân loại Massa Cơ Bản XÁM, kiểm chứng trong app Shopee ngày 24/11/2026.",
+      "price_verified": true,
+      "slug": "may-massage-cam-tay-smart-trend",
+      "price_checked": "2026-11-24"
     },
     {
       "aff_link": "https://s.shopee.vn/7puaqZRM0E",
