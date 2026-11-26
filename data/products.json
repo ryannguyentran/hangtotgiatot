@@ -129,17 +129,17 @@
    "category": "me-be",
    "description": "Máy hút sữa Spectra 9 Plus có pin tích điện, hàng chính hãng, bảo hành 12 tháng. Đánh giá 4,92/5 với hơn 400 lượt đánh giá. Sản phẩm đã được giới thiệu trên Page và Shopee Video của Hàng Tốt Giá Tốt.",
    "image": "img/may-hut-sua-spectra-9-plus.jpg",
+   "images": [
+    "img/may-hut-sua-spectra-9-plus-x2.jpg",
+    "img/may-hut-sua-spectra-9-plus-x3.jpg"
+   ],
    "name": "Máy hút sữa Spectra 9 Plus",
    "posted": "Đăng Page Facebook 11/11/2026, clip Facebook 13/11/2026, Shopee Video, Đăng Page Facebook 25/11/2026",
    "price": 2729160,
    "price_checked": "2026-11-25",
    "price_note": "Giá sau voucher Shopee 24% trong app — kiểm chứng trong app Shopee rạng sáng 25/11/2026 (app 2.729.160đ, giá shop 3.591.000đ, gốc gạch 3.780.000đ); giá đăng Page 25/11 bài dedicated khung sáng. Voucher 24% vượt trần 20% ngày thường — mã theo tài khoản.",
    "price_verified": true,
-   "slug": "may-hut-sua-spectra-9-plus",
-   "images": [
-    "img/may-hut-sua-spectra-9-plus-x2.jpg",
-    "img/may-hut-sua-spectra-9-plus-x3.jpg"
-   ]
+   "slug": "may-hut-sua-spectra-9-plus"
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F163073857%2F2496408572&affiliate_id=17374300035&sub_id=----",
@@ -225,17 +225,17 @@
    "category": "nha-bep",
    "description": "Máy đánh trứng cầm tay Philips HR3705/20 chính hãng: công suất 300W, 5 tốc độ cộng chế độ Turbo, kèm 2 cặp que trộn và nhào bằng inox, thiết kế gọn nhẹ cầm lâu không mỏi. Đánh giá 4,91/5 với hơn 960 lượt đánh giá. Lưu ý: máy hợp đánh trứng, kem và trộn bột lỏng tại nhà; bột đặc số lượng lớn nên dùng máy trộn chuyên dụng.",
    "image": "img/may-danh-trung-philips-hr3705.jpg",
+   "images": [
+    "may-danh-trung-philips-hr3705-x2.jpg",
+    "may-danh-trung-philips-hr3705-x3.jpg"
+   ],
    "name": "Máy đánh trứng cầm tay Philips HR3705/20",
    "posted": "Đăng clip Facebook 11/11/2026, Shopee Video; Đăng Facebook 24/11/2026",
    "price": 668640,
    "price_checked": "2026-11-08",
    "price_note": "Giá sau voucher Shopee giảm 16% (gốc 815.000đ), kiểm chứng trong app Shopee ngày 08/11/2026 tại Philips Home Appliances Official Store (Shopee Mall).",
    "price_verified": true,
-   "slug": "may-danh-trung-philips-hr3705",
-   "images": [
-    "may-danh-trung-philips-hr3705-x2.jpg",
-    "may-danh-trung-philips-hr3705-x3.jpg"
-   ]
+   "slug": "may-danh-trung-philips-hr3705"
   },
   {
    "aff_link": "https://s.shopee.vn/70LTpvfHTH",
@@ -333,17 +333,17 @@
    "category": "xe",
    "description": "Hộc chứa đồ đôi tiện dụng gắn xe Feliz, không cần khoan đục.",
    "image": "img/hocdodoifeliz.jpg",
-   "name": "Hộc đồ đôi Feliz không khoan",
-   "posted": "Đăng Facebook 21/11/2026",
-   "price": 249000,
-   "price_note": "Giá sau voucher Shopee giảm 20% so với giá gốc 299.000đ (giảm 50.000đ) — kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale.",
-   "price_verified": true,
-   "slug": "hoc-do-doi-feliz-khong-khoan",
-   "price_checked": "2026-11-21",
    "images": [
     "hocdodoifeliz-x2.jpg",
     "hocdodoifeliz-x3.jpg"
-   ]
+   ],
+   "name": "Hộc đồ đôi Feliz không khoan",
+   "posted": "Đăng Facebook 21/11/2026",
+   "price": 249000,
+   "price_checked": "2026-11-21",
+   "price_note": "Giá sau voucher Shopee giảm 20% so với giá gốc 299.000đ (giảm 50.000đ) — kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "hoc-do-doi-feliz-khong-khoan"
   },
   {
    "aff_link": "https://s.shopee.vn/2VrSUGNlsi",
@@ -410,17 +410,17 @@
    "category": "nha-bep",
    "description": "Giá để dao kéo AKICHI thép carbon chống gỉ, để bàn hoặc treo tường không cần khoan, kèm khay hứng nước. Đựng 9 món dao kéo, bảo hành 10 năm.",
    "image": "img/gia-de-dao-keo-akichi.jpg",
-   "name": "Giá để dao kéo AKICHI",
-   "posted": "Đăng Facebook 23/11/2026",
-   "price": 183200,
-   "price_note": "Giá sau voucher Shopee 20% (giá shop 229.000đ, gốc 350.000đ), kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale. Bản Xám AKC0029X (để bàn). 4.9/5 (107 đánh giá), đã bán 555.",
-   "price_verified": true,
-   "slug": "gia-de-dao-keo-akichi",
-   "price_checked": "2026-11-23",
    "images": [
     "gia-de-dao-keo-akichi-x2.jpg",
     "gia-de-dao-keo-akichi-x3.jpg"
-   ]
+   ],
+   "name": "Giá để dao kéo AKICHI",
+   "posted": "Đăng Facebook 23/11/2026",
+   "price": 183200,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá sau voucher Shopee 20% (giá shop 229.000đ, gốc 350.000đ), kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale. Bản Xám AKC0029X (để bàn). 4.9/5 (107 đánh giá), đã bán 555.",
+   "price_verified": true,
+   "slug": "gia-de-dao-keo-akichi"
   },
   {
    "aff_link": "https://s.shopee.vn/20vCCsOaWK",
@@ -463,17 +463,17 @@
    "category": "suc-khoe",
    "description": "Dầu gội bồ kết truyền thống Thorakao, sạch gàu và mượt tóc.",
    "image": "img/boket.jpg",
-   "name": "Dầu gội bồ kết Thorakao 750ml/400ml",
-   "posted": "Đăng Page Facebook 18/11/2026",
-   "price": 95200,
-   "price_note": "Giá sau voucher Shopee giảm 20%, kiểm chứng trong app Shopee ngày 08/11/2026 (phân loại BẢN CŨ 750ML); giá và mã có thể thay đổi theo đợt sale.",
-   "price_verified": true,
-   "slug": "dau-goi-bo-ket-thorakao",
-   "price_checked": "2026-11-08",
    "images": [
     "boket-x2.jpg",
     "boket-x3.jpg"
-   ]
+   ],
+   "name": "Dầu gội bồ kết Thorakao 750ml/400ml",
+   "posted": "Đăng Page Facebook 18/11/2026",
+   "price": 95200,
+   "price_checked": "2026-11-08",
+   "price_note": "Giá sau voucher Shopee giảm 20%, kiểm chứng trong app Shopee ngày 08/11/2026 (phân loại BẢN CŨ 750ML); giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "dau-goi-bo-ket-thorakao"
   },
   {
    "aff_link": "https://s.shopee.vn/9zxTljx8CW",
@@ -504,17 +504,17 @@
    "category": "xe",
    "description": "Thảm tràn full bậc cửa, hàng sau cao lên bằng ghế, chất liệu không mùi cho Minio Green - VF2.",
    "image": "img/thamfuho.jpg",
-   "name": "Thảm sàn FUMO cho VF2/Minio",
-   "posted": "Đăng Facebook 22/11/2026",
-   "price": 1000000,
-   "price_note": "Giá sau voucher Shopee giảm 22% (tối đa 250.000đ) so với giá gốc 2.000.000đ — kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale.",
-   "price_verified": true,
-   "slug": "tham-san-fumo-vf2",
-   "price_checked": "2026-11-22",
    "images": [
     "tham-san-fumo-vf2-x2.jpg",
     "tham-san-fumo-vf2-x3.jpg"
-   ]
+   ],
+   "name": "Thảm sàn FUMO cho VF2/Minio",
+   "posted": "Đăng Facebook 22/11/2026",
+   "price": 1000000,
+   "price_checked": "2026-11-22",
+   "price_note": "Giá sau voucher Shopee giảm 22% (tối đa 250.000đ) so với giá gốc 2.000.000đ — kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "tham-san-fumo-vf2"
   },
   {
    "aff_link": "https://s.shopee.vn/W6RKjQIZ2",
@@ -545,17 +545,17 @@
    "category": "xe",
    "description": "Giá đỡ hít nam châm từ tính chắc chắn cho điện thoại, máy tính bảng và màn di động trên VF2 - Minio Green.",
    "image": "img/giadotutinh.jpg",
-   "name": "Giá đỡ hít từ tính cho điện thoại/màn di động VF2",
-   "posted": "Đăng Facebook 21/11/2026",
-   "price": 312000,
-   "price_note": "Giá sau voucher Shopee giảm 22% so với giá gốc 400.000đ — kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale.",
-   "price_verified": true,
-   "slug": "gia-do-hit-tu-tinh-vf2",
-   "price_checked": "2026-11-21",
    "images": [
     "giadotutinh-x2.jpg",
     "giadotutinh-x3.jpg"
-   ]
+   ],
+   "name": "Giá đỡ hít từ tính cho điện thoại/màn di động VF2",
+   "posted": "Đăng Facebook 21/11/2026",
+   "price": 312000,
+   "price_checked": "2026-11-21",
+   "price_note": "Giá sau voucher Shopee giảm 22% so với giá gốc 400.000đ — kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "gia-do-hit-tu-tinh-vf2"
   },
   {
    "aff_link": "https://s.shopee.vn/5q85WKr7Ku",
@@ -815,10 +815,10 @@
    "name": "Máy làm sữa hạt Bear DJJ-H05C1 0.6L",
    "posted": "Đăng clip Shopee Video; Bài kêu gọi Sale 25/11 đăng Page 23/11/2026",
    "price": 1090000,
+   "price_checked": "2026-11-18",
    "price_note": "Giá kiểm chứng trong app Shopee tối 18/11/2026 tại Di Động Việt Accessories: giá niêm yết 1.500.000đ, đang bán 1.090.000đ tại listing.",
    "price_verified": true,
-   "slug": "may-lam-sua-hat-bear-djj-h05c1",
-   "price_checked": "2026-11-18"
+   "slug": "may-lam-sua-hat-bear-djj-h05c1"
   },
   {
    "aff_link": "https://s.shopee.vn/3VlYdAJkDG",
@@ -828,10 +828,10 @@
    "name": "Nồi cơm điện mini Bear DFB-B12F1 1.2L",
    "posted": "Đăng Page Facebook 06/11/2026; Bài kêu gọi Sale 25/11 đăng Page 23/11/2026",
    "price": 583200,
+   "price_checked": "2026-11-23",
    "price_note": "Giá app kiểm đêm 23/11/2026 (flash 21% → tính theo cap 20% ngày thường: gốc 729.000đ → 583.200đ).",
    "price_verified": true,
-   "slug": "noi-com-dien-mini-bear-dfb-b12f1",
-   "price_checked": "2026-11-23"
+   "slug": "noi-com-dien-mini-bear-dfb-b12f1"
   },
   {
    "aff_link": "https://s.shopee.vn/7VHkSHYMTd",
@@ -855,17 +855,17 @@
    "category": "me-be",
    "description": "Máy tiệt trùng sấy khô UVC LED Fatz Baby King 2 (FB4799BT) cho bình sữa và đồ dùng của bé. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
    "image": "img/fatz-king-2.jpg",
+   "images": [
+    "img/may-tiet-trung-fatz-baby-king-2-x2.jpg",
+    "img/may-tiet-trung-fatz-baby-king-2-x3.jpg"
+   ],
    "name": "Máy tiệt trùng sấy khô UVC LED Fatz Baby King 2",
    "posted": "Đăng Page Facebook 11/11/2026, Đăng Page Facebook 25/11/2026",
    "price": 2339220,
    "price_checked": "2026-11-25",
    "price_note": "Giá sau voucher Shopee 22% trong app — kiểm chứng trong app Shopee rạng sáng 25/11/2026 (app 2.339.220đ, giá shop 2.999.000đ); giá đăng Page 25/11 bài dedicated khung trưa. Voucher 22% vượt trần 20% ngày thường — mã theo tài khoản.",
    "price_verified": true,
-   "slug": "may-tiet-trung-fatz-baby-king-2",
-   "images": [
-    "img/may-tiet-trung-fatz-baby-king-2-x2.jpg",
-    "img/may-tiet-trung-fatz-baby-king-2-x3.jpg"
-   ]
+   "slug": "may-tiet-trung-fatz-baby-king-2"
   },
   {
    "aff_link": "https://s.shopee.vn/AAIVf4pfsJ",
@@ -892,17 +892,17 @@
    "category": "suc-khoe",
    "description": "Máy massage cầm tay mini cao cấp có cảm biến Zidan chính hãng, thư giãn cơ sau tập luyện và làm việc. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
    "image": "img/may-massage-zidan.jpg",
-   "name": "Máy massage cầm tay mini Zidan có cảm biến",
-   "posted": "Đăng Facebook 24/11/2026",
-   "price": 179200,
-   "price_note": "Giá kiểm chứng trong app Shopee ngày 24/11 (voucher Shopee 96.000đ ~35%, giá trong app trước voucher 275.200đ, gốc 400.000đ; phân loại mặc định).",
-   "price_verified": true,
-   "slug": "may-massage-cam-tay-zidan",
-   "price_checked": "2026-11-24",
    "images": [
     "may-massage-zidan-x2.jpg",
     "may-massage-zidan-x3.jpg"
-   ]
+   ],
+   "name": "Máy massage cầm tay mini Zidan có cảm biến",
+   "posted": "Đăng Facebook 24/11/2026",
+   "price": 179200,
+   "price_checked": "2026-11-24",
+   "price_note": "Giá kiểm chứng trong app Shopee ngày 24/11 (voucher Shopee 96.000đ ~35%, giá trong app trước voucher 275.200đ, gốc 400.000đ; phân loại mặc định).",
+   "price_verified": true,
+   "slug": "may-massage-cam-tay-zidan"
   },
   {
    "aff_link": "https://s.shopee.vn/3qOS4aSysb",
@@ -916,10 +916,10 @@
    "name": "Máy massage cầm tay Smart Trend",
    "posted": "Đăng Facebook 24/11/2026",
    "price": 319000,
+   "price_checked": "2026-11-24",
    "price_note": "Giá sau voucher Shopee trong app (gốc 450.000đ, giảm 29%), phân loại Massa Cơ Bản XÁM, kiểm chứng trong app Shopee ngày 24/11/2026.",
    "price_verified": true,
-   "slug": "may-massage-cam-tay-smart-trend",
-   "price_checked": "2026-11-24"
+   "slug": "may-massage-cam-tay-smart-trend"
   },
   {
    "aff_link": "https://s.shopee.vn/7puaqZRM0E",
@@ -933,10 +933,10 @@
    "name": "Cân phân tích cơ thể Laica PS7011 đo 20 chỉ số",
    "posted": "Đăng Facebook 24/11/2026",
    "price": 475600,
+   "price_checked": "2026-11-24",
    "price_note": "Giá kiểm chứng trong app Shopee ngày 24/11 (voucher Shopee 18%, giá shop 580.000đ, gốc 790.000đ).",
    "price_verified": true,
-   "slug": "can-suc-khoe-laica-ps7011",
-   "price_checked": "2026-11-24"
+   "slug": "can-suc-khoe-laica-ps7011"
   },
   {
    "aff_link": "https://s.shopee.vn/50aMOeo4TQ",
@@ -991,17 +991,17 @@
    "category": "nha-bep",
    "description": "Máy vắt cam bằng điện Lock&Lock EJJ231, vắt cam nhanh gọn cho gia đình. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
    "image": "img/may-vat-cam-ejj231.jpg",
-   "name": "Máy vắt cam bằng điện Lock&Lock EJJ231",
-   "posted": "Đăng Facebook 20/11/2026",
-   "price": 255474,
-   "price_note": "Giá sau voucher, giảm 52% so với giá gốc 532.000đ — kiểm chứng trong app Shopee ngày 20/11/2026 (Member Day); giá và mã có thể thay đổi theo đợt sale.",
-   "price_verified": true,
-   "slug": "may-vat-cam-locklock-ejj231",
-   "price_checked": "2026-11-20",
    "images": [
     "may-vat-cam-ejj231-x2.jpg",
     "may-vat-cam-ejj231-x3.jpg"
-   ]
+   ],
+   "name": "Máy vắt cam bằng điện Lock&Lock EJJ231",
+   "posted": "Đăng Facebook 20/11/2026",
+   "price": 255474,
+   "price_checked": "2026-11-20",
+   "price_note": "Giá sau voucher, giảm 52% so với giá gốc 532.000đ — kiểm chứng trong app Shopee ngày 20/11/2026 (Member Day); giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "may-vat-cam-locklock-ejj231"
   },
   {
    "aff_link": "https://s.shopee.vn/BV5M5hx0V",
@@ -1011,27 +1011,27 @@
    "name": "Máy đo huyết áp OMRON HEM-7183T1-AP EZ BT",
    "posted": "Có link affiliate trong kho Hàng Tốt Giá Tốt; Bài kêu gọi Sale 25/11 đăng Page 23/11/2026",
    "price": 893760,
+   "price_checked": "2026-11-23",
    "price_note": "Giá app kiểm đêm 23/11/2026 (flash 23% → tính theo cap 20%: gốc 1.117.200đ → 893.760đ); listing gộp 2 phân loại, giá là phân loại mặc định.",
    "price_verified": true,
-   "slug": "may-do-huyet-ap-omron-hem-7183t1",
-   "price_checked": "2026-11-23"
+   "slug": "may-do-huyet-ap-omron-hem-7183t1"
   },
   {
    "aff_link": "https://s.shopee.vn/1BNcXve8yj",
    "category": "nha-bep",
    "description": "Máy làm sữa hạt Sunhouse SHD5261 dung tích 1L: 8 chế độ xay nấu tự động (ngũ cốc, sữa đậu, cháo hạt, súp, trà, giữ ấm, sữa lắc, sinh tố), cối thủy tinh 1L, lưỡi dao kép 8 cánh inox, tự vệ sinh 1 chạm, hẹn giờ 24h, chống trào, bảo hành chính hãng 12 tháng. Shop Mall SUNHOUSE Official Store.",
    "image": "img/sunhouse-shd5261.jpg",
-   "name": "Máy làm sữa hạt Sunhouse SHD5261 1L",
-   "posted": "Đăng Facebook 23/11/2026",
-   "price": 1402800,
-   "price_note": "Giá sau voucher Shopee 16% — kiểm chứng trong app Shopee ngày 08/11/2026 (giá gốc 2.050.000đ, giá bán 1.670.000đ; giá gốc + giá bán live 23/11 khớp app). Giá và mã có thể thay đổi theo đợt sale.",
-   "price_verified": true,
-   "slug": "may-lam-sua-hat-sunhouse-shd5261",
-   "price_checked": "2026-11-23",
    "images": [
     "sunhouse-shd5261-x2.jpg",
     "sunhouse-shd5261-x3.jpg"
-   ]
+   ],
+   "name": "Máy làm sữa hạt Sunhouse SHD5261 1L",
+   "posted": "Đăng Facebook 23/11/2026",
+   "price": 1402800,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá sau voucher Shopee 16% — kiểm chứng trong app Shopee ngày 08/11/2026 (giá gốc 2.050.000đ, giá bán 1.670.000đ; giá gốc + giá bán live 23/11 khớp app). Giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "may-lam-sua-hat-sunhouse-shd5261"
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F17209089%2F10728280473&affiliate_id=17374300035&sub_id=----",
@@ -1193,8 +1193,8 @@
    "price": 3199200,
    "price_checked": "2026-11-18",
    "price_note": "Giá kiểm chứng trong app Shopee tối 18/11/2026 tại Vinh Hùng Store HCM: giá gốc 3.999.000đ, tính theo mức voucher tối đa ngày thường 20%.",
-   "slug": "may-ep-cham-hurom-hu-19sgm",
-   "price_verified": true
+   "price_verified": true,
+   "slug": "may-ep-cham-hurom-hu-19sgm"
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F635807690%2F20687146347&affiliate_id=17374300035&sub_id=----",
@@ -1933,8 +1933,7 @@
    "slug": "xiaozhi-man-gc9a01-tron"
   },
   {
-   "slug": "serum-xit-dalba-first-spray-serum-100ml",
-   "name": "Serum xịt d'Alba First Spray Serum 100ml",
+   "aff_link": "https://s.shopee.vn/7fbUogfjwf",
    "category": "suc-khoe",
    "description": "Serum dạng xịt 2 lớp với Niacinamide 2% và nấm Truffle trắng từ Ý, cấp ẩm tức thì, da căng bóng tự nhiên. Hơn 50 triệu chai đã bán tại Hàn Quốc; công thức nguồn gốc thực vật, an toàn cho da nhạy cảm. Lưu ý: hiệu quả dưỡng sáng cần dùng đều đặn; nhớ chọn đúng phân loại 100ml.",
    "image": "img/serum-xit-dalba-first-spray-serum-100ml.jpg",
@@ -1942,16 +1941,16 @@
     "serum-xit-dalba-first-spray-serum-100ml-x2.jpg",
     "serum-xit-dalba-first-spray-serum-100ml-x3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/7fbUogfjwf",
+   "name": "Serum xịt d'Alba First Spray Serum 100ml",
+   "posted": "Đăng Page Facebook 19/11/2026",
    "price": 265000,
    "price_checked": "2026-11-19",
-   "price_verified": true,
    "price_note": "Giá sau voucher (giảm 42%), kiểm chứng trong app Shopee ngày 19/11/2026 (phân loại 100ml); giá và mã có thể thay đổi theo đợt sale.",
-   "posted": "Đăng Page Facebook 19/11/2026"
+   "price_verified": true,
+   "slug": "serum-xit-dalba-first-spray-serum-100ml"
   },
   {
-   "slug": "cu-sac-robot-ugreen-nexode-uno-65w",
-   "name": "Củ sạc robot UGREEN Nexode Uno 65W",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1454455021%2F25141275027&affiliate_id=17374300035&sub_id=----",
    "category": "dien-tu",
    "description": "Củ sạc robot UGREEN Nexode Uno 65W (mã CD361) — GaN, 2 cổng USB-C + 1 USB-A, mặt LED đổi biểu cảm theo trạng thái sạc, chân đế nam châm gắn tủ lạnh/máy tính. Cổng C1 sạc MacBook Air M2 lên 51% trong 30 phút (số liệu UGREEN). Lưu ý: listing gộp cả bản 30W (CD359) — chọn đúng phân loại 65W (2C1A, mã CD361).",
    "image": "img/cu-sac-robot-ugreen-nexode-uno-65w.jpg",
@@ -1959,12 +1958,13 @@
     "cu-sac-robot-ugreen-nexode-uno-65w-x2.jpg",
     "cu-sac-robot-ugreen-nexode-uno-65w-x3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1454455021%2F25141275027&affiliate_id=17374300035&sub_id=----",
+   "name": "Củ sạc robot UGREEN Nexode Uno 65W",
+   "posted": "Đăng Facebook 19/11/2026",
    "price": 799999,
    "price_checked": "2026-11-19",
-   "price_verified": true,
    "price_note": "Giá theo trần voucher 20% (giá gốc 999.999đ); giá trong app bản 65W Đen là 749.000đ (giảm 25%) — kiểm chứng trong app Shopee ngày 19/11/2026 (phân loại 65W, mã CD361); giá và mã có thể thay đổi theo đợt sale.",
-   "posted": "Đăng Facebook 19/11/2026",
+   "price_verified": true,
+   "slug": "cu-sac-robot-ugreen-nexode-uno-65w",
    "youtube": "https://www.youtube.com/shorts/6TjfoSq2B-k"
   },
   {
@@ -1985,8 +1985,7 @@
    "slug": "may-xay-thit-mini-bear-qsj-b02u2"
   },
   {
-   "slug": "may-tao-am-deerma-dem-f628s-5l",
-   "name": "Máy tạo ẩm Deerma DEM-F628S 5L",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F76505643%2F27825670575&affiliate_id=17374300035&sub_id=----",
    "category": "nha-bep",
    "description": "Máy tạo ẩm Deerma DEM-F628S — bình chứa 5 lít, phun sương siêu âm cả ngày, đèn UV diệt khuẩn ngay trong đường nước, tự giữ ẩm 45–90% với màn hình hiển thị độ ẩm và nhiệt độ theo thời gian thực, 3 mức phun sương, hẹn giờ tới 12 giờ, khay nhỏ thêm tinh dầu, công suất chỉ 25W. Lưu ý: các listing gộp cả bản F628 (không đèn UV, núm vặn) — khi mua nhớ chọn đúng phân loại F628S. Sản phẩm đã lên clip review trên Facebook, YouTube và Shopee Video.",
    "image": "img/may-tao-am-deerma-dem-f628s-5l.jpg",
@@ -1994,16 +1993,16 @@
     "img/may-tao-am-deerma-dem-f628s-5l-2.jpg",
     "img/may-tao-am-deerma-dem-f628s-5l-3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F76505643%2F27825670575&affiliate_id=17374300035&sub_id=----",
-   "price": null,
-   "price_verified": false,
-   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "name": "Máy tạo ẩm Deerma DEM-F628S 5L",
    "posted": "Đăng clip Facebook + YouTube Short 19/11/2026; Shopee Video chờ box Note8 đăng trong ngày",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "may-tao-am-deerma-dem-f628s-5l",
    "youtube": "https://www.youtube.com/shorts/Dvp9THMi4v4"
   },
   {
-   "slug": "pin-sac-du-phong-ugreen-145w-25000mah",
-   "name": "Pin sạc dự phòng UGREEN 145W 25000mAh",
+   "aff_link": "https://s.shopee.vn/LohJp2Tk3",
    "category": "dien-tu",
    "description": "Pin sạc dự phòng UGREEN 25000mAh, công suất 145W, cổng USB-C1 sạc 140W chuẩn PD3.1 (MacBook Air 2022 lên 100% trong 90 phút, số liệu listing); 3 cổng (2 USB-C + 1 USB-A) sạc 3 thiết bị cùng lúc, màn hình kỹ thuật số báo % pin, mang lên máy bay được. Lưu ý: listing gộp 8 phân loại — chọn đúng phân loại 25000mAh 145W.",
    "image": "img/pin-sac-du-phong-ugreen-145w-25000mah.jpg",
@@ -2011,16 +2010,16 @@
     "pin-sac-du-phong-ugreen-145w-25000mah-x2.jpg",
     "pin-sac-du-phong-ugreen-145w-25000mah-x3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/LohJp2Tk3",
+   "name": "Pin sạc dự phòng UGREEN 145W 25000mAh",
+   "posted": "Đăng Facebook 20/11/2026",
    "price": 719000,
    "price_checked": "2026-11-20",
-   "price_verified": true,
    "price_note": "Giá theo trần voucher 20% (giá gốc 899.000đ); giá trong app bản 25000mAh là 575.200đ (giảm 36%) — kiểm chứng trong app Shopee ngày 20/11/2026 (Member Day); giá và mã có thể thay đổi theo đợt sale.",
-   "posted": "Đăng Facebook 20/11/2026"
+   "price_verified": true,
+   "slug": "pin-sac-du-phong-ugreen-145w-25000mah"
   },
   {
-   "slug": "noi-ap-suat-dien-philips-hd2137",
-   "name": "Nồi áp suất điện Philips HD2137 6L",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F145171371%2F6500103882&affiliate_id=17374300035&sub_id=----",
    "category": "nha-bep",
    "description": "Nồi áp suất điện Philips HD2137 — dung tích 6 lít, công suất 1000W, nhiều chế độ nấu sẵn: hầm, nấu cháo, nấu cơm, hấp, làm sữa chua. Hầm súp 20 phút, nấu cơm 14 phút theo sách hướng dẫn; nấu chậm tới 12 tiếng, xào ngay trong nồi rồi chuyển sang hầm, khỏi rửa thêm xoong. Lòng nồi hợp kim nhôm chống dính, tự xả áp an toàn, giữ ấm 60–80°C. Lưu ý: bản bán tại Việt Nam (HD2137/65) có bảng điều khiển tiếng Việt; footage quay bản quốc tế panel tiếng Anh — cùng một máy. Sản phẩm đã lên clip review trên Facebook, YouTube và Shopee Video.",
    "image": "img/noi-ap-suat-dien-philips-hd2137.jpg",
@@ -2028,11 +2027,12 @@
     "img/noi-ap-suat-dien-philips-hd2137-2.jpg",
     "img/noi-ap-suat-dien-philips-hd2137-3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F145171371%2F6500103882&affiliate_id=17374300035&sub_id=----",
-   "price": null,
-   "price_verified": false,
-   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "name": "Nồi áp suất điện Philips HD2137 6L",
    "posted": "Đăng clip Facebook + YouTube Short 20/11/2026; Shopee Video chờ box Note8 đăng trong ngày",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "noi-ap-suat-dien-philips-hd2137",
    "youtube": "https://www.youtube.com/shorts/YJUNxiPBhXo"
   },
   {
@@ -2049,8 +2049,7 @@
    "youtube": "https://www.youtube.com/shorts/wN-bDFxYD4o"
   },
   {
-   "slug": "bep-tu-don-sunhouse-shd6803",
-   "name": "Bếp từ đơn Sunhouse SHD6803 2000W",
+   "aff_link": "https://s.shopee.vn/9pfcAKSvT9",
    "category": "nha-bep",
    "description": "Bếp từ đơn Sunhouse SHD6803 công suất 2000W, mặt kính ceramic chịu nhiệt tới 760°C, 8 chế độ nấu cài sẵn (lẩu, xào, súp, cháo, hầm sữa, hấp, giữ ấm, nướng). Phím bấm cảm ứng tiếng Việt, khóa trẻ em an toàn, hẹn giờ tiện lợi. Bảo hành 12 tháng. Lưu ý: chỉ 1 vùng nấu nên không nấu 2 món cùng lúc được; mặt kính đen bóng dễ lộ dấu vân tay.",
    "image": "img/bep-tu-don-sunhouse-shd6803.jpg",
@@ -2058,12 +2057,13 @@
     "bep-tu-don-sunhouse-shd6803-x2.jpg",
     "bep-tu-don-sunhouse-shd6803-x3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/9pfcAKSvT9",
+   "name": "Bếp từ đơn Sunhouse SHD6803 2000W",
+   "posted": "Đăng Facebook 20/11/2026",
    "price": 881790,
    "price_checked": "2026-11-20",
-   "price_verified": true,
    "price_note": "Giá sau voucher, giảm 38% so với giá gốc 1.420.000đ — kiểm chứng trong app Shopee ngày 20/11/2026 (Member Day); giá và mã có thể thay đổi theo đợt sale.",
-   "posted": "Đăng Facebook 20/11/2026"
+   "price_verified": true,
+   "slug": "bep-tu-don-sunhouse-shd6803"
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F90366612%2F46003715486&affiliate_id=17374300035&sub_id=----",
@@ -2127,8 +2127,7 @@
    "slug": "noi-chien-khong-dau-philips-hd9252-90"
   },
   {
-   "slug": "may-loc-khong-khi-xiaomi-purifier-4-pro",
-   "name": "Máy lọc không khí Xiaomi Air Purifier 4 Pro",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F842748677%2F44100631614&affiliate_id=17374300035&sub_id=----",
    "category": "nha-bep",
    "description": "Máy lọc không khí Xiaomi Air Purifier 4 Pro (mã AC-M15-SC) — CADR hạt bụi 500 m³/h, cho ra 8.330 lít không khí sạch mỗi phút, cho phòng 35–60m², màn hình OLED cảm ứng hiển thị PM2.5, PM10, nhiệt độ và độ ẩm theo thời gian thực, cảm biến laser kép, lõi lọc 3 trong 1 (HEPA H13 + than hoạt tính 650g) lọc 99,97% hạt siêu mịn tới 0,3 micromet, ion âm, lọc formaldehyde 185 m³/h, điều khiển qua app Mi Home. Lưu ý: các listing Shopee hay gộp 4 / 4 Lite / 4 Pro / 4 Compact và lẫn lõi lọc — khi mua nhớ chọn đúng phân loại máy Air Purifier 4 Pro, không phải 4 Pro H (CADR 600) hay 4 Lite (CADR 360). Sản phẩm đã lên clip review trên Facebook, YouTube và Shopee Video.",
    "image": "img/may-loc-khong-khi-xiaomi-purifier-4-pro.jpg",
@@ -2136,16 +2135,16 @@
     "img/may-loc-khong-khi-xiaomi-purifier-4-pro-2.jpg",
     "img/may-loc-khong-khi-xiaomi-purifier-4-pro-3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F842748677%2F44100631614&affiliate_id=17374300035&sub_id=----",
-   "price": null,
-   "price_verified": false,
-   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "name": "Máy lọc không khí Xiaomi Air Purifier 4 Pro",
    "posted": "Đăng clip Facebook 10:00 + YouTube Short 09:30 21/11/2026; Shopee Video chờ box Note8 đăng trong ngày",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "may-loc-khong-khi-xiaomi-purifier-4-pro",
    "youtube": "https://www.youtube.com/shorts/grc68Rs89Kk"
   },
   {
-   "slug": "robot-hut-bui-xiaomi-e10",
-   "name": "Robot hút bụi lau nhà Xiaomi Robot Vacuum E10",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1405187722%2F26821105516&affiliate_id=17374300035&sub_id=----",
    "category": "nha-bep",
    "description": "Robot hút bụi lau nhà Xiaomi Robot Vacuum E10 (mã BHR6783EU) — lực hút mạnh tới 4000Pa với 4 cấp độ, hút sạch bụi mịn, lông thú cưng và vụn thức ăn; hút bụi và lau nhà cùng lúc với bình nước thông minh 3 mức lưu lượng; đi theo đường zíc zắc, dọn đều từng lối; chổi chính cao su tích hợp + chổi bên + lọc 3 lần; pin 2600mAh chạy liên tục tới 110 phút ở chế độ thường, tự về dock sạc khi pin yếu; thân máy cao chỉ 8cm, chui gọn gầm giường và gầm ghế sofa; điều khiển qua app Mi Home/Xiaomi Home, hỗ trợ Google Assistant và Alexa. Lưu ý thật: E10 KHÔNG có laser LDS và KHÔNG lưu bản đồ — máy định hướng bằng con quay hồi chuyển, đi zigzag, hợp nhất cho căn hộ nhỏ/vừa, ít đồ đạc; đừng nhầm với bản S10 (có LDS) hay E10C (3500Pa, rẻ hơn). Khi mua nhớ chọn đúng phân loại E10 EU (4000Pa), không chọn E10C hay E5. Sản phẩm đã lên clip review trên Facebook, YouTube và Shopee Video.",
    "image": "img/robot-hut-bui-xiaomi-e10.jpg",
@@ -2153,87 +2152,88 @@
     "img/robot-hut-bui-xiaomi-e10-2.jpg",
     "img/robot-hut-bui-xiaomi-e10-3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1405187722%2F26821105516&affiliate_id=17374300035&sub_id=----",
-   "price": null,
-   "price_verified": false,
-   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "name": "Robot hút bụi lau nhà Xiaomi Robot Vacuum E10",
    "posted": "Đăng clip Facebook 14:00 + YouTube Short 14:30 21/11/2026; Shopee Video chờ box Note8 đăng trong ngày",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "robot-hut-bui-xiaomi-e10",
    "youtube": "https://www.youtube.com/shorts/fOCQ5HUzSVA"
   },
   {
-   "slug": "rubik-moyu-meilong-3m-v2",
-   "name": "Rubik 3x3 MoYu Meilong 3M V2 (bản thường, có nam châm, không UV)",
-   "category": "rubik",
-   "group": "3x3-chinh",
-   "price": 87200,
-   "price_verified": true,
-   "price_checked": "2026-11-21",
-   "price_note": "Biến thể mặc định (rẻ nhất trong 3 biến thể, Magnetic/Lite, không UV). Giá gốc 109.000₫, voucher app 25% (27.250₫) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 1. Ảnh chụp trong app Shopee (khung video đầu gallery).",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F222542894%2F25429501221&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik 3x3 MoYu Meilong 3M V2 bản thường (Magnetic/Lite, không UV) — khối nam châm 3x3 rẻ nhất dùng được cho bé học nghiêm túc. Shop DATAS RUBIK, đánh giá 5.0/5. Nam châm hít viên về đúng vị trí, bé xoay đỡ lệch hẳn so với bản thường.",
+   "group": "3x3-chinh",
    "image": "img/meilong-3m-v2.jpg",
    "images": [],
-   "description": "Rubik 3x3 MoYu Meilong 3M V2 bản thường (Magnetic/Lite, không UV) — khối nam châm 3x3 rẻ nhất dùng được cho bé học nghiêm túc. Shop DATAS RUBIK, đánh giá 5.0/5. Nam châm hít viên về đúng vị trí, bé xoay đỡ lệch hẳn so với bản thường.",
-   "posted": "Thêm vào web 21/11/2026"
+   "name": "Rubik 3x3 MoYu Meilong 3M V2 (bản thường, có nam châm, không UV)",
+   "posted": "Thêm vào web 21/11/2026",
+   "price": 87200,
+   "price_checked": "2026-11-21",
+   "price_note": "Biến thể mặc định (rẻ nhất trong 3 biến thể, Magnetic/Lite, không UV). Giá gốc 109.000₫, voucher app 25% (27.250₫) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 1. Ảnh chụp trong app Shopee (khung video đầu gallery).",
+   "price_verified": true,
+   "slug": "rubik-moyu-meilong-3m-v2"
   },
   {
-   "slug": "rubik-moyu-rs3m-v5",
-   "name": "Rubik 3x3 MoYu RS3M V5 Magnetic (Dual Adjustment) — khối chính của series",
-   "category": "rubik",
-   "group": "3x3-chinh",
-   "price": 197600,
-   "price_verified": true,
-   "price_checked": "2026-11-21",
-   "price_note": "Biến thể Bản Magnetic. Giá gốc 247.000₫, voucher app 25% (61.750₫) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 9k+. Listing chỉ có 2 biến thể: Magnetic và Ballcore UV (667.250₫ sau voucher) — không có Ball Core không UV.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F482205734%2F23285178865&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik 3x3 MoYu RS3M V5 bản Magnetic thường (Dual Adjustment) — khối chính của series Bé Học Rubik: best budget 2026, xoay nhanh ngay khi mở hộp, chỉnh được tension/magnet nên dùng tiếp được 6 tháng sau khi bé đã nhanh hơn. Shop Rubik Land. Chọn đúng biến thể Bản Magnetic (không phải Ballcore UV).",
+   "group": "3x3-chinh",
    "image": "img/rs3m-v5.jpg",
    "images": [],
-   "description": "Rubik 3x3 MoYu RS3M V5 bản Magnetic thường (Dual Adjustment) — khối chính của series Bé Học Rubik: best budget 2026, xoay nhanh ngay khi mở hộp, chỉnh được tension/magnet nên dùng tiếp được 6 tháng sau khi bé đã nhanh hơn. Shop Rubik Land. Chọn đúng biến thể Bản Magnetic (không phải Ballcore UV).",
-   "posted": "Thêm vào web 21/11/2026"
+   "name": "Rubik 3x3 MoYu RS3M V5 Magnetic (Dual Adjustment) — khối chính của series",
+   "posted": "Thêm vào web 21/11/2026",
+   "price": 197600,
+   "price_checked": "2026-11-21",
+   "price_note": "Biến thể Bản Magnetic. Giá gốc 247.000₫, voucher app 25% (61.750₫) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 9k+. Listing chỉ có 2 biến thể: Magnetic và Ballcore UV (667.250₫ sau voucher) — không có Ball Core không UV.",
+   "price_verified": true,
+   "slug": "rubik-moyu-rs3m-v5"
   },
   {
-   "slug": "rubik-dayan-guhong-pro-m",
-   "name": "Rubik 3x3 DaYan GuHong Pro M 56mm",
-   "category": "rubik",
-   "group": "3x3-chinh",
-   "price": 424000,
-   "price_verified": true,
-   "price_checked": "2026-11-21",
-   "price_note": "Chỉ có 1 biến thể 56mm. Giá gốc 530.000₫, voucher app 190.800₫ (36%) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Shop CubeStation (HCM), đã bán 4. Ảnh chụp trong app Shopee.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1934691633%2F49219251962&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik 3x3 DaYan GuHong Pro M 56mm — rất tùy biến, cảm giác mượt đặc trưng DaYan. Shop tại HCM, đánh giá 5.0/5 (1 đánh giá). Lưu ý: listing VN chỉ có bản 56mm, giá cao hơn mặt bằng quốc tế — cân nhắc trước khi mua.",
+   "group": "3x3-chinh",
    "image": "img/guhong-pro-m.jpg",
    "images": [],
-   "description": "Rubik 3x3 DaYan GuHong Pro M 56mm — rất tùy biến, cảm giác mượt đặc trưng DaYan. Shop tại HCM, đánh giá 5.0/5 (1 đánh giá). Lưu ý: listing VN chỉ có bản 56mm, giá cao hơn mặt bằng quốc tế — cân nhắc trước khi mua.",
-   "posted": "Thêm vào web 21/11/2026"
+   "name": "Rubik 3x3 DaYan GuHong Pro M 56mm",
+   "posted": "Thêm vào web 21/11/2026",
+   "price": 424000,
+   "price_checked": "2026-11-21",
+   "price_note": "Chỉ có 1 biến thể 56mm. Giá gốc 530.000₫, voucher app 190.800₫ (36%) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Shop CubeStation (HCM), đã bán 4. Ảnh chụp trong app Shopee.",
+   "price_verified": true,
+   "slug": "rubik-dayan-guhong-pro-m"
   },
   {
-   "slug": "rubik-yj-yuhu-v2-m",
-   "name": "Rubik Megaminx YJ YuHu V2 M (12 mặt, có nam châm)",
-   "category": "rubik",
-   "group": "bien-the",
-   "price": 236087,
-   "price_verified": true,
-   "price_checked": "2026-11-21",
-   "price_note": "Giá gốc 295.109₫, voucher app 21% (61.972₫) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 18.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F482205734%2F16835400771&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik Megaminx YJ YuHu V2 M có nam châm — megaminx nhanh nhất thị trường ở tầm giá này, cắt góc xuất sắc. Shop Rubik Land, đánh giá 4.95/5 (42 đánh giá). Series chỉ làm quen Megaminx ở tập cuối nên mua YuHu là đủ dùng lâu.",
+   "group": "bien-the",
    "image": "img/yuhu-v2-m.jpg",
    "images": [],
-   "description": "Rubik Megaminx YJ YuHu V2 M có nam châm — megaminx nhanh nhất thị trường ở tầm giá này, cắt góc xuất sắc. Shop Rubik Land, đánh giá 4.95/5 (42 đánh giá). Series chỉ làm quen Megaminx ở tập cuối nên mua YuHu là đủ dùng lâu.",
-   "posted": "Thêm vào web 21/11/2026"
+   "name": "Rubik Megaminx YJ YuHu V2 M (12 mặt, có nam châm)",
+   "posted": "Thêm vào web 21/11/2026",
+   "price": 236087,
+   "price_checked": "2026-11-21",
+   "price_note": "Giá gốc 295.109₫, voucher app 21% (61.972₫) ngày 21/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 18.",
+   "price_verified": true,
+   "slug": "rubik-yj-yuhu-v2-m"
   },
   {
-   "slug": "rubik-mirror-3x3",
-   "name": "Rubik Mirror 3x3 MoYu/QiYi (khối gương biến thể)",
-   "category": "rubik",
-   "group": "bien-the",
-   "price": 50400,
-   "price_verified": true,
-   "price_checked": "2026-11-21",
-   "price_note": "Giá gốc 63.000₫, voucher app 20% (12.600₫) ngày 21/11/2026 → giá đăng = giá sau voucher. Đã bán 20k+, 3 biến thể.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F104376285%2F4801273718&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik Mirror 3x3 MoYu/QiYi — khối gương biến thể của 3x3, nhận diện bằng hình khối thay vì màu. Shop Little Kobo, đánh giá 4.94/5 (6.752 đánh giá). Chỉ mua sau khi bé đã giải được 3x3 thường.",
+   "group": "bien-the",
    "image": "img/mirror-3x3.jpg",
    "images": [],
-   "description": "Rubik Mirror 3x3 MoYu/QiYi — khối gương biến thể của 3x3, nhận diện bằng hình khối thay vì màu. Shop Little Kobo, đánh giá 4.94/5 (6.752 đánh giá). Chỉ mua sau khi bé đã giải được 3x3 thường.",
-   "posted": "Thêm vào web 21/11/2026"
+   "name": "Rubik Mirror 3x3 MoYu/QiYi (khối gương biến thể)",
+   "posted": "Thêm vào web 21/11/2026",
+   "price": 50400,
+   "price_checked": "2026-11-21",
+   "price_note": "Giá gốc 63.000₫, voucher app 20% (12.600₫) ngày 21/11/2026 → giá đăng = giá sau voucher. Đã bán 20k+, 3 biến thể.",
+   "price_verified": true,
+   "slug": "rubik-mirror-3x3"
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F703409162%2F20255414774&affiliate_id=17374300035&sub_id=----",
@@ -2254,17 +2254,17 @@
    "category": "nha-bep",
    "description": "Nồi chiên không dầu Lock&Lock EJF151BLK 5.2L, núm cơ chỉnh nhiệt độ + hẹn giờ, lòng nồi tháo rời. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
    "image": "img/noi-chien-khong-dau-locklock-ejf151blk.jpg",
-   "name": "Nồi chiên không dầu Lock&Lock EJF151BLK 5.2L",
-   "posted": "Đăng Facebook 22/11/2026",
-   "price": 2999000,
-   "price_note": "Giá sau voucher Shopee giảm 19% (tối đa 700.000đ) so với giá gốc 3.699.000đ — kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale.",
-   "price_verified": true,
-   "slug": "noi-chien-khong-dau-locklock-ejf151blk",
-   "price_checked": "2026-11-22",
    "images": [
     "noi-chien-khong-dau-locklock-ejf151blk-x2.jpg",
     "noi-chien-khong-dau-locklock-ejf151blk-x3.jpg"
-   ]
+   ],
+   "name": "Nồi chiên không dầu Lock&Lock EJF151BLK 5.2L",
+   "posted": "Đăng Facebook 22/11/2026",
+   "price": 2999000,
+   "price_checked": "2026-11-22",
+   "price_note": "Giá sau voucher Shopee giảm 19% (tối đa 700.000đ) so với giá gốc 3.699.000đ — kiểm chứng trong app Shopee ngày 08/11/2026; giá và mã có thể thay đổi theo đợt sale.",
+   "price_verified": true,
+   "slug": "noi-chien-khong-dau-locklock-ejf151blk"
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F10756557%2F44262400978&affiliate_id=17374300035&sub_id=shopeevideo----",
@@ -2279,29 +2279,29 @@
    "youtube": "https://www.youtube.com/shorts/wOCV-Mh-iFI"
   },
   {
-   "slug": "robot-hut-bui-dreame-d10-plus",
-   "name": "Robot hút bụi lau nhà Dreame D10 Plus (RLS3D)",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F844238171%2F17882628096&affiliate_id=17374300035&sub_id=shopeevideo----",
    "category": "nha-bep",
    "description": "Robot hút bụi lau nhà Dreame D10 Plus đời đầu (mã RLS3D) — đế tự đổ rác túi 2.5L, rảnh tay tới 45 ngày; lực hút 4000Pa; điều hướng laser LiDAR lập bản đồ, vẽ tường ảo và chia phòng; hút bụi và lau nhà cùng lúc; pin 5200mAh dọn tới 270m², tự về đế sạc khi pin yếu. Lưu ý thật: chỉ nói bản D10 Plus đời đầu — KHÔNG phải D10 Plus Gen 2 hay D10S Plus; khi mua chọn đúng phân loại D10 Plus có đế tự đổ rác, không chọn bản D10 thường (không có đế). Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
    "image": "img/robot-hut-bui-dreame-d10-plus.jpg",
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F844238171%2F17882628096&affiliate_id=17374300035&sub_id=shopeevideo----",
-   "price": null,
-   "price_verified": false,
-   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "name": "Robot hút bụi lau nhà Dreame D10 Plus (RLS3D)",
    "posted": "Đăng clip Facebook 14:00 22/11/2026; Shopee Video chờ box Note8 đăng trong ngày",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "robot-hut-bui-dreame-d10-plus",
    "youtube": "https://www.youtube.com/shorts/gXj8d6Y-6H8"
   },
   {
-   "slug": "may-loc-khong-khi-levoit-core-300s",
-   "name": "Máy lọc không khí Levoit Core 300S",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F102596065%2F10485254955&affiliate_id=17374300035&sub_id=shopeevideo----",
    "category": "nha-bep",
    "description": "Máy lọc không khí Levoit Core 300S — bản thông minh có app, khác hẳn bản Core 300 thường. Lõi lọc 3 lớp: màng thô, HEPA H13 và than hoạt tính — lọc tới 99,97% bụi mịn PM 0.3; cảm biến bụi laser theo dõi không khí theo thời gian thực, chế độ Auto tự chỉnh tốc độ quạt; điều khiển từ xa qua app VeSync, ra lệnh bằng giọng nói qua Google Assistant và Alexa; ba mức gió, chế độ ngủ êm ru, hẹn giờ tắt máy. Lưu ý thật: bản Core 300 thường rẻ hơn nhưng KHÔNG có app, KHÔNG có cảm biến bụi, KHÔNG có chế độ Auto — đừng nhầm khi đặt mua. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
    "image": "img/may-loc-khong-khi-levoit-core-300s.jpg",
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F102596065%2F10485254955&affiliate_id=17374300035&sub_id=shopeevideo----",
-   "price": null,
-   "price_verified": false,
-   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "name": "Máy lọc không khí Levoit Core 300S",
    "posted": "Đăng clip Facebook 20:00 22/11/2026; Đăng Shopee Video 21:46 22/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "may-loc-khong-khi-levoit-core-300s",
    "youtube": "https://www.youtube.com/shorts/THXjhQLOHoI"
   },
   {
@@ -2309,17 +2309,17 @@
    "category": "suc-khoe",
    "description": "Máy sấy tóc Sunhouse SHD2306 1200W màu đen, 2 tốc độ sấy + chế độ sấy mát, tay cầm gập gọn mang đi du lịch tiện. Nhiệt độ ổn định ~57°C, tự ngắt khi quá nhiệt, kèm đầu sấy tập trung. Lưu ý: công suất 1200W vừa phải — tóc rất dày hoặc cần sấy tạo kiểu chuyên sâu nên cân nhắc dòng công suất lớn hơn.",
    "image": "img/may-say-toc-sunhouse-shd2306.jpg",
+   "images": [
+    "may-say-toc-sunhouse-shd2306-x2.jpg",
+    "may-say-toc-sunhouse-shd2306-x3.jpg"
+   ],
    "name": "Máy sấy tóc Sunhouse SHD2306 1200W",
    "posted": "Đăng Facebook 23/11/2026",
    "price": 209000,
    "price_checked": "2026-11-23",
    "price_note": "Giá sau voucher XTRA (gốc thẻ 350.000đ, -40%) — kiểm chứng trong app Shopee ngày 23/11/2026; mã theo tài khoản, giá và mã có thể thay đổi theo đợt sale.",
    "price_verified": true,
-   "slug": "may-say-toc-sunhouse-shd2306",
-   "images": [
-    "may-say-toc-sunhouse-shd2306-x2.jpg",
-    "may-say-toc-sunhouse-shd2306-x3.jpg"
-   ]
+   "slug": "may-say-toc-sunhouse-shd2306"
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F752342657%2F22428374649&affiliate_id=17374300035&sub_id=shopeevideo----",
@@ -2335,53 +2335,52 @@
    "youtube": "https://www.youtube.com/watch?v=Rw0UGUk4DKI"
   },
   {
-   "slug": "rubik-qiyi-ms-2x2",
-   "name": "Rubik 2x2 QiYi MS M (bản nam châm)",
-   "category": "rubik",
-   "group": "2x2-4x4",
-   "price": 139048,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Biến thể '2x2 Magnets' trong listing gộp MS 10 biến thể (bấm ô vuông biến thể trong app). Giá gốc 159.500₫, voucher app ~13% (20.452₫) ngày 23/11/2026 → giá đăng = giá sau voucher (voucher ≤20%). Stock 491. Giao hàng 27/11–1/12 (shop nước ngoài). Lưu ý: 21/11 giá đăng từng là 142.543đ (gốc 178.179₫, voucher 20%) — giá gốc đã giảm còn 159.500₫ nên giá đăng mới là 139.048đ.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1937801097%2F45321704329&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik 2x2 QiYi MS bản nam châm (MS 2x2 M) — smooth, hiệu năng tốt so với giá. Dùng chung listing gộp dòng MS của shop nước ngoài (giao hàng 27/11–1/12). Chọn đúng biến thể 2x2 bản M khi đặt.",
+   "group": "2x2-4x4",
    "image": "img/qiyi-ms.jpg",
    "images": [],
-   "description": "Rubik 2x2 QiYi MS bản nam châm (MS 2x2 M) — smooth, hiệu năng tốt so với giá. Dùng chung listing gộp dòng MS của shop nước ngoài (giao hàng 27/11–1/12). Chọn đúng biến thể 2x2 bản M khi đặt.",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Rubik 2x2 QiYi MS M (bản nam châm)",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 139048,
+   "price_checked": "2026-11-23",
+   "price_note": "Biến thể '2x2 Magnets' trong listing gộp MS 10 biến thể (bấm ô vuông biến thể trong app). Giá gốc 159.500₫, voucher app ~13% (20.452₫) ngày 23/11/2026 → giá đăng = giá sau voucher (voucher ≤20%). Stock 491. Giao hàng 27/11–1/12 (shop nước ngoài). Lưu ý: 21/11 giá đăng từng là 142.543đ (gốc 178.179₫, voucher 20%) — giá gốc đã giảm còn 159.500₫ nên giá đăng mới là 139.048đ.",
+   "price_verified": true,
+   "slug": "rubik-qiyi-ms-2x2"
   },
   {
-   "slug": "rubik-moyu-meilong-4m",
-   "name": "Rubik 4x4 MoYu Meilong 4M (có nam châm)",
-   "category": "rubik",
-   "group": "2x2-4x4",
-   "price": 228000,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Biến thể '[4M] Paper Box' (đã chọn đúng ô biến thể trong app; 2 biến thể còn lại [4M] Transparent Box / [4M] Black Sticker). Giá gốc 285.000₫, voucher app 22% (62.700₫) ngày 23/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 46. Lưu ý: biến thể Paper Box chỉ còn 2 cái trong kho lúc kiểm.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1287148189%2F50555682677&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik 4x4 MoYu Meilong 4M có nam châm — 4x4 rẻ nhất dùng được cho bé làm quen 4x4, nam châm hít viên về đúng vị trí. Shop Thần Sấm, đánh giá 5.0/5. Chọn đúng biến thể [4M] Paper Box khi đặt.",
+   "group": "2x2-4x4",
    "image": "img/meilong-4m.jpg",
    "images": [],
-   "description": "Rubik 4x4 MoYu Meilong 4M có nam châm — 4x4 rẻ nhất dùng được cho bé làm quen 4x4, nam châm hít viên về đúng vị trí. Shop Thần Sấm, đánh giá 5.0/5. Chọn đúng biến thể [4M] Paper Box khi đặt.",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Rubik 4x4 MoYu Meilong 4M (có nam châm)",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 228000,
+   "price_checked": "2026-11-23",
+   "price_note": "Biến thể '[4M] Paper Box' (đã chọn đúng ô biến thể trong app; 2 biến thể còn lại [4M] Transparent Box / [4M] Black Sticker). Giá gốc 285.000₫, voucher app 22% (62.700₫) ngày 23/11/2026; giá đăng = gốc −20% theo luật ngày thường. Đã bán 46. Lưu ý: biến thể Paper Box chỉ còn 2 cái trong kho lúc kiểm.",
+   "price_verified": true,
+   "slug": "rubik-moyu-meilong-4m"
   },
   {
-   "slug": "rubik-qiyi-qiming-s2",
-   "name": "Rubik Pyraminx QiYi QiMing S2 Stickerless",
-   "category": "rubik",
-   "group": "bien-the",
-   "price": 60000,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Giá bán hiện tại 60.000₫ (giá niêm yết 90.000₫, giảm 33%), không thấy voucher riêng trong app ngày 23/11/2026 → giá đăng = giá bán. Đã bán 409, đánh giá 4.8/5 (46 đánh giá), No. 3 Best Selling Rubik's Tam Giác. Lưu ý: 21/11 giá sau voucher từng là 38.484₫ (gốc 60.000₫, voucher 36%) → giá đăng 48.000đ; sáng 23/11 listing đổi giá niêm yết lên 90.000₫ nên giá đăng theo giá mới là 60.000đ.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1629125729%2F57509560301&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik Pyraminx QiYi QiMing S2 stickerless — khối kim tự tháp dễ nhất, giá vài chục nghìn, bé 6 tuổi làm được. Xếp No. 3 Best Selling Rubik's Tam Giác, đánh giá 4.8/5 (46 đánh giá).",
+   "group": "bien-the",
    "image": "img/qiming-s2.jpg",
    "images": [],
-   "description": "Rubik Pyraminx QiYi QiMing S2 stickerless — khối kim tự tháp dễ nhất, giá vài chục nghìn, bé 6 tuổi làm được. Xếp No. 3 Best Selling Rubik's Tam Giác, đánh giá 4.8/5 (46 đánh giá).",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Rubik Pyraminx QiYi QiMing S2 Stickerless",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 60000,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá bán hiện tại 60.000₫ (giá niêm yết 90.000₫, giảm 33%), không thấy voucher riêng trong app ngày 23/11/2026 → giá đăng = giá bán. Đã bán 409, đánh giá 4.8/5 (46 đánh giá), No. 3 Best Selling Rubik's Tam Giác. Lưu ý: 21/11 giá sau voucher từng là 38.484₫ (gốc 60.000₫, voucher 36%) → giá đăng 48.000đ; sáng 23/11 listing đổi giá niêm yết lên 90.000₫ nên giá đăng theo giá mới là 60.000đ.",
+   "price_verified": true,
+   "slug": "rubik-qiyi-qiming-s2"
   },
   {
-   "slug": "kem-chong-nang-dalba-purple-tone-up-sun-cream-50ml",
-   "name": "Kem chống nắng d'Alba Purple Tone-up Sun Cream 50ml",
+   "aff_link": "https://s.shopee.vn/7VI4cNgNHe",
    "category": "suc-khoe",
    "description": "Kem chống nắng nâng tone tím SPF 50+ PA++++, hiệu chỉnh sắc da xỉn vàng cho da tươi sáng tự nhiên, lớp finish mỏng nhẹ hợp dùng hằng ngày. Chất kem mỏng nhẹ, mịn ráo, dễ tán, không vón cục, không vệt trắng. An toàn cho cả da nhạy cảm; chiết xuất nấm Truffle, rau má, Stellaria Media. Lưu ý: chỉ có 1 dung tích 50ml; nhớ chọn đúng phân loại 50ml.",
    "image": "img/kem-chong-nang-dalba-purple-tone-up-sun-cream-50ml.jpg",
@@ -2389,117 +2388,118 @@
     "kem-chong-nang-dalba-purple-tone-up-sun-cream-50ml-x2.jpg",
     "kem-chong-nang-dalba-purple-tone-up-sun-cream-50ml-x3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/7VI4cNgNHe",
+   "name": "Kem chống nắng d'Alba Purple Tone-up Sun Cream 50ml",
+   "posted": "Đăng Facebook 23/11/2026",
    "price": 478720,
    "price_checked": "2026-11-23",
-   "price_verified": true,
    "price_note": "Giá sau voucher (flash 22%, tính theo trần voucher 20% ngày thường), kiểm chứng trong app Shopee ngày 23/11/2026 (phân loại 50ml duy nhất); giá và mã có thể thay đổi theo đợt sale.",
-   "posted": "Đăng Facebook 23/11/2026"
+   "price_verified": true,
+   "slug": "kem-chong-nang-dalba-purple-tone-up-sun-cream-50ml"
   },
   {
-   "slug": "rubik-moyu-meilong-3",
-   "name": "Rubik 3x3 MoYu Meilong 3 (Stickerless)",
-   "category": "rubik",
-   "group": "3x3-chinh",
-   "price": 48000,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Giá sau voucher 48.000₫ ngày 23/11/2026 (giá gốc 60.000₫, voucher app 20% → giá đăng = giá sau voucher). Đã bán 100k+, 2 biến thể. Shop Little Kobo. Lưu ý: Little Kobo ghi chú Meilong 3 và 3C thực chất cùng 1 cube, khác vỏ hộp (MoYu đổi tên từ 2021).",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F104376285%2F7440481798&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik 3x3 MoYu Meilong 3 stickerless — khối 3x3 siêu rẻ bán chạy nhất Shopee VN (100k+ đã bán), hợp cho bé thử xem có thích Rubik không trước khi lên khối có nam châm.",
+   "group": "3x3-chinh",
    "image": "img/meilong-3.jpg",
    "images": [],
-   "description": "Rubik 3x3 MoYu Meilong 3 stickerless — khối 3x3 siêu rẻ bán chạy nhất Shopee VN (100k+ đã bán), hợp cho bé thử xem có thích Rubik không trước khi lên khối có nam châm.",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Rubik 3x3 MoYu Meilong 3 (Stickerless)",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 48000,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá sau voucher 48.000₫ ngày 23/11/2026 (giá gốc 60.000₫, voucher app 20% → giá đăng = giá sau voucher). Đã bán 100k+, 2 biến thể. Shop Little Kobo. Lưu ý: Little Kobo ghi chú Meilong 3 và 3C thực chất cùng 1 cube, khác vỏ hộp (MoYu đổi tên từ 2021).",
+   "price_verified": true,
+   "slug": "rubik-moyu-meilong-3"
   },
   {
-   "slug": "rubik-qiyi-sail-w",
-   "name": "Rubik 3x3 QiYi Sail W",
-   "category": "rubik",
-   "group": "3x3-chinh",
-   "price": 60000,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Giá bán 60.000₫ ngày 23/11/2026 (giá niêm yết 100.000₫, giảm 40%, không voucher → giá đăng = giá bán). Đã bán 100k+, 3 biến thể, No. 3 Best Selling Block Rubik 3x3. Shop Little Kobo, bản màu Đen. Lưu ý: ảnh chính của listing là khung video nên ảnh catalog crop từ thumbnail sạch trong kết quả tìm kiếm app (hơi mờ do phóng từ thumbnail).",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1436247055%2F41122989588&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik 3x3 QiYi Sail W — tốc độ vừa phải, dễ làm quen cho người mới, giá vài chục nghìn, đã bán 100k+ trên Shopee VN.",
+   "group": "3x3-chinh",
    "image": "img/sail-w.jpg",
    "images": [],
-   "description": "Rubik 3x3 QiYi Sail W — tốc độ vừa phải, dễ làm quen cho người mới, giá vài chục nghìn, đã bán 100k+ trên Shopee VN.",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Rubik 3x3 QiYi Sail W",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 60000,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá bán 60.000₫ ngày 23/11/2026 (giá niêm yết 100.000₫, giảm 40%, không voucher → giá đăng = giá bán). Đã bán 100k+, 3 biến thể, No. 3 Best Selling Block Rubik 3x3. Shop Little Kobo, bản màu Đen. Lưu ý: ảnh chính của listing là khung video nên ảnh catalog crop từ thumbnail sạch trong kết quả tìm kiếm app (hơi mờ do phóng từ thumbnail).",
+   "price_verified": true,
+   "slug": "rubik-qiyi-sail-w"
   },
   {
-   "slug": "rubik-moyu-meilong-2",
-   "name": "Rubik 2x2 MoYu Meilong 2 (Stickerless, 50mm)",
-   "category": "rubik",
-   "group": "2x2-4x4",
-   "price": 55200,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Giá sau voucher 55.200₫ ngày 23/11/2026 (giá gốc 69.000₫, voucher app 20% → giá đăng = giá sau voucher). Kích thước 50mm. Shop Little Kobo. Giao 25–29/11.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1436247055%2F43173062767&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik 2x2 MoYu Meilong 2 stickerless 50mm — 2x2 rẻ, bé thành công sớm nên rất nên mua kèm 3x3.",
+   "group": "2x2-4x4",
    "image": "img/meilong-2.jpg",
    "images": [],
-   "description": "Rubik 2x2 MoYu Meilong 2 stickerless 50mm — 2x2 rẻ, bé thành công sớm nên rất nên mua kèm 3x3.",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Rubik 2x2 MoYu Meilong 2 (Stickerless, 50mm)",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 55200,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá sau voucher 55.200₫ ngày 23/11/2026 (giá gốc 69.000₫, voucher app 20% → giá đăng = giá sau voucher). Kích thước 50mm. Shop Little Kobo. Giao 25–29/11.",
+   "price_verified": true,
+   "slug": "rubik-moyu-meilong-2"
   },
   {
-   "slug": "rubik-yj-mgc-2x2",
-   "name": "Rubik 2x2 YJ MGC 2x2 (có nam châm)",
-   "category": "rubik",
-   "group": "2x2-4x4",
-   "price": 232062,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Giá sau voucher 221.736₫ ngày 23/11/2026 (giá gốc 290.077₫, voucher app ~23,6% → giá đăng = gốc −20% theo luật ngày thường). Đã bán 25, 2 biến thể (Đen / Stickerless). Shop cubeflagship.vn (nước ngoài), giao 28/11.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1039415979%2F20083034047&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik 2x2 YJ MGC 2x2 có nam châm — corner-cutting khét tiếng, xoay nhanh, ổn định, dùng lâu được.",
+   "group": "2x2-4x4",
    "image": "img/mgc-2x2.jpg",
    "images": [],
-   "description": "Rubik 2x2 YJ MGC 2x2 có nam châm — corner-cutting khét tiếng, xoay nhanh, ổn định, dùng lâu được.",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Rubik 2x2 YJ MGC 2x2 (có nam châm)",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 232062,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá sau voucher 221.736₫ ngày 23/11/2026 (giá gốc 290.077₫, voucher app ~23,6% → giá đăng = gốc −20% theo luật ngày thường). Đã bán 25, 2 biến thể (Đen / Stickerless). Shop cubeflagship.vn (nước ngoài), giao 28/11.",
+   "price_verified": true,
+   "slug": "rubik-yj-mgc-2x2"
   },
   {
-   "slug": "rubik-moyu-meilong-pyraminx",
-   "name": "Rubik Pyraminx MoYu Meilong (kim tự tháp)",
-   "category": "rubik",
-   "group": "bien-the",
-   "price": 75000,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Giá bán 75.000₫ ngày 23/11/2026 (không voucher → giá đăng = giá bán). Đã bán 62, đánh giá 5.0/5 (9 đánh giá). Lưu ý: ảnh chính của listing là khung video banner thương hiệu Meilong; ảnh dùng trong catalog là ảnh render Pyraminx từ gallery của listing.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1415042281%2F28095453830&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik Pyraminx MoYu Meilong — khối kim tự tháp dễ nhất, giá vài chục nghìn, bé 6 tuổi làm được.",
+   "group": "bien-the",
    "image": "img/pyraminx-meilong.jpg",
    "images": [],
-   "description": "Rubik Pyraminx MoYu Meilong — khối kim tự tháp dễ nhất, giá vài chục nghìn, bé 6 tuổi làm được.",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Rubik Pyraminx MoYu Meilong (kim tự tháp)",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 75000,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá bán 75.000₫ ngày 23/11/2026 (không voucher → giá đăng = giá bán). Đã bán 62, đánh giá 5.0/5 (9 đánh giá). Lưu ý: ảnh chính của listing là khung video banner thương hiệu Meilong; ảnh dùng trong catalog là ảnh render Pyraminx từ gallery của listing.",
+   "price_verified": true,
+   "slug": "rubik-moyu-meilong-pyraminx"
   },
   {
-   "slug": "rubik-moyu-rs-skewb-m",
-   "name": "Rubik Skewb MoYu RS Skewb M (có nam châm)",
-   "category": "rubik",
-   "group": "bien-the",
-   "price": 144251,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Giá sau voucher 144.251₫ ngày 23/11/2026 (giá gốc 174.937₫, voucher app ~17,5% → giá đăng = giá sau voucher). Đã bán 657. Listing gộp 'RS Skewb MeiLong Variant' của Little Kobo — chọn đúng biến thể RS Skewb M khi đặt.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F104376285%2F21127971031&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Rubik Skewb MoYu RS Skewb M có nam châm — chỉ cần tầm rẻ nhất có nam châm, nhiều người dùng làm main.",
+   "group": "bien-the",
    "image": "img/rs-skewb-m.jpg",
    "images": [],
-   "description": "Rubik Skewb MoYu RS Skewb M có nam châm — chỉ cần tầm rẻ nhất có nam châm, nhiều người dùng làm main.",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Rubik Skewb MoYu RS Skewb M (có nam châm)",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 144251,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá sau voucher 144.251₫ ngày 23/11/2026 (giá gốc 174.937₫, voucher app ~17,5% → giá đăng = giá sau voucher). Đã bán 657. Listing gộp 'RS Skewb MeiLong Variant' của Little Kobo — chọn đúng biến thể RS Skewb M khi đặt.",
+   "price_verified": true,
+   "slug": "rubik-moyu-rs-skewb-m"
   },
   {
-   "slug": "rubik-hop-dung-qiyi",
-   "name": "Hộp đựng Rubik QiYi (đựng cube 2x2/3x3 dưới 57mm)",
-   "category": "rubik",
-   "group": "phu-kien",
-   "price": 35000,
-   "price_verified": true,
-   "price_checked": "2026-11-23",
-   "price_note": "Giá bán 35.000₫ ngày 23/11/2026 (không voucher → giá đăng = giá bán). Đã bán 1k+, đánh giá 4.9/5. Hộp đựng cube 2x2/3x3 dưới 57mm, chống bụi/ẩm/trầy. Shop Đồ Chơi Rubik (The Gioi Rubik). Lưu ý: ảnh chính của listing là khung video (tay cầm hộp + cube đỏ trong hộp); ảnh dùng trong catalog crop từ khung video đó.",
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F139134332%2F13239610490&affiliate_id=17374300035&sub_id=----",
+   "category": "rubik",
+   "description": "Hộp đựng Rubik QiYi — đựng cube 2x2/3x3 dưới 57mm, chống bụi/ẩm/trầy, chống rơi vỡ cho bé mang đi học.",
+   "group": "phu-kien",
    "image": "img/hop-qiyi.jpg",
    "images": [],
-   "description": "Hộp đựng Rubik QiYi — đựng cube 2x2/3x3 dưới 57mm, chống bụi/ẩm/trầy, chống rơi vỡ cho bé mang đi học.",
-   "posted": "Thêm vào web 23/11/2026"
+   "name": "Hộp đựng Rubik QiYi (đựng cube 2x2/3x3 dưới 57mm)",
+   "posted": "Thêm vào web 23/11/2026",
+   "price": 35000,
+   "price_checked": "2026-11-23",
+   "price_note": "Giá bán 35.000₫ ngày 23/11/2026 (không voucher → giá đăng = giá bán). Đã bán 1k+, đánh giá 4.9/5. Hộp đựng cube 2x2/3x3 dưới 57mm, chống bụi/ẩm/trầy. Shop Đồ Chơi Rubik (The Gioi Rubik). Lưu ý: ảnh chính của listing là khung video (tay cầm hộp + cube đỏ trong hộp); ảnh dùng trong catalog crop từ khung video đó.",
+   "price_verified": true,
+   "slug": "rubik-hop-dung-qiyi"
   },
   {
    "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F55552606%2F1018765050&affiliate_id=17374300035&sub_id=shopeevideo----",
@@ -2556,16 +2556,16 @@
    "slug": "set-10-khan-lau-da-nang-microfiber-kdn"
   },
   {
-   "slug": "may-loc-khong-khi-levoit-core-400s",
-   "name": "Máy lọc không khí Levoit Core 400S",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F681322306%2F16547381003&affiliate_id=17374300035&sub_id=shopeevideo----",
    "category": "nha-bep",
    "description": "Máy lọc không khí Levoit Core 400S — bản thông minh có app, cho phòng khách rộng. Lõi lọc 3 lớp HEPA H13 và than hoạt tính — lọc tới 99,97% bụi mịn PM 0.3; cảm biến bụi laser AirSight Plus, chế độ Auto tự chỉnh tốc độ quạt; công nghệ VortexAir hút gió 360 độ, lưu lượng gió lên tới 442 m³/h; điều khiển từ xa qua app VeSync, ra lệnh bằng giọng nói, chế độ ngủ chỉ 24dB. Lưu ý thật: đây là bản Core 400S (38W, có app + cảm biến laser + Auto) — đừng nhầm với Core 300S nhỏ hơn hay Core 200S. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
    "image": "img/may-loc-khong-khi-levoit-core-400s.jpg",
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F681322306%2F16547381003&affiliate_id=17374300035&sub_id=shopeevideo----",
-   "price": null,
-   "price_verified": false,
-   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "name": "Máy lọc không khí Levoit Core 400S",
    "posted": "Đăng clip Facebook 20:00 23/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "may-loc-khong-khi-levoit-core-400s",
    "youtube": "https://www.youtube.com/shorts/DW9dt9Ow8VI"
   },
   {
@@ -2582,28 +2582,28 @@
    "youtube": "https://www.youtube.com/watch?v=3HRn9opK9OQ"
   },
   {
-   "slug": "noi-chien-khong-dau-philips-hd9860-90",
-   "name": "Nồi chiên không dầu Philips Airfryer XXL HD9860/90 7.3L",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F360900077%2F56671926704&affiliate_id=17374300035&sub_id=shopeevideo----",
    "category": "nha-bep",
    "description": "Nồi chiên không dầu Philips Airfryer XXL HD9860/90 7,3L — Smart Sensing tự chỉnh thời gian và nhiệt độ theo món, Twin TurboStar tách mỡ thừa, giảm tới 90% chất béo, 2225W, 5 chương trình nấu sẵn, giữ ấm 30 phút. Đã đăng Page Facebook của Hàng Tốt Giá Tốt.",
    "image": "img/noi-chien-khong-dau-philips-hd9860-90.jpg",
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F360900077%2F56671926704&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "name": "Nồi chiên không dầu Philips Airfryer XXL HD9860/90 7.3L",
+   "posted": "Đăng Facebook 24/11/2026",
    "price": null,
    "price_verified": false,
-   "posted": "Đăng Facebook 24/11/2026",
+   "slug": "noi-chien-khong-dau-philips-hd9860-90",
    "youtube": "https://www.youtube.com/watch?v=YtgXZkBXeJI"
   },
   {
-   "slug": "may-tao-am-xiaomi-humidifier-2-lite",
-   "name": "Máy tạo ẩm Xiaomi Humidifier 2 Lite MJJSQ06DY",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1396654883%2F27169063405&affiliate_id=17374300035&sub_id=shopeevideo----",
    "category": "nha-bep",
    "description": "Máy tạo ẩm Xiaomi Humidifier 2 Lite MJJSQ06DY (bản quốc tế BHR6605EU) — bình 4 lít chạy tới 30 giờ, phun sương siêu mịn 300ml/giờ, vòi xoay 360°, ion bạc kháng khuẩn tới 99,9%; châm nước từ trên không cần nhấc nắp, miệng bình rộng 185mm, êm dưới 38dB, tự ngắt khi hết nước. Lưu ý thật: đây là bản Lite chỉnh bằng núm xoay — KHÔNG phải Smart Humidifier 2 MJJSQ05DY (bản 4,5L có UV-C và app Mi Home), không kết nối app, không màn hình hiển thị độ ẩm. Sản phẩm đã lên clip review trên Facebook và Shopee Video.",
    "image": "img/may-tao-am-xiaomi-humidifier-2-lite.jpg",
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1396654883%2F27169063405&affiliate_id=17374300035&sub_id=shopeevideo----",
-   "price": null,
-   "price_verified": false,
-   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "name": "Máy tạo ẩm Xiaomi Humidifier 2 Lite MJJSQ06DY",
    "posted": "Đăng clip Facebook 20:00 24/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "may-tao-am-xiaomi-humidifier-2-lite",
    "youtube": "https://www.youtube.com/watch?v=Fzk1DouNcus"
   },
   {
@@ -2611,21 +2611,20 @@
    "category": "suc-khoe",
    "description": "Combo làm sạch cho da dầu mụn: Nước tẩy trang bí đao 500ml (công nghệ micellar + NatraGem S150, chiết xuất bí đao, rau má, tinh dầu tràm trà, không cồn) + Gel rửa mặt bí đao 310ml (chiết xuất bí đao, rau má, tràm trà & BHA, giảm dầu & mụn). 100% thuần chay, không thử nghiệm trên động vật. Lưu ý: combo cố định 2 món, không tách lẻ; hợp da dầu/mụn, da khô hoặc nhạy cảm nên thử trước vì gel có BHA + tinh dầu tràm trà.",
    "image": "img/combo-nuoc-tay-trang-bi-dao-500ml-gel-rua-mat-bi-dao-310ml-cocoon.jpg",
+   "images": [
+    "combo-nuoc-tay-trang-bi-dao-500ml-gel-rua-mat-bi-dao-310ml-cocoon-x2.jpg",
+    "combo-nuoc-tay-trang-bi-dao-500ml-gel-rua-mat-bi-dao-310ml-cocoon-x3.jpg"
+   ],
    "name": "Combo Nước tẩy trang bí đao 500ml & Gel rửa mặt bí đao 310ml Cocoon",
    "posted": "Đăng Facebook 25/11/2026",
    "price": 299000,
    "price_checked": "2026-11-25",
    "price_note": "Giá sau mã trong app (combo giảm 42% còn 349.000đ, gốc 598.000đ) — kiểm chứng trong app Shopee ngày 25/11/2026; giảm vượt trần 20% ngày thường, mã theo tài khoản, giá và mã có thể thay đổi theo đợt sale.",
    "price_verified": true,
-   "slug": "combo-nuoc-tay-trang-bi-dao-500ml-gel-rua-mat-bi-dao-310ml-cocoon",
-   "images": [
-    "combo-nuoc-tay-trang-bi-dao-500ml-gel-rua-mat-bi-dao-310ml-cocoon-x2.jpg",
-    "combo-nuoc-tay-trang-bi-dao-500ml-gel-rua-mat-bi-dao-310ml-cocoon-x3.jpg"
-   ]
+   "slug": "combo-nuoc-tay-trang-bi-dao-500ml-gel-rua-mat-bi-dao-310ml-cocoon"
   },
   {
-   "slug": "may-hut-sua-momcozy-v2-pro",
-   "name": "Máy hút sữa Momcozy V2 Pro",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F802666005%2F24842998003&affiliate_id=17374300035&sub_id=shopeevideo----",
    "category": "me-be",
    "description": "Máy hút sữa Momcozy V2 Pro — động cơ rời bỏ túi chỉ 127g, cup giọt nước giấu kín trong áo, 3 chế độ, 9 mức hút, lực hút tới 288mmHg chuẩn bệnh viện, êm dưới 48dB, pin 180 phút (4–6 cữ mỗi lần sạc). Lưu ý thật: V2 Pro là bản động cơ rời + ống nối + cup giọt nước (semi-wearable), KHÁC M6/M5/S9 Pro/S12 Pro đeo gọn all-in-one. Sản phẩm đã lên Shopee Video.",
    "image": "img/may-hut-sua-momcozy-v2-pro.jpg",
@@ -2633,16 +2632,16 @@
     "may-hut-sua-momcozy-v2-pro-x2.jpg",
     "may-hut-sua-momcozy-v2-pro-x3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F802666005%2F24842998003&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "name": "Máy hút sữa Momcozy V2 Pro",
+   "posted": "Đăng Shopee Video 25/11/2026",
    "price": 4570000,
-   "price_verified": true,
    "price_checked": "2026-11-25",
    "price_note": "Giá gắn trên Shopee Video 25/11/2026 trong app Shopee (shop opaanlp) — kiểm chứng trong app lúc đăng; giá có thể thay đổi theo đợt sale.",
-   "posted": "Đăng Shopee Video 25/11/2026"
+   "price_verified": true,
+   "slug": "may-hut-sua-momcozy-v2-pro"
   },
   {
-   "slug": "may-tam-nuoc-waterpik-wp-560",
-   "name": "Máy tăm nước không dây Waterpik Cordless Advanced WP-560",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1201730776%2F24117093630&affiliate_id=17374300035&sub_id=shopeevideo----",
    "category": "suc-khoe",
    "description": "Máy tăm nước không dây Waterpik Cordless Advanced WP-560 — 3 mức áp lực 45–75 PSI, bình 207ml xịt khoảng 45 giây, kèm 4 đầu tăm, đầu xoay 360°, sạc nam châm đầy trong 4 giờ, chống nước, chuẩn ADA Accepted. Lưu ý thật: WP-560 (trắng) / WP-562 (đen) / WP-563 (xanh) là cùng một máy, chỉ khác màu — đừng nhầm với WP-580 2.0 hay WP-660 Aquarius để bàn. Sản phẩm đã lên Shopee Video.",
    "image": "img/may-tam-nuoc-waterpik-wp-560.jpg",
@@ -2650,15 +2649,15 @@
     "may-tam-nuoc-waterpik-wp-560-x2.jpg",
     "may-tam-nuoc-waterpik-wp-560-x3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1201730776%2F24117093630&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "name": "Máy tăm nước không dây Waterpik Cordless Advanced WP-560",
+   "posted": "Đăng Shopee Video 25/11/2026",
    "price": null,
-   "price_verified": false,
    "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
-   "posted": "Đăng Shopee Video 25/11/2026"
+   "price_verified": false,
+   "slug": "may-tam-nuoc-waterpik-wp-560"
   },
   {
-   "slug": "robot-hut-bui-dreame-d9-max-gen-2",
-   "name": "Robot hút bụi lau nhà Dreame D9 Max Gen 2",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F472461425%2F5596631323&affiliate_id=17374300035&sub_id=shopeevideo----",
    "category": "nha-bep",
    "description": "Robot hút bụi lau nhà Dreame D9 Max Gen 2 — lực hút Vormax 6000Pa, hộp bụi 570ml + bình nước 235ml vừa hút vừa lau, LiDAR Pathfinder lưu tới 3 tầng, pin 5200mAh dọn tới 285 phút, chổi cao su chống rối. Lưu ý thật: đây là D9 Max GEN 2 (6000Pa, app Dreamehome) — KHÔNG phải D9 Max gen 1 (4000Pa, app Mi Home) và KHÔNG có dock tự đổ rác. Listing gộp 3 mã F20 / D9 Max Gen 2 / D20 — khi mua chọn đúng biến thể D9 Max Gen 2. Sản phẩm đã lên clip review Facebook và Shopee Video.",
    "image": "img/robot-hut-bui-dreame-d9-max-gen-2.jpg",
@@ -2666,15 +2665,15 @@
     "robot-hut-bui-dreame-d9-max-gen-2-x2.jpg",
     "robot-hut-bui-dreame-d9-max-gen-2-x3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F472461425%2F5596631323&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "name": "Robot hút bụi lau nhà Dreame D9 Max Gen 2",
+   "posted": "Đăng clip Facebook 10:00 25/11/2026",
    "price": null,
-   "price_verified": false,
    "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
-   "posted": "Đăng clip Facebook 10:00 25/11/2026"
+   "price_verified": false,
+   "slug": "robot-hut-bui-dreame-d9-max-gen-2"
   },
   {
-   "slug": "sac-du-phong-baseus-blade-h1-100w-20000mah",
-   "name": "Sạc dự phòng Baseus Blade H1 100W 20000mAh",
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F315099224%2F26073254673&affiliate_id=17374300035&sub_id=shopeevideo----",
    "category": "dien-tu",
    "description": "Sạc dự phòng Baseus Blade H1 100W 20000mAh — công suất 100W chuẩn PD, 4 cổng (2 USB-C + 2 USB-A) sạc 4 máy cùng lúc, màn hình LED hiện % pin, công suất và thời gian sạc, pin 20000mAh (74Wh), sạc lại đầy khoảng 1,5 giờ với củ 65W, mỏng như laptop, mang lên máy bay được. Lưu ý thật: đây là Blade H1 — tên bán hiện tại của dòng Blade 100W (bản HD, mã PPBLD100HD) — đừng nhầm Blade 2 (12000mAh/65W) hay Adaman 22.5W. Sản phẩm đã lên Shopee Video.",
    "image": "img/sac-du-phong-baseus-blade-h1-100w-20000mah.jpg",
@@ -2682,11 +2681,79 @@
     "sac-du-phong-baseus-blade-h1-100w-20000mah-x2.jpg",
     "sac-du-phong-baseus-blade-h1-100w-20000mah-x3.jpg"
    ],
-   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F315099224%2F26073254673&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "name": "Sạc dự phòng Baseus Blade H1 100W 20000mAh",
+   "posted": "Đăng Shopee Video 25/11/2026",
    "price": null,
-   "price_verified": false,
    "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
-   "posted": "Đăng Shopee Video 25/11/2026"
+   "price_verified": false,
+   "slug": "sac-du-phong-baseus-blade-h1-100w-20000mah"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F167049281%2F20669844332&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "category": "nha-bep",
+   "description": "Robot hút bụi lau nhà Ecovacs Deebot T10 — lực hút 3000Pa, lau rung OZMO Pro 3.0, camera tránh vật cản AIVI 3.0, pin 5200mAh dọn tới 260 phút, hộp bụi 400ml + bình nước 240ml. Lưu ý thật: bản quốc tế và bản nội địa là 2 biến thể khác nhau — chọn Bản quốc tế khi mua; thời gian dọn 260 phút theo trang hãng, listing ghi ~3 giờ. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/robot-hut-bui-ecovacs-deebot-t10.jpg",
+   "images": [],
+   "name": "Robot hút bụi lau nhà Ecovacs Deebot T10",
+   "posted": "Đăng clip Facebook 10:00 27/11/2026; Đăng Shopee Video 27/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "robot-hut-bui-ecovacs-deebot-t10"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F681322306%2F24310587174&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "category": "nha-bep",
+   "description": "Máy lọc không khí Levoit Core 600S — màng HEPA H13 lọc 99,97% hạt PM0.3, CADR 697 m³/h, dùng cho phòng tới 147m², cảm biến AirSight Plus, luồng khí VortexAir 360°, điều khiển qua app VeSync. Lưu ý thật: CADR 697 m³/h và diện tích 147m² theo sách hướng dẫn; listing ghi CADR 711 và 148m². Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-loc-khong-khi-levoit-core-600s.jpg",
+   "images": [],
+   "name": "Máy lọc không khí Levoit Core 600S",
+   "posted": "Đăng clip Facebook 14:00 27/11/2026; Đăng Shopee Video 27/11/2026",
+   "price": 5692400,
+   "price_checked": "2026-11-27",
+   "price_note": "Giá thẻ listing Mall Levoit Flagship, kiểm chứng trong app Shopee đêm 26→27/11/2026.",
+   "price_verified": true,
+   "slug": "may-loc-khong-khi-levoit-core-600s"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F443451731%2F45252268783&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "category": "nha-bep",
+   "description": "Máy pha cà phê viên nén Nespresso Essenza Mini — bơm áp suất 19 bar, nóng máy trong 25 giây, pha Espresso 40ml / Lungo 110ml, bình nước 0,6L, nặng chỉ 2,3kg, tự tắt sau 9 phút. Lưu ý thật: các mã EN85/BEC250/XN1101/C30 là cùng một máy, chỉ khác hậu tố thị trường; tránh bản C110 nội địa Nhật dùng điện 100V. Sản phẩm đã lên clip review trên Facebook và Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-pha-ca-phe-vien-nen-nespresso-essenza-mini.jpg",
+   "images": [],
+   "name": "Máy pha cà phê viên nén Nespresso Essenza Mini",
+   "posted": "Đăng clip Facebook 20:00 27/11/2026; Đăng Shopee Video 27/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "may-pha-ca-phe-vien-nen-nespresso-essenza-mini"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1592654040%2F43033627414&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "category": "suc-khoe",
+   "description": "Máy sấy tóc Laifen SE — động cơ 105.000 vòng/phút, tốc độ gió 21 m/s, 200 triệu ion âm giảm tĩnh điện, kiểm soát nhiệt 50 lần/giây, nặng 407g, vòng LED đổi màu theo nhiệt. Lưu ý thật: đây là bản SE — đừng nhầm SE Lite, SE 2, Swift hay Air. Sản phẩm đã lên Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/may-say-toc-laifen-se.jpg",
+   "images": [],
+   "name": "Máy sấy tóc Laifen SE",
+   "posted": "Đăng Shopee Video 27/11/2026",
+   "price": 1816400,
+   "price_checked": "2026-11-27",
+   "price_note": "Giá sau Voucher Shopee Special 24% off (giá thẻ 1.864.200đ), kiểm chứng trong app Shopee đêm 26→27/11/2026.",
+   "price_verified": true,
+   "slug": "may-say-toc-laifen-se"
+  },
+  {
+   "aff_link": "https://s.shopee.vn/an_redir?origin_link=https%3A%2F%2Fshopee.vn%2Fproduct%2F1925585414%2F50868557497&affiliate_id=17374300035&sub_id=shopeevideo----",
+   "category": "nha-bep",
+   "description": "Nồi chiên không dầu Cosori Dual Blaze P585S 6.4L — 2 mâm nhiệt trên dưới chiên 2 mặt không cần lật, công nghệ 360 ThermoIQ, 11 chế độ nấu, công suất 1700W, dung tích 6.4L. Lưu ý thật: mã P585S bản Việt Nam là cùng dòng CAF-P583S quốc tế, chỉ khác hậu tố thị trường; công suất 1700W bản VN/EU, bản Mỹ 1750W. Sản phẩm đã lên Shopee Video của Hàng Tốt Giá Tốt.",
+   "image": "img/noi-chien-khong-dau-cosori-dual-blaze-p585s-6-4l.jpg",
+   "images": [],
+   "name": "Nồi chiên không dầu Cosori Dual Blaze P585S 6.4L",
+   "posted": "Đăng Shopee Video 27/11/2026",
+   "price": null,
+   "price_note": "Giá tham khảo — chưa kiểm chứng bằng app Shopee; mở Shopee để xem giá ưu đãi hiện tại.",
+   "price_verified": false,
+   "slug": "noi-chien-khong-dau-cosori-dual-blaze-p585s-6-4l"
   }
  ],
  "site": {
